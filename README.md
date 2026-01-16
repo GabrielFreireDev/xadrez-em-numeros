@@ -1,2 +1,93 @@
-# xadrez-em-numeros
-Análise de Desempenho no Chess.com
+# ♟️ Xadrez em Números – Análise de Desempenho no Chess.com
+
+Este projeto tem como objetivo realizar uma **análise de dados de partidas de xadrez online**, utilizando a **API pública do Chess.com**, com foco em **desempenho de jogadores, estatísticas de partidas e comparações globais**, traduzidas e contextualizadas para o **público brasileiro**.
+
+O projeto cobre todo o pipeline de dados, desde a **coleta via API**, passando pela **modelagem analítica**, até a **visualização em dashboards interativos no Power BI**.
+
+---
+
+## 🎯 Objetivos do Projeto
+
+- Analisar a performance de jogadores ao longo do tempo
+- Identificar padrões de jogo (aberturas, modalidades, resultados)
+- Avaliar a evolução de rating por modalidade
+- Comparar o desempenho individual com rankings globais
+- Contextualizar dados por país, com foco no Brasil
+
+---
+
+## 🔌 Fonte de Dados
+
+Os dados são coletados exclusivamente a partir da **API pública do Chess.com**, que disponibiliza informações abertas e gratuitas.
+
+Principais endpoints utilizados:
+- Perfil do jogador
+- Estatísticas por modalidade
+- Arquivos históricos de partidas
+- Classificação global (Leaderboards)
+- Dados por país (Country)
+
+Documentação oficial:  
+https://www.chess.com/news/view/published-data-api
+
+---
+
+## 🏗️ Arquitetura do Projeto
+
+O projeto segue uma abordagem analítica tradicional:
+
+1. **Extração**  
+   Coleta de dados via API pública do Chess.com
+
+2. **Transformação**  
+   Limpeza, padronização, tradução de campos e modelagem dos dados
+
+3. **Carga**  
+   Armazenamento dos dados tratados para consumo analítico
+
+4. **Visualização**  
+   Dashboards desenvolvidos no Power BI
+
+---
+
+## 📊 Dashboards (em desenvolvimento)
+
+Os dashboards abordarão:
+- Visão geral de desempenho
+- Evolução de rating
+- Análise por modalidade (blitz, rapid, bullet)
+- Aberturas mais jogadas e taxa de vitória
+- Comparação com rankings globais
+- Contexto geográfico por país
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Python
+- API pública do Chess.com
+- Pandas
+- Power BI
+- Git & GitHub
+
+---
+
+## 📌 Observações
+
+- Todos os dados utilizados são públicos
+- O projeto não realiza nenhuma ação autenticada ou privada
+- As análises refletem apenas os dados disponíveis via API
+
+---
+
+## 🚀 Status do Projeto
+
+🔄 Em desenvolvimento
+
+---
+
+## 👤 Autor
+
+Gabriel Freire  
+Projeto desenvolvido para fins de estudo, portfólio e prática em análise de dados.
+
