@@ -6,23 +6,30 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 
 ## 📘 Dimensões
 
-### dim_jogador
+### dim_enxadrista
 
-| Coluna          | Descrição |
-|-----------------|-----------|
-| jogador_id      | Identificador interno do jogador |
-| player_id_api   | Identificador original da API do Chess.com |
-| username        | Nome de usuário no Chess.com |
-| nome            | Nome real do jogador |
-| titulo          | Título oficial (GM, IM, FM, etc.) |
-| avatar_url      | URL da imagem do perfil |
-| perfil_url      | Link do perfil no Chess.com |
-| seguidores      | Quantidade de seguidores |
-| pais_id         | Chave estrangeira para dim_pais |
-| data_entrada    | Data de entrada no Chess.com |
-| status          | Status da conta |
-| eh_streamer     | Indica se o jogador é streamer |
-| verificado      | Indica se a conta é verificada |
+| Coluna                | Descrição |
+|-----------------------|-----------|
+| enxadrista_id         | Identificador interno do enxadrista |
+| player_id_api         | Identificador do enxadrista na API do Chess.com |
+| username              | Nome de usuário no Chess.com |
+| nome                  | Nome real do enxadrista |
+| avatar_url            | URL da imagem do perfil |
+| perfil_url            | Link do perfil no Chess.com |
+| seguidores            | Quantidade de seguidores |
+| status                | Status da conta no Chess.com |
+| eh_streamer           | Indica se o enxadrista é streamer |
+| verificado            | Indica se a conta é verificada |
+| data_entrada          | Data de entrada no Chess.com |
+| pais_id               | Chave estrangeira para dim_pais |
+| titulo_chesscom       | Título exibido no Chess.com (GM, IM, FM etc.) |
+| titulo_fide           | Título oficial da FIDE |
+| fide_id               | Identificador oficial do enxadrista na FIDE |
+| rating_fide_rapid     | Rating FIDE na modalidade rápida |
+| jogos_fide_rapid      | Quantidade de partidas consideradas no rating FIDE rápido |
+| ano_nascimento_fide   | Ano de nascimento segundo a FIDE |
+| mes_referencia_fide   | Mês de referência do rating FIDE |
+
 
 ---
 
@@ -85,7 +92,7 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 
 | Coluna                      | Descrição |
 |-----------------------------|-----------|
-| jogador_id                  | Chave estrangeira para dim_jogador |
+| enxadrista_id               | Chave estrangeira para dim enxadrista |
 | modalidade_id               | Chave estrangeira para dim_modalidade |
 | data_id                     | Chave estrangeira para dim_tempo (mês) |
 | total_partidas              | Total de partidas no mês |
@@ -93,7 +100,7 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 | derrotas                    | Total de derrotas |
 | empates                     | Total de empates |
 | partidas_ranqueadas         | Quantidade de partidas ranqueadas |
-| rating_medio_jogador        | Rating médio do jogador |
+| rating_medio enxadrista     | Rating médio do enxadrista |
 | rating_medio_adversario     | Rating médio dos adversários |
 | diferenca_media_rating      | Diferença média de rating |
 | duracao_media_partida_seg   | Duração média das partidas (segundos) |
@@ -103,14 +110,14 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 
 ---
 
-### fato_estatisticas_jogador
+### fato_estatisticas enxadrista
 
 | Coluna              | Descrição |
 |---------------------|-----------|
-| jogador_id          | Chave estrangeira para dim_jogador |
+| enxadrista_id       | Chave estrangeira para dim enxadrista |
 | modalidade_id       | Chave estrangeira para dim_modalidade |
 | data_id             | Data do snapshot |
-| rating_atual        | Rating atual do jogador |
+| rating_atual        | Rating atual do enxadrista |
 | melhor_rating       | Melhor rating histórico |
 | vitorias            | Total de vitórias |
 | derrotas            | Total de derrotas |
@@ -122,7 +129,7 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 
 | Coluna           | Descrição |
 |------------------|-----------|
-| jogador_id       | Chave estrangeira para dim_jogador |
+| enxadrista_id    | Chave estrangeira para dim enxadrista |
 | pais_id          | Chave estrangeira para dim_pais |
 | modalidade_id    | Chave estrangeira para dim_modalidade |
 | data_id          | Data do snapshot |
