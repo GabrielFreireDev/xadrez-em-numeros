@@ -2,7 +2,7 @@
 
 Este documento descreve a arquitetura de dados, decisões técnicas e modelagem dimensional utilizadas no projeto.
 
-O projeto utiliza como critério de seleção de enxadristas a presença no Top 50 do ranking do Chess.com, garantindo foco analítico, controle de volume e relevância esportiva
+O projeto utiliza como critério de seleção de enxadristas a presença no Top 50 do ranking do Chess.com, garantindo foco analítico, controle de volume e relevância esportiva, com atualizaçãoes semanais, gerando snapshots históricos que permitem análise de evolução de ranking.
 
 ---
 
