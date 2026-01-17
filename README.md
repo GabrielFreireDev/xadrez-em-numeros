@@ -1,4 +1,4 @@
-# ♟️ Xadrez em Números – Análise de Desempenho no Chess.com
+# ♟️ Xadrez em Números – Análise de Desempenho no Chess.com (Em Desenvolvimento)
 
 Este projeto tem como objetivo realizar uma **análise de dados de partidas de xadrez online**, utilizando a **API pública do Chess.com**, com foco em **desempenho de jogadores, estatísticas de partidas e comparações globais**, traduzidas e contextualizadas para o **público brasileiro**.
 
