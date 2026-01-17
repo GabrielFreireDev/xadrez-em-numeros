@@ -52,7 +52,7 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 
 ---
 
-### dim_tempo
+### dim_calendario
 
 | Coluna            | Descrição |
 |-------------------|-----------|
