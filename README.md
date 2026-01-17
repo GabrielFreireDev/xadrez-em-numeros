@@ -8,11 +8,32 @@ O projeto cobre todo o pipeline de dados, desde a **coleta via API**, passando p
 
 ## 🎯 Objetivos do Projeto
 
-- Analisar a performance de jogadores ao longo do tempo
-- Identificar padrões de jogo (aberturas, modalidades, resultados)
-- Avaliar a evolução de rating por modalidade
-- Comparar o desempenho individual com rankings globais
-- Contextualizar dados por país, com foco no Brasil
+- Analisar o desempenho de jogadores de xadrez online
+- Comparar modalidades **Blitz**, **Rapid** e **Bullet**
+- Acompanhar evolução de rating ao longo do tempo
+- Avaliar rankings globais (Top 50)
+- Explorar padrões de desempenho por país e abertura
+
+---
+
+## 📊 O que o dashboard responde?
+
+- Analisar o desempenho de jogadores de xadrez online
+- Comparar modalidades **Blitz**, **Rapid** e **Bullet**
+- Acompanhar evolução de rating ao longo do tempo
+- Avaliar rankings globais (Top 50)
+- Explorar padrões de desempenho por país e abertura
+
+---
+
+## 🌍 Público-alvo
+
+- Analistas de dados
+- Entusiastas de xadrez
+- Comunidade brasileira de BI
+- Recrutadores e gestores técnicos
+
+> Todos os dados e métricas estão **em português**, para melhor entendimento geral.
 
 ---
 
@@ -32,21 +53,17 @@ https://www.chess.com/news/view/published-data-api
 
 ---
 
-## 🏗️ Arquitetura do Projeto
+## 🏗️ Arquitetura e Modelagem
 
-O projeto segue uma abordagem analítica tradicional:
+O projeto utiliza:
+- Modelo dimensional (estrela)
+- Tabelas fato com granularidade bem definida
+- Dimensões reutilizáveis
+- Snapshots temporais
 
-1. **Extração**  
-   Coleta de dados via API pública do Chess.com
-
-2. **Transformação**  
-   Limpeza, padronização, tradução de campos e modelagem dos dados
-
-3. **Carga**  
-   Armazenamento dos dados tratados para consumo analítico
-
-4. **Visualização**  
-   Dashboards desenvolvidos no Power BI
+📄 Detalhes técnicos completos em:
+- `docs/arquitetura.md`
+- `docs/dicionario_dados.md`
 
 ---
 
