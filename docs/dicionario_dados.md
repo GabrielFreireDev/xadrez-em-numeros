@@ -27,6 +27,10 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 | fide_id               | Identificador oficial do enxadrista na FIDE |
 | rating_fide_rapid     | Rating FIDE na modalidade rápida |
 | jogos_fide_rapid      | Quantidade de partidas consideradas no rating FIDE rápido |
+| rating_fide_blitz     | Rating FIDE na modalidade blitz |
+| jogos_fide_blitz      | Quantidade de partidas consideradas no rating FIDE blitz |
+| rating_fide_standard  | Rating FIDE modalidade clássico |
+| jogos_fide_standard   | Quantidade de partidas consideradas no rating FIDE clássico |
 | ano_nascimento_fide   | Ano de nascimento segundo a FIDE |
 | mes_referencia_fide   | Mês de referência do rating FIDE |
 
