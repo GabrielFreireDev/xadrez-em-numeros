@@ -1,0 +1,18 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17860442.d25fa08e.200x200o.81d6cc6b6581.png",
+  "player_id": 17860442,
+  "@id": "https://api.chess.com/pub/player/mishanick",
+  "url": "https://www.chess.com/member/mishanick",
+  "name": "Aleksei Sarana",
+  "username": "mishanick",
+  "title": "GM",
+  "followers": 2376,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1768688451,
+  "joined": 1403943039,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

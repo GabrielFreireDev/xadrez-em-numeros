@@ -1,0 +1,17 @@
+{
+  "player_id": 76811198,
+  "@id": "https://api.chess.com/pub/player/twitch_elhamblitz05",
+  "url": "https://www.chess.com/member/Twitch_ElhamBlitz05",
+  "name": "Elham Amar",
+  "username": "twitch_elhamblitz05",
+  "title": "GM",
+  "followers": 1001,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1768672187,
+  "joined": 1586978362,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

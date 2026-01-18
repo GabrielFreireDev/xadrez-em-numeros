@@ -1,0 +1,24 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49308476.f296b7aa.200x200o.5f2c2dc46ff8.png",
+  "player_id": 49308476,
+  "@id": "https://api.chess.com/pub/player/szparu",
+  "url": "https://www.chess.com/member/Szparu",
+  "name": "Miłosz Szpar",
+  "username": "szparu",
+  "title": "GM",
+  "followers": 887,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1768672805,
+  "joined": 1535745436,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/szparumen",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/szparumen"
+    }
+  ]
+}

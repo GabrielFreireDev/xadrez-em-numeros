@@ -1,0 +1,18 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43499854.e7c64b0e.200x200o.3eaa576c08c3.webp",
+  "player_id": 43499854,
+  "@id": "https://api.chess.com/pub/player/tactic",
+  "url": "https://www.chess.com/member/tactic",
+  "name": "Kent Slate",
+  "username": "tactic",
+  "title": "NM",
+  "followers": 699,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1768687591,
+  "joined": 1519053244,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

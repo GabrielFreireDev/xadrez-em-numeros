@@ -1,0 +1,16 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/302890559.825945ee.200x200o.742a33d9e87c.jpg",
+  "player_id": 302890559,
+  "@id": "https://api.chess.com/pub/player/boburjon314159",
+  "url": "https://www.chess.com/member/Boburjon314159",
+  "username": "boburjon314159",
+  "followers": 50,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1768685239,
+  "joined": 1690724905,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

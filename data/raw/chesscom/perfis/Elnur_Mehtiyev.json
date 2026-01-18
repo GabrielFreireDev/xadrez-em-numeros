@@ -1,0 +1,17 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37419240.ddb20430.200x200o.9ef5aa0acf0d.jpeg",
+  "player_id": 37419240,
+  "@id": "https://api.chess.com/pub/player/elnur_mehtiyev",
+  "url": "https://www.chess.com/member/Elnur_Mehtiyev",
+  "name": "Elnur Mehtiyev",
+  "username": "elnur_mehtiyev",
+  "followers": 63,
+  "country": "https://api.chess.com/pub/country/AZ",
+  "last_online": 1768676646,
+  "joined": 1501401826,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": []
+}

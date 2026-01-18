@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5081249.6e61c86a.200x200o.5b315cc56f53.jpeg",
+  "player_id": 5081249,
+  "@id": "https://api.chess.com/pub/player/littleplotkin",
+  "url": "https://www.chess.com/member/littleplotkin",
+  "name": "Mark Plotkin",
+  "username": "littleplotkin",
+  "title": "IM",
+  "followers": 1491,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Canada",
+  "last_online": 1768657527,
+  "joined": 1304607022,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": []
+}

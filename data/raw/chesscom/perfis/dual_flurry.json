@@ -1,0 +1,17 @@
+{
+  "player_id": 65338422,
+  "@id": "https://api.chess.com/pub/player/dual_flurry",
+  "url": "https://www.chess.com/member/dual_flurry",
+  "name": "Jerad Docena",
+  "username": "dual_flurry",
+  "title": "IM",
+  "followers": 135,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1768295711,
+  "joined": 1568121699,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": []
+}

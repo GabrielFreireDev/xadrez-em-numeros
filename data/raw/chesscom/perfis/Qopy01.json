@@ -1,0 +1,16 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/490142287.af8e235e.200x200o.8ed55c71d382.jpg",
+  "player_id": 490142287,
+  "@id": "https://api.chess.com/pub/player/qopy01",
+  "url": "https://www.chess.com/member/Qopy01",
+  "username": "qopy01",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1768689575,
+  "joined": 1759855308,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": []
+}

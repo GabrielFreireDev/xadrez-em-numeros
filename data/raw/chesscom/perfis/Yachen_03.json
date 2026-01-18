@@ -1,0 +1,16 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51248978.f652705a.200x200o.5e907b97d9e5.jpg",
+  "player_id": 51248978,
+  "@id": "https://api.chess.com/pub/player/yachen_03",
+  "url": "https://www.chess.com/member/Yachen_03",
+  "username": "yachen_03",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/IM",
+  "last_online": 1768648566,
+  "joined": 1540782400,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

@@ -1,0 +1,15 @@
+{
+  "player_id": 440178829,
+  "@id": "https://api.chess.com/pub/player/svr_2100khmym2k",
+  "url": "https://www.chess.com/member/SVR_2100KHMYM2K",
+  "username": "svr_2100khmym2k",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1768683538,
+  "joined": 1743096307,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": []
+}

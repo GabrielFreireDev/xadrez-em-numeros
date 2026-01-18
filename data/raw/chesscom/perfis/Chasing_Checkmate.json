@@ -1,0 +1,18 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/284620627.9662414f.200x200o.feb828eca821.jpg",
+  "player_id": 284620627,
+  "@id": "https://api.chess.com/pub/player/chasing_checkmate",
+  "url": "https://www.chess.com/member/Chasing_Checkmate",
+  "name": "Corey Acor",
+  "username": "chasing_checkmate",
+  "title": "FM",
+  "followers": 318,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1768686404,
+  "joined": 1683861992,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

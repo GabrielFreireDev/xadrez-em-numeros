@@ -1,0 +1,17 @@
+{
+  "player_id": 62925986,
+  "@id": "https://api.chess.com/pub/player/g3god",
+  "url": "https://www.chess.com/member/g3god",
+  "name": "Sasikiran Krishnan",
+  "username": "g3god",
+  "title": "GM",
+  "followers": 381,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1768551297,
+  "joined": 1562150230,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

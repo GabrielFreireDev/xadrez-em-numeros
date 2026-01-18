@@ -1,0 +1,18 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/52129472.c1bdd2d7.200x200o.30201b8ea497.jpeg",
+  "player_id": 52129472,
+  "@id": "https://api.chess.com/pub/player/spicycaterpillar",
+  "url": "https://www.chess.com/member/spicycaterpillar",
+  "name": "Ray Robson",
+  "username": "spicycaterpillar",
+  "title": "GM",
+  "followers": 3163,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1768677096,
+  "joined": 1542762877,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": []
+}

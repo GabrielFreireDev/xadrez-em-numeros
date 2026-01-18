@@ -1,0 +1,17 @@
+{
+  "player_id": 47102936,
+  "@id": "https://api.chess.com/pub/player/yavrukurt40",
+  "url": "https://www.chess.com/member/yavrukurt40",
+  "name": "Dincer Tasdogen",
+  "username": "yavrukurt40",
+  "title": "FM",
+  "followers": 248,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1768493282,
+  "joined": 1529017954,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

@@ -1,0 +1,18 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27300798.d45796b6.200x200o.1368393c5c7f.jpeg",
+  "player_id": 27300798,
+  "@id": "https://api.chess.com/pub/player/lovevae",
+  "url": "https://www.chess.com/member/LOVEVAE",
+  "name": "Wei Yi",
+  "username": "lovevae",
+  "title": "GM",
+  "followers": 1727,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1768418678,
+  "joined": 1458315576,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": []
+}

@@ -1,0 +1,18 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57549096.b48504be.200x200o.4f2d0efb44bb.jpg",
+  "player_id": 57549096,
+  "@id": "https://api.chess.com/pub/player/seanwinshand",
+  "url": "https://www.chess.com/member/SeanWinshand",
+  "name": "Sean Winshand",
+  "username": "seanwinshand",
+  "title": "GM",
+  "followers": 3919,
+  "country": "https://api.chess.com/pub/country/ID",
+  "last_online": 1768659031,
+  "joined": 1550585475,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

@@ -1,0 +1,15 @@
+{
+  "player_id": 338103933,
+  "@id": "https://api.chess.com/pub/player/lethalspider7",
+  "url": "https://www.chess.com/member/lethalspider7",
+  "username": "lethalspider7",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1768531210,
+  "joined": 1704918317,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11511066.cf78393c.200x200o.0eca23131651.jpeg",
+  "player_id": 11511066,
+  "@id": "https://api.chess.com/pub/player/elefante33",
+  "url": "https://www.chess.com/member/elefante33",
+  "name": "Felipe El Debs",
+  "username": "elefante33",
+  "title": "GM",
+  "followers": 2128,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "São Paulo",
+  "last_online": 1768592620,
+  "joined": 1365890244,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": []
+}

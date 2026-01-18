@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6083387.7db47bc1.200x200o.0634c485076c.jpg",
+  "player_id": 6083387,
+  "@id": "https://api.chess.com/pub/player/manudavid2910",
+  "url": "https://www.chess.com/member/ManuDavid2910",
+  "name": "Manu David",
+  "username": "manudavid2910",
+  "title": "FM",
+  "followers": 18376,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "Chennai",
+  "last_online": 1768692425,
+  "joined": 1320689006,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

@@ -1,0 +1,18 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23579934.435e3768.200x200o.3916fc4666f3.jpeg",
+  "player_id": 23579934,
+  "@id": "https://api.chess.com/pub/player/reader777",
+  "url": "https://www.chess.com/member/Reader777",
+  "name": "Read Samadov",
+  "username": "reader777",
+  "title": "IM",
+  "followers": 167,
+  "country": "https://api.chess.com/pub/country/AZ",
+  "last_online": 1768670743,
+  "joined": 1439023955,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": []
+}

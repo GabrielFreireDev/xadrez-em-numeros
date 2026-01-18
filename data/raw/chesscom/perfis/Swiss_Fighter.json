@@ -1,0 +1,17 @@
+{
+  "player_id": 51123018,
+  "@id": "https://api.chess.com/pub/player/swiss_fighter",
+  "url": "https://www.chess.com/member/Swiss_Fighter",
+  "name": "Gabriel Gähwiler",
+  "username": "swiss_fighter",
+  "title": "IM",
+  "followers": 150,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1768580712,
+  "joined": 1540469980,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

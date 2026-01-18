@@ -1,0 +1,18 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/158597961.406ead1e.200x200o.f3002dd4baf2.webp",
+  "player_id": 158597961,
+  "@id": "https://api.chess.com/pub/player/elfangm2",
+  "url": "https://www.chess.com/member/Elfangm2",
+  "name": "Elbert Fang",
+  "username": "elfangm2",
+  "title": "NM",
+  "followers": 203,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1768671217,
+  "joined": 1634699353,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

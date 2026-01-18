@@ -1,0 +1,27 @@
+{
+  "player_id": 21261922,
+  "@id": "https://api.chess.com/pub/player/miterryble",
+  "url": "https://www.chess.com/member/MITerryble",
+  "name": "Renato Terry",
+  "username": "miterryble",
+  "title": "IM",
+  "followers": 5747,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1768669150,
+  "joined": 1424880590,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/miterryble",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/miterryble"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@renatoterrylujan"
+    }
+  ]
+}

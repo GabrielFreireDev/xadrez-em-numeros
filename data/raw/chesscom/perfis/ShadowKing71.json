@@ -1,0 +1,25 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/156574447.3a5f84aa.200x200o.5df91856bab9.png",
+  "player_id": 156574447,
+  "@id": "https://api.chess.com/pub/player/shadowking71",
+  "url": "https://www.chess.com/member/ShadowKing71",
+  "name": "James Chirilov",
+  "username": "shadowking71",
+  "title": "FM",
+  "followers": 928,
+  "country": "https://api.chess.com/pub/country/AG",
+  "location": "Charlotte",
+  "last_online": 1768638577,
+  "joined": 1633105511,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/sk78live",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/sk78live"
+    }
+  ]
+}

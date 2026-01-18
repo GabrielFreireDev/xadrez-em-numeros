@@ -1,0 +1,15 @@
+{
+  "player_id": 490664473,
+  "@id": "https://api.chess.com/pub/player/fernanjoel111762",
+  "url": "https://www.chess.com/member/fernanjoel111762",
+  "username": "fernanjoel111762",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1768677019,
+  "joined": 1760012384,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": []
+}

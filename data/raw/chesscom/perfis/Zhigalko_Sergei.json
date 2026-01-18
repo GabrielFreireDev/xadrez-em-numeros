@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26572336.93bb4ad6.200x200o.baa9688f1b6f.jpeg",
+  "player_id": 26572336,
+  "@id": "https://api.chess.com/pub/player/zhigalko_sergei",
+  "url": "https://www.chess.com/member/Zhigalko_Sergei",
+  "name": "Sergei Zhigalko",
+  "username": "zhigalko_sergei",
+  "title": "GM",
+  "followers": 2089,
+  "country": "https://api.chess.com/pub/country/XX",
+  "location": "Minsk",
+  "last_online": 1768691637,
+  "joined": 1454847263,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

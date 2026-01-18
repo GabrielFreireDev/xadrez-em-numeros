@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4083321.a05d5ef2.200x200o.3f6dddd743a7.jpeg",
+  "player_id": 4083321,
+  "@id": "https://api.chess.com/pub/player/tapuah",
+  "url": "https://www.chess.com/member/Tapuah",
+  "name": "Ilya Smirin",
+  "username": "tapuah",
+  "title": "GM",
+  "followers": 5160,
+  "country": "https://api.chess.com/pub/country/IL",
+  "location": "Tel Aviv",
+  "last_online": 1768655292,
+  "joined": 1286373393,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}
