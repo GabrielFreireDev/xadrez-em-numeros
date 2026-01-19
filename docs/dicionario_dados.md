@@ -23,16 +23,7 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 | data_entrada          | Data de entrada no Chess.com |
 | pais_id               | Chave estrangeira para dim_pais |
 | titulo_chesscom       | Título exibido no Chess.com (GM, IM, FM etc.) |
-| titulo_fide           | Título oficial da FIDE |
-| fide_id               | Identificador oficial do enxadrista na FIDE |
-| rating_fide_rapid     | Rating FIDE na modalidade rápida |
-| jogos_fide_rapid      | Quantidade de partidas consideradas no rating FIDE rápido |
-| rating_fide_blitz     | Rating FIDE na modalidade blitz |
-| jogos_fide_blitz      | Quantidade de partidas consideradas no rating FIDE blitz |
-| rating_fide_standard  | Rating FIDE modalidade clássico |
-| jogos_fide_standard   | Quantidade de partidas consideradas no rating FIDE clássico |
-| ano_nascimento_fide   | Ano de nascimento segundo a FIDE |
-| mes_referencia_fide   | Mês de referência do rating FIDE |
+
 
 
 ---
@@ -47,19 +38,6 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 | continente   | Continente |
 | regiao       | Região geográfica |
 | bandeira_url | URL da bandeira do país |
-
----
-
-### dim_modalidade
-
-| Coluna            | Descrição |
-|-------------------|-----------|
-| modalidade_id     | Identificador da modalidade |
-| nome_modalidade   | Nome da modalidade (Blitz, Rapid, Bullet) |
-| slug_stats        | Identificador usado na API de estatísticas |
-| slug_leaderboard  | Identificador usado na API de ranking |
-| minutos_min       | Tempo mínimo da modalidade |
-| minutos_max       | Tempo máximo da modalidade |
 
 ---
 
@@ -79,40 +57,7 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 
 ---
 
-### dim_abertura
-
-| Coluna       | Descrição |
-|--------------|-----------|
-| abertura_id  | Identificador da abertura |
-| eco_codigo   | Código ECO (ex: B12, C45) |
-| nome_abertura| Nome da abertura |
-| familia      | Família da abertura |
-
----
-
 ## 📕 Tabelas Fato
-
-### fato_partidas_mensal
-
-| Coluna                      | Descrição |
-|-----------------------------|-----------|
-| enxadrista_id               | Chave estrangeira para dim enxadrista |
-| modalidade_id               | Chave estrangeira para dim_modalidade |
-| data_id                     | Chave estrangeira para dim_tempo (mês) |
-| total_partidas              | Total de partidas no mês |
-| vitorias                    | Total de vitórias |
-| derrotas                    | Total de derrotas |
-| empates                     | Total de empates |
-| partidas_ranqueadas         | Quantidade de partidas ranqueadas |
-| rating_medio enxadrista     | Rating médio do enxadrista |
-| rating_medio_adversario     | Rating médio dos adversários |
-| diferenca_media_rating      | Diferença média de rating |
-| duracao_media_partida_seg   | Duração média das partidas (segundos) |
-| partidas_brancas            | Partidas jogadas com peças brancas |
-| partidas_pretas             | Partidas jogadas com peças pretas |
-| abertura_mais_jogada_id     | Chave estrangeira para dim_abertura |
-
----
 
 ### fato_estatisticas enxadrista
 
@@ -123,6 +68,7 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 | data_id             | Data do snapshot |
 | rating_atual        | Rating atual do enxadrista |
 | melhor_rating       | Melhor rating histórico |
+| data_rating_melhor  | Data com melhor rating histórico |
 | vitorias            | Total de vitórias |
 | derrotas            | Total de derrotas |
 | empates             | Total de empates |
@@ -142,4 +88,5 @@ Este documento descreve todas as tabelas e colunas do modelo dimensional do proj
 | vitorias         | Total de vitórias |
 | derrotas         | Total de derrotas |
 | empates          | Total de empates |
+
 

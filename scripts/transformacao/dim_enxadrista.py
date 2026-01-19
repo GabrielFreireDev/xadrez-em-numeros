@@ -26,46 +26,12 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # =========================================================
-# Funções auxiliares
+# Funções
 # =========================================================
 
-def carregar_chesscom():
+def carregar_perfil_chesscom():
     caminho = f"{DATA_PROCESSED_PATH}/staging/staging_perfil_chesscom.csv"
-    df = pd.read_csv(caminho)
-
-    df["nome_normalizado"] = (
-        df["nome"]
-        .fillna(df["username"])
-        .str.lower()
-        .str.strip()
-    )
-
-    return df
-
-
-def carregar_fide(modalidade):
-    caminho = f"{DATA_PROCESSED_PATH}/staging/staging_fide_{modalidade}.csv"
     return pd.read_csv(caminho)
-
-
-def preparar_fide(df, modalidade):
-    df = df[[
-        "fide_id",
-        "nome_normalizado",
-        "rating_fide",
-        "jogos_fide",
-        "federacao_fide",
-        "ano_nascimento",
-        "sexo",
-        "titulo_fide"
-    ]]
-
-    df = df.rename(columns={
-        "rating_fide": f"rating_fide_{modalidade}",
-        "jogos_fide": f"jogos_fide_{modalidade}"
-    })
-
-    return df.drop_duplicates(subset=["fide_id", "nome_normalizado"])
 
 
 # =========================================================
@@ -77,39 +43,14 @@ def main():
 
     os.makedirs(DATA_ANALYTICS_PATH, exist_ok=True)
 
-    # Base Chess.com
-    df_enxadrista = carregar_chesscom()
-    logger.info(f"Enxadristas Chess.com: {len(df_enxadrista)}")
-
-    # FIDE - Standard
-    df_standard = preparar_fide(carregar_fide("standard"), "standard")
-    df_enxadrista = df_enxadrista.merge(
-        df_standard,
-        on="nome_normalizado",
-        how="left"
-    )
-
-    # FIDE - Rapid
-    df_rapid = preparar_fide(carregar_fide("rapid"), "rapid")
-    df_enxadrista = df_enxadrista.merge(
-        df_rapid,
-        on="nome_normalizado",
-        how="left"
-    )
-
-    # FIDE - Blitz
-    df_blitz = preparar_fide(carregar_fide("blitz"), "blitz")
-    df_enxadrista = df_enxadrista.merge(
-        df_blitz,
-        on="nome_normalizado",
-        how="left"
-    )
+    df = carregar_perfil_chesscom()
+    logger.info(f"Enxadristas carregados: {len(df)}")
 
     # ID surrogate
-    df_enxadrista.insert(
+    df.insert(
         0,
         "enxadrista_id",
-        range(1, len(df_enxadrista) + 1)
+        range(1, len(df) + 1)
     )
 
     # Seleção final de colunas
@@ -126,23 +67,11 @@ def main():
         "status",
         "is_streamer",
         "verificado",
-        "fide_id",
-        "federacao_fide",
-        "ano_nascimento",
-        "sexo",
-        "titulo_fide",
-        "rating_fide_standard",
-        "jogos_fide_standard",
-        "rating_fide_rapid",
-        "jogos_fide_rapid",
-        "rating_fide_blitz",
-        "jogos_fide_blitz",
         "origem"
     ]
 
-    df_dim = df_enxadrista[colunas_finais]
+    df_dim = df[colunas_finais]
 
-    # Salvar dimensão
     caminho_saida = f"{DATA_ANALYTICS_PATH}/dim_enxadrista.csv"
     df_dim.to_csv(caminho_saida, index=False, encoding="utf-8")
 
