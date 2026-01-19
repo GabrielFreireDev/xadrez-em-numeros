@@ -1,5 +1,6 @@
 import os
 import json
+from datetime import datetime, timezone
 import logging
 import time
 
@@ -71,13 +72,24 @@ def main():
         dados = coletar_perfil(username)
 
         if dados:
-            # salva JSON bruto
+            # -------------------------------------------------
+            # Salva JSON bruto
+            # -------------------------------------------------
             with open(
                 f"{DATA_RAW_PATH}/chesscom/perfis/{username}.json",
                 "w",
                 encoding="utf-8"
             ) as f:
                 json.dump(dados, f, ensure_ascii=False, indent=2)
+
+            # -------------------------------------------------
+            # Conversão do timestamp de entrada (joined)
+            # -------------------------------------------------
+            data_entrada = (
+                datetime.fromtimestamp(dados["joined"], tz=timezone.utc).date()
+                if dados.get("joined")
+                else None
+            )
 
             registros.append({
                 "player_id": dados.get("player_id"),
@@ -88,7 +100,7 @@ def main():
                 "url": dados.get("url"),
                 "seguidores": dados.get("followers"),
                 "pais": dados.get("country").split("/")[-1] if dados.get("country") else None,
-                "data_entrada": dados.get("joined"),
+                "data_entrada": data_entrada,
                 "status": dados.get("status"),
                 "is_streamer": dados.get("is_streamer"),
                 "verificado": dados.get("verified"),
