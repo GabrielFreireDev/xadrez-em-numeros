@@ -1,6 +1,6 @@
 # ♟️ Xadrez em Números – Análise de Desempenho no Chess.com (Em Desenvolvimento)
 
-Este projeto tem como objetivo realizar uma **análise de dados de partidas de xadrez online**, utilizando a **API pública do Chess.com**, com foco em **desempenho de jogadores, estatísticas de partidas e comparações globais**, traduzidas e contextualizadas para o **público brasileiro**.
+Este projeto tem como objetivo realizar uma **análise de dados de partidas de xadrez online**, utilizando a **API pública do Chess.com**, com foco em **estatísticas de jogadores e comparações globais**, traduzidas e contextualizadas para o **público brasileiro**.
 
 O projeto cobre todo o pipeline de dados, desde a **coleta via API**, passando pela **modelagem analítica**, até a **visualização em dashboards interativos no Power BI**.
 
@@ -10,9 +10,8 @@ O projeto cobre todo o pipeline de dados, desde a **coleta via API**, passando p
 
 - Analisar o desempenho de jogadores de xadrez online
 - Comparar modalidades **Blitz**, **Rapid** e **Bullet**
-- Acompanhar evolução de rating ao longo do tempo
 - Avaliar rankings globais (Top 50)
-- Explorar padrões de desempenho por país e abertura
+- Explorar padrões de desempenho por país
 
 ---
 
@@ -22,7 +21,7 @@ O projeto cobre todo o pipeline de dados, desde a **coleta via API**, passando p
 - Comparar modalidades **Blitz**, **Rapid** e **Bullet**
 - Acompanhar evolução de rating ao longo do tempo
 - Avaliar rankings globais (Top 50)
-- Explorar padrões de desempenho por país e abertura
+- Explorar padrões de desempenho por país
 
 ---
 
@@ -44,7 +43,6 @@ Os dados são coletados exclusivamente a partir da **API pública do Chess.com**
 Principais endpoints utilizados:
 - Perfil do jogador
 - Estatísticas por modalidade
-- Arquivos históricos de partidas
 - Classificação global (Leaderboards)
 - Dados por país (Country)
 
@@ -73,7 +71,6 @@ Os dashboards abordarão:
 - Visão geral de desempenho
 - Evolução de rating
 - Análise por modalidade (blitz, rapid, bullet)
-- Aberturas mais jogadas e taxa de vitória
 - Comparação com rankings globais
 - Contexto geográfico por país
 
