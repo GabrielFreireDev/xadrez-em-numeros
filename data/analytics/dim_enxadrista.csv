@@ -1,124 +1,123 @@
-enxadrista_id,player_id,username,nome,titulo,pais,avatar,seguidores,data_entrada,status,is_streamer,verificado,fide_id,federacao_fide,ano_nascimento,sexo,titulo_fide,rating_fide_standard,jogos_fide_standard,rating_fide_rapid,jogos_fide_rapid,rating_fide_blitz,jogos_fide_blitz,origem
-1,15448422,hikaru,Hikaru Nakamura,GM,US,https://images.chesscomfiles.com/uploads/v1/user/15448422.88c010c1.200x200o.3c5619f5441e.png,1371478,1389043258,premium,True,False,,,,,,,,,,,,chess.com
-2,3889224,magnuscarlsen,Magnus Carlsen,GM,NO,https://images.chesscomfiles.com/uploads/v1/user/3889224.121e2094.200x200o.361c2f8a59c2.jpg,280905,1282856720,premium,False,False,,,,,,,,,,,,chess.com
-3,34145346,denlaz,Denis Lazavik,GM,BY,https://images.chesscomfiles.com/uploads/v1/user/34145346.088fe903.200x200o.497edc350e6a.webp,1397,1490115455,premium,False,False,,,,,,,,,,,,chess.com
-4,28692936,rpragchess,Praggnanandhaa Rameshbabu,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/28692936.02da0bac.200x200o.d0b1b8f66ac2.jpg,12443,1466301035,premium,False,False,,,,,,,,,,,,chess.com
-5,30366824,gmwso,Wesley So,GM,US,https://images.chesscomfiles.com/uploads/v1/user/30366824.22d6b1f8.200x200o.bf8ce3f933fc.jpg,10728,1476324243,premium,False,False,,,,,,,,,,,,chess.com
-6,33903360,sibelephant,Vladislav Artemiev,GM,RU,https://images.chesscomfiles.com/uploads/v1/user/33903360.eba9f5a2.200x200o.578bfd0b2e17.jpeg,3017,1489321339,premium,False,False,,,,,,,,,,,,chess.com
-7,93593240,vi_pranav,Pranav V,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/93593240.10fc5f09.200x200o.d1f519160672.jpg,1803,1603296605,premium,False,False,,,,,,,,,,,,chess.com
-8,93593240,vi_pranav,Pranav V,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/93593240.10fc5f09.200x200o.d1f519160672.jpg,1803,1603296605,premium,False,False,,,,,,,,,,,,chess.com
-9,42022994,firouzja2003,Alireza Firouzja,GM,FR,https://images.chesscomfiles.com/uploads/v1/user/42022994.2c7a0722.200x200o.3088f5180d8d.jpg,30609,1515159662,premium,False,False,,,,,,,,,,,,chess.com
-10,88920388,hansontwitch,Hans Niemann,GM,US,,5769,1597255088,premium,False,False,,,,,,,,,,,,chess.com
-11,50386860,gurelediz,Ediz Gürel,GM,TR,https://images.chesscomfiles.com/uploads/v1/user/50386860.8f4bcdc7.200x200o.52a55edd9e84.jpg,6091,1538629762,premium,False,False,,,,,,,,,,,,chess.com
-12,47485766,polish_fighter3000,Jan-Krzysztof Duda,GM,PL,https://images.chesscomfiles.com/uploads/v1/user/47485766.de241c41.200x200o.7b706ebf58e7.jpeg,8538,1530287021,premium,False,False,,,,,,,,,,,,chess.com
-13,207852275,philippians46,Andy Woodward,GM,US,https://images.chesscomfiles.com/uploads/v1/user/207852275.b5fd5b9c.200x200o.2658380fdb00.png,1910,1669071125,premium,False,False,,,,,,,,,,,,chess.com
-14,35895346,mykola-bortnyk,Mykola Bortnyk,IM,US,https://images.chesscomfiles.com/uploads/v1/user/35895346.3571bef9.200x200o.a1ca3885e2f9.png,2287,1496033802,premium,False,False,,,,,,,,,,,,chess.com
-15,330779979,javokhir_sindarov05,Javokhir Sindarov,GM,UZ,https://images.chesscomfiles.com/uploads/v1/user/330779979.94d8134b.200x200o.1e0c8c8f4314.jpg,775,1701897372,premium,False,False,,,,,,,,,,,,chess.com
-16,52129472,spicycaterpillar,Ray Robson,GM,US,https://images.chesscomfiles.com/uploads/v1/user/52129472.c1bdd2d7.200x200o.30201b8ea497.jpeg,3163,1542762877,premium,False,False,,,,,,,,,,,,chess.com
-17,7195919,nihalsarin,Nihal Sarin,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/7195919.159050ca.200x200o.883e75faf64e.jpg,20054,1333645859,premium,True,False,25092340,,05  37,IN,D M,,,,,,,chess.com
-18,11474230,jefferyx,Jeffery Xiong,GM,US,https://images.chesscomfiles.com/uploads/v1/user/11474230.1802ddb7.200x200o.60d5d5608100.jpeg,2692,1365648529,premium,True,False,,,,,,,,,,,,chess.com
-19,8829034,konavets,Sam Sevian,GM,US,https://images.chesscomfiles.com/uploads/v1/user/8829034.6d90a567.200x200o.60d12a06fdce.jpeg,1305,1347084219,premium,False,False,,,,,,,,,,,,chess.com
-20,108520120,nikotheodorou,Nikolas Theodorou,GM,GR,https://images.chesscomfiles.com/uploads/v1/user/108520120.b86cc966.200x200o.d85a0c84f2ae.jpg,13842,1609393492,premium,False,False,,,,,,,,,,,,chess.com
-21,17306408,lyonbeast,Maxime Vachier-Lagrave,GM,FR,https://images.chesscomfiles.com/uploads/v1/user/17306408.203effc9.200x200o.34baf459f6b7.jpg,15052,1400144409,premium,True,False,,,,,,,,,,,,chess.com
-22,55724226,artooon,Pranesh M,GM,XX,https://images.chesscomfiles.com/uploads/v1/user/55724226.0ba82cd8.200x200o.daac4ae34c55.jpeg,1646,1547032883,premium,False,False,35028600,,90  19,IN,D M,,,,,,,chess.com
-23,57142804,artin10862,Artin Ashraf,FM,TR,https://images.chesscomfiles.com/uploads/v1/user/57142804.9f5d4a92.200x200o.4a3156e37f5c.jpg,899,1549717857,premium,False,False,,,,,,,,,,,,chess.com
-24,429108043,sina-movahed,Sina Movahed,GM,IR,https://images.chesscomfiles.com/uploads/v1/user/429108043.5d448809.200x200o.329b40742875.jpg,564,1739520887,premium,False,False,,,,,,,,,,,,chess.com
-25,76811198,twitch_elhamblitz05,Elham Amar,GM,NO,,1001,1586978362,premium,False,False,,,,,,,,,,,,chess.com
-26,39098776,micki-taryan,Haik Martirosyan,GM,AM,https://images.chesscomfiles.com/uploads/v1/user/39098776.eca167eb.200x200o.8e8ab1d48856.jpg,870,1506886162,premium,False,False,,,,,,,,,,,,chess.com
-27,11177810,fabianocaruana,Fabiano Caruana,GM,US,https://images.chesscomfiles.com/uploads/v1/user/11177810.9dfc8d31.200x200o.9a9eccebc07c.png,22552,1363533272,premium,False,False,,,,,,,,,,,,chess.com
-28,294649525,robert_angier,Konstantin Popov,IM,XX,https://images.chesscomfiles.com/uploads/v1/user/294649525.7e5337dc.200x200o.3a7678fb4c83.jpg,123,1687177916,premium,False,False,,,,,,,,,,,,chess.com
-29,61085366,raunaksadhwani2005,Raunak Sadhwani,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/61085366.7e6977ec.200x200o.fa27239336b6.jpeg,2108,1558072018,premium,True,False,,,,,,,,,,,,chess.com
-30,17860442,mishanick,Aleksei Sarana,GM,RS,https://images.chesscomfiles.com/uploads/v1/user/17860442.d25fa08e.200x200o.81d6cc6b6581.png,2376,1403943039,premium,False,False,,,,,,,,,,,,chess.com
-31,12709942,chesswarrior7197,Nodirbek Abdusattorov,GM,UZ,https://images.chesscomfiles.com/uploads/v1/user/12709942.6e2e1d11.200x200o.ac217f38d8b4.png,4802,1373822333,premium,False,False,,,,,,,,,,,,chess.com
-32,26897358,grischuk,Alexander Grischuk,GM,RU,https://images.chesscomfiles.com/uploads/v1/user/26897358.10f64fa8.200x200o.634d3db4ddc2.jpeg,7557,1456282378,premium,False,False,,,,,,,,,,,,chess.com
-33,32230490,parhamov,Parham Maghsoodloo,GM,IR,https://images.chesscomfiles.com/uploads/v1/user/32230490.26c10df6.200x200o.7bb7031c30e8.jpg,5756,1483868974,premium,False,False,,,,,,,,,,,,chess.com
-34,22252178,anishgiri,Anish Giri,GM,NL,https://images.chesscomfiles.com/uploads/v1/user/22252178.d8dff8c3.200x200o.8375b4cb1335.jpeg,11012,1430772657,premium,False,False,,,,,,,,,,,,chess.com
-35,492781159,f1_and_chess,David Kaufman,IM,US,,19,1760641638,premium,False,False,,,,,,,,,,,,chess.com
-36,16938404,wonderfultime,Tuan Minh Le,GM,VN,https://images.chesscomfiles.com/uploads/v1/user/16938404.edc37b62.200x200o.404676e7dc47.webp,9745,1397724828,premium,True,False,,,,,,,,,,,,chess.com
-37,26897402,levonaronian,Levon Aronian,GM,US,https://images.chesscomfiles.com/uploads/v1/user/26897402.07482c01.200x200o.aafdac4f4570.jpeg,6501,1456282528,premium,False,False,,,,,,,,,,,,chess.com
-38,21232844,msb2,Matthias Bluebaum,GM,DE,,1302,1424713872,premium,False,False,,,,,,,,,,,,chess.com
-39,69192934,dropstonedp,David Paravyan,GM,RU,https://images.chesscomfiles.com/uploads/v1/user/69192934.19df0418.200x200o.5839b2717eb5.jpeg,934,1576081689,premium,False,False,,,,,,,,,,,,chess.com
-40,20718020,ghandeevam2003,Arjun Erigaisi,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/20718020.b93b0dad.200x200o.ce63c2b5ea24.jpeg,5511,1421783344,premium,False,False,,,,,,,,,,,,chess.com
-41,137706882,baku_boulevard,Rauf Mamedov,GM,UA,https://images.chesscomfiles.com/uploads/v1/user/137706882.0ca988e2.200x200o.e0649ae91b4c.jpeg,597,1619594485,premium,False,False,,,,,,,,,,,,chess.com
-42,43194690,vincentkeymer,Vincent Keymer,GM,DE,https://images.chesscomfiles.com/uploads/v1/user/43194690.01e2e420.200x200o.5b2983036718.jpeg,3678,1518259553,premium,False,False,,,,,,,,,,,,chess.com
-43,10767030,andreikka,Andrey Esipenko,GM,RU,https://images.chesscomfiles.com/uploads/v1/user/10767030.b20746db.200x200o.6172f1b0095c.jpg,3349,1360502176,premium,False,False,,,,,,,,,,,,chess.com
-44,39249762,volodar_murzin,Volodar Murzin,GM,XX,https://images.chesscomfiles.com/uploads/v1/user/39249762.7e30c1dc.200x200o.a41083f165a5.jpeg,569,1507376415,premium,False,False,,,,,,,,,,,,chess.com
-45,80994690,faustinooro,Faustino Oro,IM,AR,https://images.chesscomfiles.com/uploads/v1/user/80994690.b4cf9a71.200x200o.14ae099ead7c.jpg,7046,1590874408,premium,False,False,,,,,,,,,,,,chess.com
-46,30494226,amintabatabaei,Amin Tabatabaei,GM,IR,https://images.chesscomfiles.com/uploads/v1/user/30494226.99d3ab53.200x200o.59863e92ff4b.jpg,1742,1476970017,premium,False,False,,,,,,,,,,,,chess.com
-47,30887540,bogdandeac,Bogdan Daniel Deac,GM,RO,,4769,1479032100,premium,False,False,,,,,,,,,,,,chess.com
-48,44760408,chessfighter_2011,Dau Khuong Duy,IM,VN,https://images.chesscomfiles.com/uploads/v1/user/44760408.7e2bb432.200x200o.32acd45c00e9.jpg,1544,1522318251,premium,False,False,12424722,,79  37,VI,E M,,,,,,,chess.com
-49,26867272,jospem,Jose Martinez,GM,MX,https://images.chesscomfiles.com/uploads/v1/user/26867272.0496c4fd.200x200o.89ccc5145ecc.jpg,33320,1456152005,premium,True,False,,,,,,,,,,,,chess.com
-50,49788594,pursuitofhappyness2,Abhimanyu Mishra,GM,US,https://images.chesscomfiles.com/uploads/v1/user/49788594.25ff3d86.200x200o.4a9380e9fd18.png,1434,1537055670,premium,False,False,,,,,,,,,,,,chess.com
-51,28417564,lachesisq,Ian Nepomniachtchi,GM,RU,https://images.chesscomfiles.com/uploads/v1/user/28417564.288cde61.200x200o.d3c0bb1c1afd.jpg,16395,1464600099,premium,True,False,,,,,,,,,,,,chess.com
-52,6083387,manudavid2910,Manu David,FM,IN,https://images.chesscomfiles.com/uploads/v1/user/6083387.7db47bc1.200x200o.0634c485076c.jpg,18376,1320689006,premium,False,False,,,,,,,,,,,,chess.com
-53,26824392,gutovandrey,Andrey Gutov,GM,US,https://images.chesscomfiles.com/uploads/v1/user/26824392.45f76f42.200x200o.2bca585e3e36.jpeg,25601,1455957001,premium,False,False,,,,,,,,,,,,chess.com
-54,57549096,seanwinshand,Sean Winshand,GM,ID,https://images.chesscomfiles.com/uploads/v1/user/57549096.b48504be.200x200o.4f2d0efb44bb.jpg,3919,1550585475,premium,False,False,,,,,,,,,,,,chess.com
-55,11650164,lpsupi,Luis Paulo Supi,GM,BR,https://images.chesscomfiles.com/uploads/v1/user/11650164.da85056d.200x200o.67d7a22a745d.jpeg,12438,1366894767,premium,True,False,,,,,,,,,,,,chess.com
-56,48066110,evandro_barbosa,Evandro Amorim Barbosa,GM,BR,https://images.chesscomfiles.com/uploads/v1/user/48066110.f26beab9.200x200o.7c294c6679b3.jpeg,4041,1532208663,premium,True,False,,,,,,,,,,,,chess.com
-57,44629086,gigaquparadze,Giga Quparadze,GM,GE,https://images.chesscomfiles.com/uploads/v1/user/44629086.18a299eb.200x200o.41e140ad6097.jpeg,1947,1521971630,premium,False,False,,,,,,,,,,,,chess.com
-58,27300798,lovevae,Wei Yi,GM,CN,https://images.chesscomfiles.com/uploads/v1/user/27300798.d45796b6.200x200o.1368393c5c7f.jpeg,1727,1458315576,premium,False,False,,,,,,,,,,,,chess.com
-59,284620627,chasing_checkmate,Corey Acor,FM,US,https://images.chesscomfiles.com/uploads/v1/user/284620627.9662414f.200x200o.feb828eca821.jpg,318,1683861992,premium,False,False,,,,,,,,,,,,chess.com
-60,338103933,lethalspider7,,,NO,,31,1704918317,basic,False,False,,,,,,,,,,,,chess.com
-61,51248978,yachen_03,,,IM,https://images.chesscomfiles.com/uploads/v1/user/51248978.f652705a.200x200o.5e907b97d9e5.jpg,36,1540782400,premium,False,False,,,,,,,,,,,,chess.com
-62,51123018,swiss_fighter,Gabriel Gähwiler,IM,CH,,150,1540469980,premium,False,False,,,,,,,,,,,,chess.com
-63,62925986,g3god,Sasikiran Krishnan,GM,IN,,381,1562150230,premium,False,False,,,,,,,,,,,,chess.com
-64,14074142,christopheryoo,Christopher Woojin Yoo,GM,TV,,7637,1382868780,premium,False,False,,,,,,,,,,,,chess.com
-65,1355607,gmkrikor,Krikor Sevag Mekhitarian,GM,BR,https://images.chesscomfiles.com/uploads/v1/user/1355607.267b4f2b.200x200o.4cb2d1952100.jpeg,43478,1207980653,staff,True,False,,,,,,,,,,,,chess.com
-66,26352834,berardino,Diego Berardino,IM,BR,https://images.chesscomfiles.com/uploads/v1/user/26352834.823a8d50.200x200o.4c32f681357e.png,2448,1453824890,premium,False,False,,,,,,,,,,,,chess.com
-67,23579934,reader777,Read Samadov,IM,AZ,https://images.chesscomfiles.com/uploads/v1/user/23579934.435e3768.200x200o.3916fc4666f3.jpeg,167,1439023955,premium,False,False,,,,,,,,,,,,chess.com
-68,49308476,szparu,Miłosz Szpar,GM,PL,https://images.chesscomfiles.com/uploads/v1/user/49308476.f296b7aa.200x200o.5f2c2dc46ff8.png,887,1535745436,premium,True,False,,,,,,,,,,,,chess.com
-69,406113149,liindseeyy,,,FR,https://images.chesscomfiles.com/uploads/v1/user/406113149.2170f75d.200x200o.b61089e9b7f4.png,39,1732990246,basic,False,False,,,,,,,,,,,,chess.com
-70,1784023,kacparov,Kacper Drozdowski,IM,PL,https://images.chesscomfiles.com/uploads/v1/user/1784023.7763d589.200x200o.5bc4233aef8a.jpeg,6202,1235389071,premium,False,False,,,,,,,,,,,,chess.com
-71,157440329,aoitsukibluemoon,Wang Hao,GM,JP,https://images.chesscomfiles.com/uploads/v1/user/157440329.5a7d3617.200x200o.e72d8642a1e2.jpeg,119,1633758581,premium,False,False,,,,,,,,,,,,chess.com
-72,3958391,gmbenjaminbok,Benjamin Bok,GM,NL,https://images.chesscomfiles.com/uploads/v1/user/3958391.1ca1273c.200x200o.b3509401e9cf.jpeg,21670,1284134842,premium,True,False,,,,,,,,,,,,chess.com
-73,70572670,deechess123,,,IN,,31,1578673701,basic,False,False,,,,,,,,,,,,chess.com
-74,152868735,wqws,Kaivalya Sandip Nagare,FM,IN,,88,1630315406,premium,False,False,,,,,,,,,,,,chess.com
-75,11511066,elefante33,Felipe El Debs,GM,BR,https://images.chesscomfiles.com/uploads/v1/user/11511066.cf78393c.200x200o.0eca23131651.jpeg,2128,1365890244,premium,False,False,,,,,,,,,,,,chess.com
-76,28234198,sargsyan_shant,Shant Sargsyan,GM,AM,https://images.chesscomfiles.com/uploads/v1/user/28234198.2be8ab34.200x200o.3b8860366115.jpg,116,1463515341,premium,False,False,,,,,,,,,,,,chess.com
-77,75631914,sahibsinghknight,Sahib Singh,IM,IN,https://images.chesscomfiles.com/uploads/v1/user/75631914.86abd2d6.200x200o.bb1d3fdf5ae3.jpeg,512,1586006370,premium,False,False,25618342,,21  0,IN,D M,,,,,,,chess.com
-78,23879414,gmalmeida,Omar Almeida Quintana,GM,CU,https://images.chesscomfiles.com/uploads/v1/user/23879414.86119a71.200x200o.f0aefd0cdba5.jpeg,121,1440866512,premium,False,False,,,,,,,,,,,,chess.com
-79,26735280,astralpulse,Alex Goldin,GM,US,,142,1455562544,premium,False,False,,,,,,,,,,,,chess.com
-80,37419240,elnur_mehtiyev,Elnur Mehtiyev,,AZ,https://images.chesscomfiles.com/uploads/v1/user/37419240.ddb20430.200x200o.9ef5aa0acf0d.jpeg,63,1501401826,basic,False,False,,,,,,,,,,,,chess.com
-81,65338422,dual_flurry,Jerad Docena,IM,PH,,135,1568121699,premium,False,False,,,,,,,,,,,,chess.com
-82,371633593,kazuko-chan,Luna (Xiaowen) Cao,,JP,https://images.chesscomfiles.com/uploads/v1/user/371633593.ab013513.200x200o.17b51e0c3cf1.jpg,419,1719232331,basic,False,False,,,,,,,,,,,,chess.com
-83,55969800,chessmatenokk17,Sergey And. Korshunov,FM,RU,https://images.chesscomfiles.com/uploads/v1/user/55969800.3d2a6fa7.200x200o.090a119c7062.jpg,59,1547482601,premium,False,False,,,,,,,,,,,,chess.com
-84,188604399,foxontherun97,Ondrej Toman,FM,CZ,https://images.chesscomfiles.com/uploads/v1/user/188604399.620a4674.200x200o.15cdb8840dad.jpg,125,1656658062,premium,False,False,,,,,,,,,,,,chess.com
-85,2295334,grandmastergauri,Gauri Shankar,IM,US,https://images.chesscomfiles.com/uploads/v1/user/2295334.73f7eb58.200x200o.84b80eedfc9c.jpeg,725,1258047689,premium,False,False,,,,,,,,,,,,chess.com
-86,3978224,zenzo,Armen Proudian,FM,BR,https://images.chesscomfiles.com/uploads/v1/user/3978224.bf373225.200x200o.138451b06615.jpeg,657,1284491777,premium,False,False,,,,,,,,,,,,chess.com
-87,502840905,d6stronk,Bartosz Przybylski,FM,PL,https://images.chesscomfiles.com/uploads/v1/user/502840905.bf5010c2.200x200o.7adab6d63fa2.jpg,19,1763687811,premium,False,False,,,,,,,,,,,,chess.com
-88,4083321,tapuah,Ilya Smirin,GM,IL,https://images.chesscomfiles.com/uploads/v1/user/4083321.a05d5ef2.200x200o.3f6dddd743a7.jpeg,5160,1286373393,premium,False,False,,,,,,,,,,,,chess.com
-89,58985560,hamelekh,eyal deutsch,IM,IL,https://images.chesscomfiles.com/uploads/v1/user/58985560.00f4fb26.200x200o.9e72cbfd6825.jpeg,118,1553538543,premium,False,False,,,,,,,,,,,,chess.com
-90,440178829,svr_2100khmym2k,,,ES,,1,1743096307,basic,False,False,,,,,,,,,,,,chess.com
-91,1973757,sanyi9,Sanyi,,HU,,37,1244993787,premium,False,False,,,,,,,,,,,,chess.com
-92,490664473,fernanjoel111762,,,PH,,4,1760012384,basic,False,False,,,,,,,,,,,,chess.com
-93,55667092,wotgenie,Marcel Petersen,CM,DE,https://images.chesscomfiles.com/uploads/v1/user/55667092.b3eb0462.200x200o.59bd3d605004.jpeg,75,1546908536,premium,False,False,,,,,,,,,,,,chess.com
-94,66246790,liamputnam2008,Liam Putnam,IM,US,https://images.chesscomfiles.com/uploads/v1/user/66246790.01e0ba2c.200x200o.fdaa257a68fe.jpg,3301,1570134100,premium,False,False,,,,,,,,,,,,chess.com
-95,342500227,ntphuc1122,,,VN,https://images.chesscomfiles.com/uploads/v1/user/342500227.1aea4f3c.200x200o.ad1f6c0fa53a.jpg,206,1706766921,premium,False,False,,,,,,,,,,,,chess.com
-96,109315520,alexboy14,Oleksii Nakonechnyi,CM,UA,https://images.chesscomfiles.com/uploads/v1/user/109315520.e768e154.200x200o.3d2e3ad62eb8.jpg,21,1609653338,premium,False,False,,,,,,,,,,,,chess.com
-97,465636602,arkadiikhromaev,,,XO,https://images.chesscomfiles.com/uploads/v1/user/465636602.a1090b7d.200x200o.ebd78ec3ca88.jpg,142,1752076697,premium,False,False,,,,,,,,,,,,chess.com
-98,156574447,shadowking71,James Chirilov,FM,AG,https://images.chesscomfiles.com/uploads/v1/user/156574447.3a5f84aa.200x200o.5df91856bab9.png,928,1633105511,premium,True,False,,,,,,,,,,,,chess.com
-99,490142287,qopy01,,,TR,https://images.chesscomfiles.com/uploads/v1/user/490142287.af8e235e.200x200o.8ed55c71d382.jpg,18,1759855308,premium,False,False,,,,,,,,,,,,chess.com
-100,147561215,badfarma07,,,US,https://images.chesscomfiles.com/uploads/v1/user/147561215.20520474.200x200o.5d31537919a3.jpg,275,1626039254,premium,False,False,,,,,,,,,,,,chess.com
-101,8344034,penguingm1,Andrew Tang,GM,US,https://images.chesscomfiles.com/uploads/v1/user/8344034.afe06124.200x200o.bcc27fc3d0b3.gif,9911,1343425021,premium,False,False,,,,,,,,,,,,chess.com
-102,28168290,oleksandr_bortnyk,Oleksandr Bortnyk,GM,US,https://images.chesscomfiles.com/uploads/v1/user/28168290.451f25f9.200x200o.8f240686cf4e.jpg,14226,1463142885,premium,True,False,,,,,,,,,,,,chess.com
-103,2555939,chessbrah,Chessbrah TV,GM,CA,https://images.chesscomfiles.com/uploads/v1/user/2555939.974bf39b.200x200o.b79b105ffb0e.png,25821,1266278502,premium,True,False,,,,,,,,,,,,chess.com
-104,26572336,zhigalko_sergei,Sergei Zhigalko,GM,XX,https://images.chesscomfiles.com/uploads/v1/user/26572336.93bb4ad6.200x200o.baa9688f1b6f.jpeg,2089,1454847263,premium,False,False,,,,,,,,,,,,chess.com
-105,302890559,boburjon314159,,,NO,https://images.chesscomfiles.com/uploads/v1/user/302890559.825945ee.200x200o.742a33d9e87c.jpg,50,1690724905,basic,False,False,,,,,,,,,,,,chess.com
-106,69197334,riley,KJ Honey,,BR,https://images.chesscomfiles.com/uploads/v1/user/69197334.45ea7a13.200x200o.cf7a49b01af2.jpg,6164,1576086876,premium,False,False,,,,,,,,,,,,chess.com
-107,73320100,0gzpanda,Anthony He,IM,US,https://images.chesscomfiles.com/uploads/v1/user/73320100.1d4e560c.200x200o.b8fd2b3db995.png,586,1583872513,premium,False,False,,,,,,,,,,,,chess.com
-108,34493616,blackmind96,Amir Mohammad Hamidi,FM,IR,https://images.chesscomfiles.com/uploads/v1/user/34493616.3fd976d8.200x200o.259d0bda56c5.jpeg,6977,1491242669,premium,False,False,,,,,,,,,,,,chess.com
-109,301895675,theystolemysanity,,,XX,,7,1690265103,basic,False,False,,,,,,,,,,,,chess.com
-110,21261922,miterryble,Renato Terry,IM,XX,,5747,1424880590,premium,True,False,,,,,,,,,,,,chess.com
-111,22639240,platy3,Alan Pichot,GM,ES,https://images.chesscomfiles.com/uploads/v1/user/22639240.1da8984e.200x200o.b0b696b8f6da.jpg,2787,1433174480,premium,False,False,,,,,,,,,,,,chess.com
-112,47092728,mitrabhaa,Mitrabha Guha,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/47092728.33d4b6ed.200x200o.e21b735a39a2.jpeg,1720,1528991976,premium,True,False,,,,,,,,,,,,chess.com
-113,37620822,judenyc,Jude Dude,,NO,https://images.chesscomfiles.com/uploads/v1/user/37620822.67352eda.200x200o.4c2a60f9db2d.jpg,553,1502082700,premium,False,False,,,,,,,,,,,,chess.com
-114,51814804,wk_willianhille,Willian Henrique Hille,NM,BR,https://images.chesscomfiles.com/uploads/v1/user/51814804.220a2601.200x200o.655b1852060d.jpg,2031,1542142041,premium,False,False,,,,,,,,,,,,chess.com
-115,5081249,littleplotkin,Mark Plotkin,IM,CA,https://images.chesscomfiles.com/uploads/v1/user/5081249.6e61c86a.200x200o.5b315cc56f53.jpeg,1491,1304607022,premium,False,False,,,,,,,,,,,,chess.com
-116,48765560,kingofthenil,Mahel Boyer,GM,FR,https://images.chesscomfiles.com/uploads/v1/user/48765560.81ea3488.200x200o.2a3526585307.webp,291,1534262047,premium,False,False,,,,,,,,,,,,chess.com
-117,47102936,yavrukurt40,Dincer Tasdogen,FM,TR,,248,1529017954,premium,False,False,,,,,,,,,,,,chess.com
-118,13355618,spectralsoul,Esteban Valderrama,IM,CO,https://images.chesscomfiles.com/uploads/v1/user/13355618.fa0fcee6.200x200o.8a7a45d77fdc.jpeg,797,1377991886,premium,False,False,,,,,,,,,,,,chess.com
-119,158597961,elfangm2,Elbert Fang,NM,US,https://images.chesscomfiles.com/uploads/v1/user/158597961.406ead1e.200x200o.f3002dd4baf2.webp,203,1634699353,premium,False,False,,,,,,,,,,,,chess.com
-120,341886071,worriedegg,Aaron Jacobson,IM,US,,108,1706492475,premium,False,False,,,,,,,,,,,,chess.com
-121,23583280,bocah_sakit,Novendra Priasmoro,GM,ID,https://images.chesscomfiles.com/uploads/v1/user/23583280.893f9b8e.200x200o.44731b8321f9.jpeg,625,1439043895,premium,False,False,,,,,,,,,,,,chess.com
-122,55213504,dolphin_2010,Aleksandr Usov,FM,RU,,33,1545989921,premium,False,False,,,,,,,,,,,,chess.com
-123,43499854,tactic,Kent Slate,NM,XX,https://images.chesscomfiles.com/uploads/v1/user/43499854.e7c64b0e.200x200o.3eaa576c08c3.webp,699,1519053244,premium,False,False,,,,,,,,,,,,chess.com
+enxadrista_id,player_id,username,nome,titulo,pais,avatar,seguidores,data_entrada,status,is_streamer,verificado,origem
+1,15448422,hikaru,Hikaru Nakamura,GM,US,https://images.chesscomfiles.com/uploads/v1/user/15448422.88c010c1.200x200o.3c5619f5441e.png,1371478,1389043258,premium,True,False,chess.com
+2,3889224,magnuscarlsen,Magnus Carlsen,GM,NO,https://images.chesscomfiles.com/uploads/v1/user/3889224.121e2094.200x200o.361c2f8a59c2.jpg,280905,1282856720,premium,False,False,chess.com
+3,34145346,denlaz,Denis Lazavik,GM,BY,https://images.chesscomfiles.com/uploads/v1/user/34145346.088fe903.200x200o.497edc350e6a.webp,1397,1490115455,premium,False,False,chess.com
+4,28692936,rpragchess,Praggnanandhaa Rameshbabu,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/28692936.02da0bac.200x200o.d0b1b8f66ac2.jpg,12443,1466301035,premium,False,False,chess.com
+5,30366824,gmwso,Wesley So,GM,US,https://images.chesscomfiles.com/uploads/v1/user/30366824.22d6b1f8.200x200o.bf8ce3f933fc.jpg,10728,1476324243,premium,False,False,chess.com
+6,33903360,sibelephant,Vladislav Artemiev,GM,RU,https://images.chesscomfiles.com/uploads/v1/user/33903360.eba9f5a2.200x200o.578bfd0b2e17.jpeg,3017,1489321339,premium,False,False,chess.com
+7,93593240,vi_pranav,Pranav V,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/93593240.10fc5f09.200x200o.d1f519160672.jpg,1803,1603296605,premium,False,False,chess.com
+8,42022994,firouzja2003,Alireza Firouzja,GM,FR,https://images.chesscomfiles.com/uploads/v1/user/42022994.2c7a0722.200x200o.3088f5180d8d.jpg,30609,1515159662,premium,False,False,chess.com
+9,88920388,hansontwitch,Hans Niemann,GM,US,,5769,1597255088,premium,False,False,chess.com
+10,50386860,gurelediz,Ediz Gürel,GM,TR,https://images.chesscomfiles.com/uploads/v1/user/50386860.8f4bcdc7.200x200o.52a55edd9e84.jpg,6091,1538629762,premium,False,False,chess.com
+11,47485766,polish_fighter3000,Jan-Krzysztof Duda,GM,PL,https://images.chesscomfiles.com/uploads/v1/user/47485766.de241c41.200x200o.7b706ebf58e7.jpeg,8538,1530287021,premium,False,False,chess.com
+12,207852275,philippians46,Andy Woodward,GM,US,https://images.chesscomfiles.com/uploads/v1/user/207852275.b5fd5b9c.200x200o.2658380fdb00.png,1910,1669071125,premium,False,False,chess.com
+13,35895346,mykola-bortnyk,Mykola Bortnyk,IM,US,https://images.chesscomfiles.com/uploads/v1/user/35895346.3571bef9.200x200o.a1ca3885e2f9.png,2287,1496033802,premium,False,False,chess.com
+14,330779979,javokhir_sindarov05,Javokhir Sindarov,GM,UZ,https://images.chesscomfiles.com/uploads/v1/user/330779979.94d8134b.200x200o.1e0c8c8f4314.jpg,775,1701897372,premium,False,False,chess.com
+15,52129472,spicycaterpillar,Ray Robson,GM,US,https://images.chesscomfiles.com/uploads/v1/user/52129472.c1bdd2d7.200x200o.30201b8ea497.jpeg,3163,1542762877,premium,False,False,chess.com
+16,7195919,nihalsarin,Nihal Sarin,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/7195919.159050ca.200x200o.883e75faf64e.jpg,20054,1333645859,premium,True,False,chess.com
+17,11474230,jefferyx,Jeffery Xiong,GM,US,https://images.chesscomfiles.com/uploads/v1/user/11474230.1802ddb7.200x200o.60d5d5608100.jpeg,2692,1365648529,premium,True,False,chess.com
+18,8829034,konavets,Sam Sevian,GM,US,https://images.chesscomfiles.com/uploads/v1/user/8829034.6d90a567.200x200o.60d12a06fdce.jpeg,1305,1347084219,premium,False,False,chess.com
+19,108520120,nikotheodorou,Nikolas Theodorou,GM,GR,https://images.chesscomfiles.com/uploads/v1/user/108520120.b86cc966.200x200o.d85a0c84f2ae.jpg,13842,1609393492,premium,False,False,chess.com
+20,17306408,lyonbeast,Maxime Vachier-Lagrave,GM,FR,https://images.chesscomfiles.com/uploads/v1/user/17306408.203effc9.200x200o.34baf459f6b7.jpg,15052,1400144409,premium,True,False,chess.com
+21,55724226,artooon,Pranesh M,GM,XX,https://images.chesscomfiles.com/uploads/v1/user/55724226.0ba82cd8.200x200o.daac4ae34c55.jpeg,1646,1547032883,premium,False,False,chess.com
+22,57142804,artin10862,Artin Ashraf,FM,TR,https://images.chesscomfiles.com/uploads/v1/user/57142804.9f5d4a92.200x200o.4a3156e37f5c.jpg,899,1549717857,premium,False,False,chess.com
+23,429108043,sina-movahed,Sina Movahed,GM,IR,https://images.chesscomfiles.com/uploads/v1/user/429108043.5d448809.200x200o.329b40742875.jpg,564,1739520887,premium,False,False,chess.com
+24,76811198,twitch_elhamblitz05,Elham Amar,GM,NO,,1001,1586978362,premium,False,False,chess.com
+25,39098776,micki-taryan,Haik Martirosyan,GM,AM,https://images.chesscomfiles.com/uploads/v1/user/39098776.eca167eb.200x200o.8e8ab1d48856.jpg,870,1506886162,premium,False,False,chess.com
+26,11177810,fabianocaruana,Fabiano Caruana,GM,US,https://images.chesscomfiles.com/uploads/v1/user/11177810.9dfc8d31.200x200o.9a9eccebc07c.png,22552,1363533272,premium,False,False,chess.com
+27,294649525,robert_angier,Konstantin Popov,IM,XX,https://images.chesscomfiles.com/uploads/v1/user/294649525.7e5337dc.200x200o.3a7678fb4c83.jpg,123,1687177916,premium,False,False,chess.com
+28,61085366,raunaksadhwani2005,Raunak Sadhwani,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/61085366.7e6977ec.200x200o.fa27239336b6.jpeg,2108,1558072018,premium,True,False,chess.com
+29,17860442,mishanick,Aleksei Sarana,GM,RS,https://images.chesscomfiles.com/uploads/v1/user/17860442.d25fa08e.200x200o.81d6cc6b6581.png,2376,1403943039,premium,False,False,chess.com
+30,12709942,chesswarrior7197,Nodirbek Abdusattorov,GM,UZ,https://images.chesscomfiles.com/uploads/v1/user/12709942.6e2e1d11.200x200o.ac217f38d8b4.png,4802,1373822333,premium,False,False,chess.com
+31,26897358,grischuk,Alexander Grischuk,GM,RU,https://images.chesscomfiles.com/uploads/v1/user/26897358.10f64fa8.200x200o.634d3db4ddc2.jpeg,7557,1456282378,premium,False,False,chess.com
+32,32230490,parhamov,Parham Maghsoodloo,GM,IR,https://images.chesscomfiles.com/uploads/v1/user/32230490.26c10df6.200x200o.7bb7031c30e8.jpg,5756,1483868974,premium,False,False,chess.com
+33,22252178,anishgiri,Anish Giri,GM,NL,https://images.chesscomfiles.com/uploads/v1/user/22252178.d8dff8c3.200x200o.8375b4cb1335.jpeg,11012,1430772657,premium,False,False,chess.com
+34,492781159,f1_and_chess,David Kaufman,IM,US,,19,1760641638,premium,False,False,chess.com
+35,16938404,wonderfultime,Tuan Minh Le,GM,VN,https://images.chesscomfiles.com/uploads/v1/user/16938404.edc37b62.200x200o.404676e7dc47.webp,9745,1397724828,premium,True,False,chess.com
+36,26897402,levonaronian,Levon Aronian,GM,US,https://images.chesscomfiles.com/uploads/v1/user/26897402.07482c01.200x200o.aafdac4f4570.jpeg,6501,1456282528,premium,False,False,chess.com
+37,21232844,msb2,Matthias Bluebaum,GM,DE,,1302,1424713872,premium,False,False,chess.com
+38,69192934,dropstonedp,David Paravyan,GM,RU,https://images.chesscomfiles.com/uploads/v1/user/69192934.19df0418.200x200o.5839b2717eb5.jpeg,934,1576081689,premium,False,False,chess.com
+39,20718020,ghandeevam2003,Arjun Erigaisi,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/20718020.b93b0dad.200x200o.ce63c2b5ea24.jpeg,5511,1421783344,premium,False,False,chess.com
+40,137706882,baku_boulevard,Rauf Mamedov,GM,UA,https://images.chesscomfiles.com/uploads/v1/user/137706882.0ca988e2.200x200o.e0649ae91b4c.jpeg,597,1619594485,premium,False,False,chess.com
+41,43194690,vincentkeymer,Vincent Keymer,GM,DE,https://images.chesscomfiles.com/uploads/v1/user/43194690.01e2e420.200x200o.5b2983036718.jpeg,3678,1518259553,premium,False,False,chess.com
+42,10767030,andreikka,Andrey Esipenko,GM,RU,https://images.chesscomfiles.com/uploads/v1/user/10767030.b20746db.200x200o.6172f1b0095c.jpg,3349,1360502176,premium,False,False,chess.com
+43,39249762,volodar_murzin,Volodar Murzin,GM,XX,https://images.chesscomfiles.com/uploads/v1/user/39249762.7e30c1dc.200x200o.a41083f165a5.jpeg,569,1507376415,premium,False,False,chess.com
+44,80994690,faustinooro,Faustino Oro,IM,AR,https://images.chesscomfiles.com/uploads/v1/user/80994690.b4cf9a71.200x200o.14ae099ead7c.jpg,7046,1590874408,premium,False,False,chess.com
+45,30494226,amintabatabaei,Amin Tabatabaei,GM,IR,https://images.chesscomfiles.com/uploads/v1/user/30494226.99d3ab53.200x200o.59863e92ff4b.jpg,1742,1476970017,premium,False,False,chess.com
+46,30887540,bogdandeac,Bogdan Daniel Deac,GM,RO,,4769,1479032100,premium,False,False,chess.com
+47,44760408,chessfighter_2011,Dau Khuong Duy,IM,VN,https://images.chesscomfiles.com/uploads/v1/user/44760408.7e2bb432.200x200o.32acd45c00e9.jpg,1544,1522318251,premium,False,False,chess.com
+48,26867272,jospem,Jose Martinez,GM,MX,https://images.chesscomfiles.com/uploads/v1/user/26867272.0496c4fd.200x200o.89ccc5145ecc.jpg,33320,1456152005,premium,True,False,chess.com
+49,49788594,pursuitofhappyness2,Abhimanyu Mishra,GM,US,https://images.chesscomfiles.com/uploads/v1/user/49788594.25ff3d86.200x200o.4a9380e9fd18.png,1434,1537055670,premium,False,False,chess.com
+50,28417564,lachesisq,Ian Nepomniachtchi,GM,RU,https://images.chesscomfiles.com/uploads/v1/user/28417564.288cde61.200x200o.d3c0bb1c1afd.jpg,16395,1464600099,premium,True,False,chess.com
+51,6083387,manudavid2910,Manu David,FM,IN,https://images.chesscomfiles.com/uploads/v1/user/6083387.7db47bc1.200x200o.0634c485076c.jpg,18376,1320689006,premium,False,False,chess.com
+52,26824392,gutovandrey,Andrey Gutov,GM,US,https://images.chesscomfiles.com/uploads/v1/user/26824392.45f76f42.200x200o.2bca585e3e36.jpeg,25601,1455957001,premium,False,False,chess.com
+53,57549096,seanwinshand,Sean Winshand,GM,ID,https://images.chesscomfiles.com/uploads/v1/user/57549096.b48504be.200x200o.4f2d0efb44bb.jpg,3919,1550585475,premium,False,False,chess.com
+54,11650164,lpsupi,Luis Paulo Supi,GM,BR,https://images.chesscomfiles.com/uploads/v1/user/11650164.da85056d.200x200o.67d7a22a745d.jpeg,12438,1366894767,premium,True,False,chess.com
+55,48066110,evandro_barbosa,Evandro Amorim Barbosa,GM,BR,https://images.chesscomfiles.com/uploads/v1/user/48066110.f26beab9.200x200o.7c294c6679b3.jpeg,4041,1532208663,premium,True,False,chess.com
+56,44629086,gigaquparadze,Giga Quparadze,GM,GE,https://images.chesscomfiles.com/uploads/v1/user/44629086.18a299eb.200x200o.41e140ad6097.jpeg,1947,1521971630,premium,False,False,chess.com
+57,27300798,lovevae,Wei Yi,GM,CN,https://images.chesscomfiles.com/uploads/v1/user/27300798.d45796b6.200x200o.1368393c5c7f.jpeg,1727,1458315576,premium,False,False,chess.com
+58,284620627,chasing_checkmate,Corey Acor,FM,US,https://images.chesscomfiles.com/uploads/v1/user/284620627.9662414f.200x200o.feb828eca821.jpg,318,1683861992,premium,False,False,chess.com
+59,338103933,lethalspider7,,,NO,,31,1704918317,basic,False,False,chess.com
+60,51248978,yachen_03,,,IM,https://images.chesscomfiles.com/uploads/v1/user/51248978.f652705a.200x200o.5e907b97d9e5.jpg,36,1540782400,premium,False,False,chess.com
+61,51123018,swiss_fighter,Gabriel Gähwiler,IM,CH,,150,1540469980,premium,False,False,chess.com
+62,62925986,g3god,Sasikiran Krishnan,GM,IN,,381,1562150230,premium,False,False,chess.com
+63,14074142,christopheryoo,Christopher Woojin Yoo,GM,TV,,7637,1382868780,premium,False,False,chess.com
+64,1355607,gmkrikor,Krikor Sevag Mekhitarian,GM,BR,https://images.chesscomfiles.com/uploads/v1/user/1355607.267b4f2b.200x200o.4cb2d1952100.jpeg,43478,1207980653,staff,True,False,chess.com
+65,26352834,berardino,Diego Berardino,IM,BR,https://images.chesscomfiles.com/uploads/v1/user/26352834.823a8d50.200x200o.4c32f681357e.png,2448,1453824890,premium,False,False,chess.com
+66,23579934,reader777,Read Samadov,IM,AZ,https://images.chesscomfiles.com/uploads/v1/user/23579934.435e3768.200x200o.3916fc4666f3.jpeg,167,1439023955,premium,False,False,chess.com
+67,49308476,szparu,Miłosz Szpar,GM,PL,https://images.chesscomfiles.com/uploads/v1/user/49308476.f296b7aa.200x200o.5f2c2dc46ff8.png,887,1535745436,premium,True,False,chess.com
+68,406113149,liindseeyy,,,FR,https://images.chesscomfiles.com/uploads/v1/user/406113149.2170f75d.200x200o.b61089e9b7f4.png,39,1732990246,basic,False,False,chess.com
+69,1784023,kacparov,Kacper Drozdowski,IM,PL,https://images.chesscomfiles.com/uploads/v1/user/1784023.7763d589.200x200o.5bc4233aef8a.jpeg,6202,1235389071,premium,False,False,chess.com
+70,157440329,aoitsukibluemoon,Wang Hao,GM,JP,https://images.chesscomfiles.com/uploads/v1/user/157440329.5a7d3617.200x200o.e72d8642a1e2.jpeg,119,1633758581,premium,False,False,chess.com
+71,3958391,gmbenjaminbok,Benjamin Bok,GM,NL,https://images.chesscomfiles.com/uploads/v1/user/3958391.1ca1273c.200x200o.b3509401e9cf.jpeg,21670,1284134842,premium,True,False,chess.com
+72,70572670,deechess123,,,IN,,31,1578673701,basic,False,False,chess.com
+73,152868735,wqws,Kaivalya Sandip Nagare,FM,IN,,88,1630315406,premium,False,False,chess.com
+74,11511066,elefante33,Felipe El Debs,GM,BR,https://images.chesscomfiles.com/uploads/v1/user/11511066.cf78393c.200x200o.0eca23131651.jpeg,2128,1365890244,premium,False,False,chess.com
+75,28234198,sargsyan_shant,Shant Sargsyan,GM,AM,https://images.chesscomfiles.com/uploads/v1/user/28234198.2be8ab34.200x200o.3b8860366115.jpg,116,1463515341,premium,False,False,chess.com
+76,75631914,sahibsinghknight,Sahib Singh,IM,IN,https://images.chesscomfiles.com/uploads/v1/user/75631914.86abd2d6.200x200o.bb1d3fdf5ae3.jpeg,512,1586006370,premium,False,False,chess.com
+77,23879414,gmalmeida,Omar Almeida Quintana,GM,CU,https://images.chesscomfiles.com/uploads/v1/user/23879414.86119a71.200x200o.f0aefd0cdba5.jpeg,121,1440866512,premium,False,False,chess.com
+78,26735280,astralpulse,Alex Goldin,GM,US,,142,1455562544,premium,False,False,chess.com
+79,37419240,elnur_mehtiyev,Elnur Mehtiyev,,AZ,https://images.chesscomfiles.com/uploads/v1/user/37419240.ddb20430.200x200o.9ef5aa0acf0d.jpeg,63,1501401826,basic,False,False,chess.com
+80,65338422,dual_flurry,Jerad Docena,IM,PH,,135,1568121699,premium,False,False,chess.com
+81,371633593,kazuko-chan,Luna (Xiaowen) Cao,,JP,https://images.chesscomfiles.com/uploads/v1/user/371633593.ab013513.200x200o.17b51e0c3cf1.jpg,419,1719232331,basic,False,False,chess.com
+82,55969800,chessmatenokk17,Sergey And. Korshunov,FM,RU,https://images.chesscomfiles.com/uploads/v1/user/55969800.3d2a6fa7.200x200o.090a119c7062.jpg,59,1547482601,premium,False,False,chess.com
+83,188604399,foxontherun97,Ondrej Toman,FM,CZ,https://images.chesscomfiles.com/uploads/v1/user/188604399.620a4674.200x200o.15cdb8840dad.jpg,125,1656658062,premium,False,False,chess.com
+84,2295334,grandmastergauri,Gauri Shankar,IM,US,https://images.chesscomfiles.com/uploads/v1/user/2295334.73f7eb58.200x200o.84b80eedfc9c.jpeg,725,1258047689,premium,False,False,chess.com
+85,3978224,zenzo,Armen Proudian,FM,BR,https://images.chesscomfiles.com/uploads/v1/user/3978224.bf373225.200x200o.138451b06615.jpeg,657,1284491777,premium,False,False,chess.com
+86,502840905,d6stronk,Bartosz Przybylski,FM,PL,https://images.chesscomfiles.com/uploads/v1/user/502840905.bf5010c2.200x200o.7adab6d63fa2.jpg,19,1763687811,premium,False,False,chess.com
+87,4083321,tapuah,Ilya Smirin,GM,IL,https://images.chesscomfiles.com/uploads/v1/user/4083321.a05d5ef2.200x200o.3f6dddd743a7.jpeg,5160,1286373393,premium,False,False,chess.com
+88,58985560,hamelekh,eyal deutsch,IM,IL,https://images.chesscomfiles.com/uploads/v1/user/58985560.00f4fb26.200x200o.9e72cbfd6825.jpeg,118,1553538543,premium,False,False,chess.com
+89,440178829,svr_2100khmym2k,,,ES,,1,1743096307,basic,False,False,chess.com
+90,1973757,sanyi9,Sanyi,,HU,,37,1244993787,premium,False,False,chess.com
+91,490664473,fernanjoel111762,,,PH,,4,1760012384,basic,False,False,chess.com
+92,55667092,wotgenie,Marcel Petersen,CM,DE,https://images.chesscomfiles.com/uploads/v1/user/55667092.b3eb0462.200x200o.59bd3d605004.jpeg,75,1546908536,premium,False,False,chess.com
+93,66246790,liamputnam2008,Liam Putnam,IM,US,https://images.chesscomfiles.com/uploads/v1/user/66246790.01e0ba2c.200x200o.fdaa257a68fe.jpg,3301,1570134100,premium,False,False,chess.com
+94,342500227,ntphuc1122,,,VN,https://images.chesscomfiles.com/uploads/v1/user/342500227.1aea4f3c.200x200o.ad1f6c0fa53a.jpg,206,1706766921,premium,False,False,chess.com
+95,109315520,alexboy14,Oleksii Nakonechnyi,CM,UA,https://images.chesscomfiles.com/uploads/v1/user/109315520.e768e154.200x200o.3d2e3ad62eb8.jpg,21,1609653338,premium,False,False,chess.com
+96,465636602,arkadiikhromaev,,,XO,https://images.chesscomfiles.com/uploads/v1/user/465636602.a1090b7d.200x200o.ebd78ec3ca88.jpg,142,1752076697,premium,False,False,chess.com
+97,156574447,shadowking71,James Chirilov,FM,AG,https://images.chesscomfiles.com/uploads/v1/user/156574447.3a5f84aa.200x200o.5df91856bab9.png,928,1633105511,premium,True,False,chess.com
+98,490142287,qopy01,,,TR,https://images.chesscomfiles.com/uploads/v1/user/490142287.af8e235e.200x200o.8ed55c71d382.jpg,18,1759855308,premium,False,False,chess.com
+99,147561215,badfarma07,,,US,https://images.chesscomfiles.com/uploads/v1/user/147561215.20520474.200x200o.5d31537919a3.jpg,275,1626039254,premium,False,False,chess.com
+100,8344034,penguingm1,Andrew Tang,GM,US,https://images.chesscomfiles.com/uploads/v1/user/8344034.afe06124.200x200o.bcc27fc3d0b3.gif,9911,1343425021,premium,False,False,chess.com
+101,28168290,oleksandr_bortnyk,Oleksandr Bortnyk,GM,US,https://images.chesscomfiles.com/uploads/v1/user/28168290.451f25f9.200x200o.8f240686cf4e.jpg,14226,1463142885,premium,True,False,chess.com
+102,2555939,chessbrah,Chessbrah TV,GM,CA,https://images.chesscomfiles.com/uploads/v1/user/2555939.974bf39b.200x200o.b79b105ffb0e.png,25821,1266278502,premium,True,False,chess.com
+103,26572336,zhigalko_sergei,Sergei Zhigalko,GM,XX,https://images.chesscomfiles.com/uploads/v1/user/26572336.93bb4ad6.200x200o.baa9688f1b6f.jpeg,2089,1454847263,premium,False,False,chess.com
+104,302890559,boburjon314159,,,NO,https://images.chesscomfiles.com/uploads/v1/user/302890559.825945ee.200x200o.742a33d9e87c.jpg,50,1690724905,basic,False,False,chess.com
+105,69197334,riley,KJ Honey,,BR,https://images.chesscomfiles.com/uploads/v1/user/69197334.45ea7a13.200x200o.cf7a49b01af2.jpg,6164,1576086876,premium,False,False,chess.com
+106,73320100,0gzpanda,Anthony He,IM,US,https://images.chesscomfiles.com/uploads/v1/user/73320100.1d4e560c.200x200o.b8fd2b3db995.png,586,1583872513,premium,False,False,chess.com
+107,34493616,blackmind96,Amir Mohammad Hamidi,FM,IR,https://images.chesscomfiles.com/uploads/v1/user/34493616.3fd976d8.200x200o.259d0bda56c5.jpeg,6977,1491242669,premium,False,False,chess.com
+108,301895675,theystolemysanity,,,XX,,7,1690265103,basic,False,False,chess.com
+109,21261922,miterryble,Renato Terry,IM,XX,,5747,1424880590,premium,True,False,chess.com
+110,22639240,platy3,Alan Pichot,GM,ES,https://images.chesscomfiles.com/uploads/v1/user/22639240.1da8984e.200x200o.b0b696b8f6da.jpg,2787,1433174480,premium,False,False,chess.com
+111,47092728,mitrabhaa,Mitrabha Guha,GM,IN,https://images.chesscomfiles.com/uploads/v1/user/47092728.33d4b6ed.200x200o.e21b735a39a2.jpeg,1720,1528991976,premium,True,False,chess.com
+112,37620822,judenyc,Jude Dude,,NO,https://images.chesscomfiles.com/uploads/v1/user/37620822.67352eda.200x200o.4c2a60f9db2d.jpg,553,1502082700,premium,False,False,chess.com
+113,51814804,wk_willianhille,Willian Henrique Hille,NM,BR,https://images.chesscomfiles.com/uploads/v1/user/51814804.220a2601.200x200o.655b1852060d.jpg,2031,1542142041,premium,False,False,chess.com
+114,5081249,littleplotkin,Mark Plotkin,IM,CA,https://images.chesscomfiles.com/uploads/v1/user/5081249.6e61c86a.200x200o.5b315cc56f53.jpeg,1491,1304607022,premium,False,False,chess.com
+115,48765560,kingofthenil,Mahel Boyer,GM,FR,https://images.chesscomfiles.com/uploads/v1/user/48765560.81ea3488.200x200o.2a3526585307.webp,291,1534262047,premium,False,False,chess.com
+116,47102936,yavrukurt40,Dincer Tasdogen,FM,TR,,248,1529017954,premium,False,False,chess.com
+117,13355618,spectralsoul,Esteban Valderrama,IM,CO,https://images.chesscomfiles.com/uploads/v1/user/13355618.fa0fcee6.200x200o.8a7a45d77fdc.jpeg,797,1377991886,premium,False,False,chess.com
+118,158597961,elfangm2,Elbert Fang,NM,US,https://images.chesscomfiles.com/uploads/v1/user/158597961.406ead1e.200x200o.f3002dd4baf2.webp,203,1634699353,premium,False,False,chess.com
+119,341886071,worriedegg,Aaron Jacobson,IM,US,,108,1706492475,premium,False,False,chess.com
+120,23583280,bocah_sakit,Novendra Priasmoro,GM,ID,https://images.chesscomfiles.com/uploads/v1/user/23583280.893f9b8e.200x200o.44731b8321f9.jpeg,625,1439043895,premium,False,False,chess.com
+121,55213504,dolphin_2010,Aleksandr Usov,FM,RU,,33,1545989921,premium,False,False,chess.com
+122,43499854,tactic,Kent Slate,NM,XX,https://images.chesscomfiles.com/uploads/v1/user/43499854.e7c64b0e.200x200o.3eaa576c08c3.webp,699,1519053244,premium,False,False,chess.com
