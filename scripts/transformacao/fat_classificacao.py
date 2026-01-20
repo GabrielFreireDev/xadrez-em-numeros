@@ -59,7 +59,7 @@ def coletar_leaderboard():
 # =========================================================
 
 def main():
-    logger.info("===== INÍCIO FACT_LEADERBOARD =====")
+    logger.info("===== INÍCIO FAT_LEADERBOARD =====")
 
     os.makedirs(DATA_ANALYTICS_PATH, exist_ok=True)
 
@@ -115,7 +115,7 @@ def main():
     df_fact.to_csv(caminho_saida, index=False, encoding="utf-8")
 
     logger.info(f"Fact criada com sucesso: {caminho_saida}")
-    logger.info("===== FIM FACT_CLASSIFICACAO =====")
+    logger.info("===== FIM FAT_CLASSIFICACAO =====")
 
 
 if __name__ == "__main__":
