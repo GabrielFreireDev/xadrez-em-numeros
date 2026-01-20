@@ -85,6 +85,8 @@ def main():
         
             registros.append({
                 "player_id": dados.get("player_id"),
+                "@id": dados.get("@id"),
+                "url": dados.get("url"),
                 "username": dados.get("username"),
                 "nome": dados.get("name"),
                 "titulo": dados.get("title"),
