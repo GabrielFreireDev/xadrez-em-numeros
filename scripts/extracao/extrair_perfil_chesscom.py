@@ -82,15 +82,7 @@ def main():
             ) as f:
                 json.dump(dados, f, ensure_ascii=False, indent=2)
 
-            # -------------------------------------------------
-            # Conversão do timestamp de entrada (joined)
-            # -------------------------------------------------
-            data_entrada = (
-                datetime.fromtimestamp(dados["joined"], tz=timezone.utc).date()
-                if dados.get("joined")
-                else None
-            )
-
+        
             registros.append({
                 "player_id": dados.get("player_id"),
                 "username": dados.get("username"),
@@ -100,7 +92,12 @@ def main():
                 "url": dados.get("url"),
                 "seguidores": dados.get("followers"),
                 "pais": dados.get("country").split("/")[-1] if dados.get("country") else None,
-                "data_entrada": data_entrada,
+                "data_entrada": (
+                    datetime.fromtimestamp(dados["joined"], tz=timezone.utc)
+                    .strftime("%Y-%m-%d")
+                    if dados.get("joined")
+                    else None
+                ),
                 "status": dados.get("status"),
                 "is_streamer": dados.get("is_streamer"),
                 "verificado": dados.get("verified"),
