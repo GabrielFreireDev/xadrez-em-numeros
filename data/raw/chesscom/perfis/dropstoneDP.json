@@ -1,0 +1,18 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/69192934.19df0418.200x200o.5839b2717eb5.jpeg",
+  "player_id": 69192934,
+  "@id": "https://api.chess.com/pub/player/dropstonedp",
+  "url": "https://www.chess.com/member/dropstoneDP",
+  "name": "David Paravyan",
+  "username": "dropstonedp",
+  "title": "GM",
+  "followers": 934,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1768812165,
+  "joined": 1576081689,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

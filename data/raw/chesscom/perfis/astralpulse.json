@@ -1,0 +1,18 @@
+{
+  "player_id": 26735280,
+  "@id": "https://api.chess.com/pub/player/astralpulse",
+  "url": "https://www.chess.com/member/astralpulse",
+  "name": "Alex Goldin",
+  "username": "astralpulse",
+  "title": "GM",
+  "followers": 142,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Chicago",
+  "last_online": 1768860980,
+  "joined": 1455562544,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": []
+}

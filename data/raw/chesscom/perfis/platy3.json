@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22639240.1da8984e.200x200o.b0b696b8f6da.jpg",
+  "player_id": 22639240,
+  "@id": "https://api.chess.com/pub/player/platy3",
+  "url": "https://www.chess.com/member/platy3",
+  "name": "Alan Pichot",
+  "username": "platy3",
+  "title": "GM",
+  "followers": 2788,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "España",
+  "last_online": 1768863550,
+  "joined": 1433174480,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

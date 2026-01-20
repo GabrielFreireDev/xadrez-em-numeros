@@ -1,0 +1,17 @@
+{
+  "player_id": 14074142,
+  "@id": "https://api.chess.com/pub/player/christopheryoo",
+  "url": "https://www.chess.com/member/ChristopherYoo",
+  "name": "Christopher Woojin Yoo",
+  "username": "christopheryoo",
+  "title": "GM",
+  "followers": 7637,
+  "country": "https://api.chess.com/pub/country/TV",
+  "last_online": 1768853930,
+  "joined": 1382868780,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

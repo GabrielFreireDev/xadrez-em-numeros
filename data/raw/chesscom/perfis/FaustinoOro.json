@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/80994690.b4cf9a71.200x200o.14ae099ead7c.jpg",
+  "player_id": 80994690,
+  "@id": "https://api.chess.com/pub/player/faustinooro",
+  "url": "https://www.chess.com/member/FaustinoOro",
+  "name": "Faustino Oro",
+  "username": "faustinooro",
+  "title": "IM",
+  "followers": 7060,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Badalona, Barcelona - España",
+  "last_online": 1768865117,
+  "joined": 1590874408,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

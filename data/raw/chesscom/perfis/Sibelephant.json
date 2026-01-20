@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33903360.eba9f5a2.200x200o.578bfd0b2e17.jpeg",
+  "player_id": 33903360,
+  "@id": "https://api.chess.com/pub/player/sibelephant",
+  "url": "https://www.chess.com/member/Sibelephant",
+  "name": "Vladislav Artemiev",
+  "username": "sibelephant",
+  "title": "GM",
+  "followers": 3018,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Казань",
+  "last_online": 1768329092,
+  "joined": 1489321339,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": []
+}

@@ -1,0 +1,17 @@
+{
+  "player_id": 55213504,
+  "@id": "https://api.chess.com/pub/player/dolphin_2010",
+  "url": "https://www.chess.com/member/Dolphin_2010",
+  "name": "Aleksandr Usov",
+  "username": "dolphin_2010",
+  "title": "FM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1768576256,
+  "joined": 1545989921,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": []
+}

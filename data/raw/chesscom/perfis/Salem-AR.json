@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27168196.a7e8c448.200x200o.5971d272bf8c.jpg",
+  "player_id": 27168196,
+  "@id": "https://api.chess.com/pub/player/salem-ar",
+  "url": "https://www.chess.com/member/Salem-AR",
+  "name": "Salem AR Saleh",
+  "username": "salem-ar",
+  "title": "GM",
+  "followers": 3661,
+  "country": "https://api.chess.com/pub/country/AE",
+  "location": "Sharjah",
+  "last_online": 1768862768,
+  "joined": 1457640860,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

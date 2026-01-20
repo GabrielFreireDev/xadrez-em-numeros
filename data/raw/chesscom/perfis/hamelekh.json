@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/58985560.00f4fb26.200x200o.9e72cbfd6825.jpeg",
+  "player_id": 58985560,
+  "@id": "https://api.chess.com/pub/player/hamelekh",
+  "url": "https://www.chess.com/member/hamelekh",
+  "name": "eyal deutsch",
+  "username": "hamelekh",
+  "title": "IM",
+  "followers": 118,
+  "country": "https://api.chess.com/pub/country/IL",
+  "location": "kfar saba",
+  "last_online": 1768850616,
+  "joined": 1553538543,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": []
+}

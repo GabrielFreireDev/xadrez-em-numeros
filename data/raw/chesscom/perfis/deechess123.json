@@ -1,0 +1,15 @@
+{
+  "player_id": 70572670,
+  "@id": "https://api.chess.com/pub/player/deechess123",
+  "url": "https://www.chess.com/member/deechess123",
+  "username": "deechess123",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1768296895,
+  "joined": 1578673701,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": []
+}

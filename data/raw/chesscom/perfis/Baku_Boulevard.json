@@ -1,0 +1,18 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/137706882.0ca988e2.200x200o.e0649ae91b4c.jpeg",
+  "player_id": 137706882,
+  "@id": "https://api.chess.com/pub/player/baku_boulevard",
+  "url": "https://www.chess.com/member/Baku_Boulevard",
+  "name": "Rauf Mamedov",
+  "username": "baku_boulevard",
+  "title": "GM",
+  "followers": 597,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1768717242,
+  "joined": 1619594485,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": []
+}

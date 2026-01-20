@@ -1,0 +1,17 @@
+{
+  "player_id": 55544800,
+  "@id": "https://api.chess.com/pub/player/shield12",
+  "url": "https://www.chess.com/member/Shield12",
+  "name": "Shamsiddin Vokhidov",
+  "username": "shield12",
+  "title": "GM",
+  "followers": 1114,
+  "country": "https://api.chess.com/pub/country/UZ",
+  "last_online": 1768829564,
+  "joined": 1546667730,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

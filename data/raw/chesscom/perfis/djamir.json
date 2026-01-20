@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8879438.7df319de.200x200o.736313554603.jpeg",
+  "player_id": 8879438,
+  "@id": "https://api.chess.com/pub/player/djamir",
+  "url": "https://www.chess.com/member/djamir",
+  "name": "Amir Hossein Jamshidi",
+  "username": "djamir",
+  "title": "FM",
+  "followers": 701,
+  "country": "https://api.chess.com/pub/country/IR",
+  "location": "Tehran",
+  "last_online": 1767883415,
+  "joined": 1347458233,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": []
+}

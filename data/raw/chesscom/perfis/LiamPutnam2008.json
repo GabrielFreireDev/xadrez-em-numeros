@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/66246790.01e0ba2c.200x200o.fdaa257a68fe.jpg",
+  "player_id": 66246790,
+  "@id": "https://api.chess.com/pub/player/liamputnam2008",
+  "url": "https://www.chess.com/member/LiamPutnam2008",
+  "name": "Liam Putnam",
+  "username": "liamputnam2008",
+  "title": "IM",
+  "followers": 3301,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1768832159,
+  "joined": 1570134100,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

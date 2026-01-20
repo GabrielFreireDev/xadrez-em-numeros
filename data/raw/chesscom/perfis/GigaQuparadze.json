@@ -1,0 +1,18 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44629086.18a299eb.200x200o.41e140ad6097.jpeg",
+  "player_id": 44629086,
+  "@id": "https://api.chess.com/pub/player/gigaquparadze",
+  "url": "https://www.chess.com/member/GigaQuparadze",
+  "name": "Giga Quparadze",
+  "username": "gigaquparadze",
+  "title": "GM",
+  "followers": 1948,
+  "country": "https://api.chess.com/pub/country/GE",
+  "last_online": 1768854942,
+  "joined": 1521971630,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": []
+}

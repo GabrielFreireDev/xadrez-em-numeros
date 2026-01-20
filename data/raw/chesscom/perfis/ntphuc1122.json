@@ -1,0 +1,16 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/342500227.1aea4f3c.200x200o.ad1f6c0fa53a.jpg",
+  "player_id": 342500227,
+  "@id": "https://api.chess.com/pub/player/ntphuc1122",
+  "url": "https://www.chess.com/member/ntphuc1122",
+  "username": "ntphuc1122",
+  "followers": 206,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1768847823,
+  "joined": 1706766921,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

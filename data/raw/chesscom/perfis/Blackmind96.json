@@ -1,0 +1,19 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34493616.3fd976d8.200x200o.259d0bda56c5.jpeg",
+  "player_id": 34493616,
+  "@id": "https://api.chess.com/pub/player/blackmind96",
+  "url": "https://www.chess.com/member/Blackmind96",
+  "name": "Amir Mohammad Hamidi",
+  "username": "blackmind96",
+  "title": "FM",
+  "followers": 6978,
+  "country": "https://api.chess.com/pub/country/IR",
+  "location": "Arak",
+  "last_online": 1767844004,
+  "joined": 1491242669,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": []
+}

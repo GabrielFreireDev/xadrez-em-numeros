@@ -1,0 +1,15 @@
+{
+  "player_id": 301895675,
+  "@id": "https://api.chess.com/pub/player/theystolemysanity",
+  "url": "https://www.chess.com/member/TheyStoleMySanity",
+  "username": "theystolemysanity",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/XX",
+  "location": "Asylum",
+  "last_online": 1768646854,
+  "joined": 1690265103,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": []
+}
