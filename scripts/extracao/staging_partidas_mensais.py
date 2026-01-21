@@ -20,9 +20,13 @@ DATA_PROCESSED_PATH = os.getenv("DATA_PROCESSED_PATH")
 
 USERNAME = "lpsupi"
 MESES = [
-    (2025, 10),
-    (2025, 11),
-    (2025, 12),
+    ('2025', '06'),
+    ('2025', '07'),
+    ('2025', '08'),
+    ('2025', '09'),
+    ('2025', '10'),
+    ('2025', '11'),
+    ('2025', '12'),
 ]
 
 URL_GAMES = "https://api.chess.com/pub/player/{}/games/{}/{}"
@@ -92,7 +96,7 @@ def main():
     registros = []
 
     for ano, mes in MESES:
-        logger.info(f"Coletando partidas {USERNAME} - {ano}/{mes:02d}")
+        logger.info(f"Coletando partidas {USERNAME} - {ano}/{mes}")
         url = URL_GAMES.format(USERNAME, ano, mes)
 
         response = requests.get(url, headers=HEADERS, timeout=15)
@@ -105,7 +109,7 @@ def main():
 
         # salva json bruto
         with open(
-            f"{DATA_RAW_PATH}/chesscom/partidas/{USERNAME}_{ano}_{mes:02d}.json",
+            f"{DATA_RAW_PATH}/chesscom/partidas/{USERNAME}_{ano}_{mes}.json",
             "w",
             encoding="utf-8"
         ) as f:
