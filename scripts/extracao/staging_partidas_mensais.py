@@ -44,8 +44,6 @@ TRADUCAO_RESULTADO = {
     "win": "vitória"
 }
 
-
-
 # =========================================================
 # Logging
 # =========================================================
@@ -62,7 +60,7 @@ logger = logging.getLogger(__name__)
 # =========================================================
 
 def unix_para_data(unix_time):
-    if pd.isna(unix_time):
+    if not unix_time:
         return None
     return datetime.fromtimestamp(unix_time, tz=timezone.utc).date()
 
@@ -73,15 +71,15 @@ def extrair_eco_sufixo(eco_url):
     return eco_url.rstrip("/").split("/")[-1]
 
 
-def criar_diretorios():
-    os.makedirs(f"{DATA_RAW_PATH}/chesscom/partidas", exist_ok=True)
-    os.makedirs(f"{DATA_PROCESSED_PATH}/staging", exist_ok=True)
-
 def traduzir_resultado(resultado):
     if not resultado:
         return None
     return TRADUCAO_RESULTADO.get(resultado, resultado)
 
+
+def criar_diretorios():
+    os.makedirs(f"{DATA_RAW_PATH}/chesscom/partidas", exist_ok=True)
+    os.makedirs(f"{DATA_PROCESSED_PATH}/staging", exist_ok=True)
 
 # =========================================================
 # Execução principal
@@ -116,23 +114,42 @@ def main():
         games = dados.get("games", [])
 
         for game in games:
+            data_partida = unix_para_data(game.get("end_time"))
+            eco_raw = extrair_eco_sufixo(game.get("eco"))
+
+            # Registro BRANCAS
+            white = game.get("white", {})
             registros.append({
                 "partida_url": game.get("url"),
-                "data": unix_para_data(game.get("end_time")),
+                "data": data_partida,
                 "rated": game.get("rated"),
-                "precisao_brancas": game.get("accuracies", {}).get("white"),
-                "precisao_pretas": game.get("accuracies", {}).get("black"),
                 "modalidade": game.get("time_class"),
                 "regras": game.get("rules"),
-                "rating_brancas": traduzir_resultado(game.get("white", {}).get("rating")),
-                "resultado_brancas": traduzir_resultado(game.get("white", {}).get("result")),
-                "brancas_username": game.get("white", {}).get("username", "").lower(),
-                "brancas_@id": game.get("white", {}).get("@id"),
-                "rating_pretas": game.get("black", {}).get("rating"),
-                "resultado_pretas": game.get("black", {}).get("result"),
-                "pretas_username": game.get("black", {}).get("username", "").lower(),
-                "pretas_@id": game.get("black", {}).get("@id"),
-                "eco_abertura_raw": extrair_eco_sufixo(game.get("eco")),
+                "cor": "branca",
+                "resultado": traduzir_resultado(white.get("result")),
+                "rating": white.get("rating"),
+                "precisao": game.get("accuracies", {}).get("white"),
+                "username": white.get("username", "").lower(),
+                "player_api_id": white.get("@id"),
+                "eco_abertura_raw": eco_raw,
+                "origem": "chess.com"
+            })
+
+            # Registro PRETAS
+            black = game.get("black", {})
+            registros.append({
+                "partida_url": game.get("url"),
+                "data": data_partida,
+                "rated": game.get("rated"),
+                "modalidade": game.get("time_class"),
+                "regras": game.get("rules"),
+                "cor": "preta",
+                "resultado": traduzir_resultado(black.get("result")),
+                "rating": black.get("rating"),
+                "precisao": game.get("accuracies", {}).get("black"),
+                "username": black.get("username", "").lower(),
+                "player_api_id": black.get("@id"),
+                "eco_abertura_raw": eco_raw,
                 "origem": "chess.com"
             })
 
@@ -145,7 +162,6 @@ def main():
 
     logger.info(f"Arquivo gerado: {caminho_saida}")
     logger.info("===== FIM STAGING_PARTIDAS_MENSAIS =====")
-
 
 if __name__ == "__main__":
     main()
