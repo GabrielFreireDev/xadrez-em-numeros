@@ -1,0 +1,819 @@
+eco_id,eco_abertura,eco_nome_reduzido,origem
+1,Kings-Indian-Defense-Orthodox-Positional-Defense-8.Be3-Re8-9.Qc2,Kings Indian Defense Orthodox Positional Defense,chess.com
+2,London-System...6.c3-cxd4-7.exd4-Nh5-8.Bg5,London System...,chess.com
+3,Scandinavian-Defense-2.e5-c5,Scandinavian Defense,chess.com
+4,Giuoco-Piano-Game...5.c3-Nf6-6.d3-h6-7.Re1,Giuoco Piano Game...,chess.com
+5,Kings-Pawn-Opening-Kings-Knight-Konstantinopolsky-Variation-3...Nf6-4.d3-Bc5-5.Bg2,Kings Pawn Opening Kings Knight Konstantinopolsky Variation,chess.com
+6,Sicilian-Defense-French-Variation...5.Qe2-e5-6.O-O-Be7-7.c3-O-O,Sicilian Defense French Variation...,chess.com
+7,Kings-Indian-Defense-Normal-Variation...5.Nf3-O-O-6.h3-c6-7.Be3,Kings Indian Defense Normal Variation...,chess.com
+8,French-Defense-Exchange-Variation-3...exd5,French Defense Exchange Variation,chess.com
+9,French-Defense-Tarrasch-Open-Euwe-Keres-Line...6.dxc5-Bxc5-7.Nb3-Ba7,French Defense Tarrasch Open Euwe Keres Line...,chess.com
+10,Sicilian-Defense-Canal-Main-Line-4.Bxd7-Nxd7-5.O-O,Sicilian Defense Canal Main Line,chess.com
+11,Sicilian-Defense-Old-Sicilian-Variation-3.Bc4-e6-4.O-O,Sicilian Defense Old Sicilian Variation,chess.com
+12,Closed-Sicilian-Defense...3.d4-cxd4-4.Qxd4-Nf6,Closed Sicilian Defense...,chess.com
+13,French-Defense-Kings-Indian-Attack-Reversed-Philidor-Formation,French Defense Kings Indian Attack Reversed Philidor Formation,chess.com
+14,Reti-Opening-Kings-Indian-Attack...4.O-O-g6-5.d3-Bg7-6.e4,Reti Opening Kings Indian Attack...,chess.com
+15,Four-Knights-Game-Gunsberg-Variation,Four Knights Game Gunsberg Variation,chess.com
+16,Italian-Game-Two-Knights-Modern-Bishops-Opening-4...d5-5.exd5-Nxd5-6.O-O,Italian Game Two Knights Modern Bishops Opening,chess.com
+17,Queens-Pawn-Opening-Horwitz-Defense,Queens Pawn Opening Horwitz Defense,chess.com
+18,Caro-Kann-Defense-Main-Line-4...Nf6,Caro Kann Defense Main Line,chess.com
+19,Old-Benoni-Defense,Old Benoni Defense,chess.com
+20,Caro-Kann-Defense-Tartakower-Forgacs-Variation-6...Bd6-7.Qe2-Be7,Caro Kann Defense Tartakower Forgacs Variation,chess.com
+21,Italian-Game...6.Nc3-Be7-7.O-O-O-O,Italian Game...,chess.com
+22,Caro-Kann-Defense-Breyer-Variation...5.d4-exd4-6.exd5-cxd5,Caro Kann Defense Breyer Variation...,chess.com
+23,Sicilian-Defense...5.Bg2-Bg7-6.O-O-O-O,Sicilian Defense...,chess.com
+24,Kings-Indian-Attack...3.Bg2-g6-4.O-O-Bg7,Kings Indian Attack...,chess.com
+25,Scotch-Game-Classical-Potter-Variation-5...Bb6-6.Nc3-d6-7.Qe2,Scotch Game Classical Potter Variation,chess.com
+26,Scotch-Game-Scotch-Gambit-Haxo-Sarratt-Variation-5...Nh6-6.Nxf7,Scotch Game Scotch Gambit Haxo Sarratt Variation,chess.com
+27,Catalan-Opening-Closed...5.Nf3-c5-6.O-O-Nc6,Catalan Opening Closed...,chess.com
+28,Magnus-Queens-Gambit-4.cxd5-exd5-5.Nf3,Magnus Queens Gambit,chess.com
+29,Queens-Gambit-Declined-Three-Knights-Harrwitz-Attack-5...O-O-6.a3,Queens Gambit Declined Three Knights Harrwitz Attack,chess.com
+30,Kings-Indian-Defense-Fianchetto-Yugoslav-Kavalek-Bronstein-Larsen-Defense,Kings Indian Defense Fianchetto Yugoslav Kavalek Bronstein Larsen Defense,chess.com
+31,French-Defense-Winawer-Advance-Bogoljubov-Variation...6.a3-Bxc3-7.Bxc3-b6,French Defense Winawer Advance Bogoljubov Variation...,chess.com
+32,Italian-Game-Two-Knights-Modern-Bishops-Opening-4...h6-5.Nc3,Italian Game Two Knights Modern Bishops Opening,chess.com
+33,Giuoco-Piano-Game-Giuoco-Pianissimo-Italian-Four-Knights-Variation-5...d6,Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Variation,chess.com
+34,Closed-Sicilian-Defense-2...e6,Closed Sicilian Defense,chess.com
+35,Kings-Indian-Defense-Orthodox-Variation-6...e5-7.O-O,Kings Indian Defense Orthodox Variation,chess.com
+36,Kings-Indian-Defense-Orthodox-Glek-Defense-8.Be3-c6,Kings Indian Defense Orthodox Glek Defense,chess.com
+37,English-Opening-Four-Knights-Kingside-Fianchetto-Line-4...g6-5.Bg2-Bg7-6.d4,English Opening Four Knights Kingside Fianchetto Line,chess.com
+38,Sicilian-Defense-French-Variation,Sicilian Defense French Variation,chess.com
+39,English-Opening-Anglo-Indian-Kings-Knight-Queens-Indian-Formation-3.d4-Bb7-4.Nc3,English Opening Anglo Indian Kings Knight Queens Indian Formation,chess.com
+40,English-Opening-Symmetrical-Anti-Benoni-Variation...6.g3-Bg7-7.Bg2-O-O-8.O-O,English Opening Symmetrical Anti Benoni Variation...,chess.com
+41,Sicilian-Defense...6.O-O-e5-7.c3-Nge7,Sicilian Defense...,chess.com
+42,Giuoco-Piano-Game-Giuoco-Pianissimo-Italian-Four-Knights-Variation-5...a6,Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Variation,chess.com
+43,Reti-Opening-Kings-Indian-Attack...5.d3-e6-6.e4-d6,Reti Opening Kings Indian Attack...,chess.com
+44,Sicilian-Defense-Delayed-Alapin-Variation...5.O-O-Be7-6.Re1-O-O-7.Bf1,Sicilian Defense Delayed Alapin Variation...,chess.com
+45,Kings-Indian-Defense-Fianchetto-Yugoslav-Panno-System-6...c6-7.b3,Kings Indian Defense Fianchetto Yugoslav Panno System,chess.com
+46,Sicilian-Defense-Canal-Attack-3...Nc6-4.Bxc6-bxc6,Sicilian Defense Canal Attack,chess.com
+47,English-Opening-Symmetrical-Variation...6.Nc3-Nc6-7.d3-d6-8.a3,English Opening Symmetrical Variation...,chess.com
+48,Sicilian-Defense-Westerinen-Attack-3...b6-4.d4,Sicilian Defense Westerinen Attack,chess.com
+49,Queens-Pawn-Opening...4.Nf3-Nf6-5.O-O-O-O-6.c4,Queens Pawn Opening...,chess.com
+50,Kings-Indian-Defense-Semi-Averbakh-System-6...c5-7.d5,Kings Indian Defense Semi Averbakh System,chess.com
+51,Sicilian-Defense...6.Nf3-Nf6-7.O-O-O-O-8.h3,Sicilian Defense...,chess.com
+52,Kings-Indian-Defense-Fianchetto-Yugoslav-System-5.Nf3-O-O-6.Nc3,Kings Indian Defense Fianchetto Yugoslav System,chess.com
+53,Nimzo-Indian-Defense-Bishop-Attack-Classical-Defense...7.Ne2-Re8-8.O-O-Bd6,Nimzo Indian Defense Bishop Attack Classical Defense...,chess.com
+54,Sicilian-Defense-Kan-Knight-Variation-Wing-Attack-6.Bd3-Qb6-7.Nb3-Qc7-8.O-O,Sicilian Defense Kan Knight Variation Wing Attack,chess.com
+55,Queens-Pawn-Opening-Chigorin-Variation...4.f3-e6-5.g4-Bg6-6.h4,Queens Pawn Opening Chigorin Variation...,chess.com
+56,Queens-Gambit-Declined-Catalan-Opening,Queens Gambit Declined Catalan Opening,chess.com
+57,Ruy-Lopez-Opening-Morphy-Defense-Anderssen-Variation...8.Re1-Bg7-9.Nbd2-O-O-10.Nf1,Ruy Lopez Opening Morphy Defense Anderssen Variation...,chess.com
+58,English-Opening-Four-Knights-Quiet-Line-4...Bb4-5.Nd5,English Opening Four Knights Quiet Line,chess.com
+59,Sicilian-Defense-Open-Najdorf-English-Attack...7.Nb3-Be7-8.f3-O-O-9.Qd2,Sicilian Defense Open Najdorf English Attack...,chess.com
+60,English-Opening-Great-Snake-Variation-2.g3-Bg7-3.Bg2-e5-4.Nc3,English Opening Great Snake Variation,chess.com
+61,Sicilian-Defense-Open-Classical-Richter-Rauzer-Modern-Variation,Sicilian Defense Open Classical Richter Rauzer Modern Variation,chess.com
+62,Sicilian-Defense-Open-Variation-4...Nf6,Sicilian Defense Open Variation,chess.com
+63,Queens-Pawn-Opening-Symmetrical-Variation-3.c3-g6-4.Bf4-Bg7,Queens Pawn Opening Symmetrical Variation,chess.com
+64,Four-Knights-Game-Double-Spanish-Symmetrical-Variation-7.Bg5-Bxc3-8.bxc3-h6-9.Bh4,Four Knights Game Double Spanish Symmetrical Variation,chess.com
+65,Kings-Indian-Defense-Semi-Averbakh-System,Kings Indian Defense Semi Averbakh System,chess.com
+66,English-Opening-Reversed-Sicilian-Variation-2...d6-3.g3,English Opening Reversed Sicilian Variation,chess.com
+67,Ruy-Lopez-Opening-Morphy-Defense-Deferred-Steinitz-Defense-6.Re1-Bd7,Ruy Lopez Opening Morphy Defense Deferred Steinitz Defense,chess.com
+68,Indian-Game-East-Indian-London-System...4.e3-O-O-5.c3-d6-6.h3,Indian Game East Indian London System...,chess.com
+69,Scotch-Game-Classical-Blumenfeld-Attack...7.fxe3-Qh4-8.g3-Qd8,Scotch Game Classical Blumenfeld Attack...,chess.com
+70,Italian-Game-Two-Knights-Modern-Bishops-Opening-4...h6-5.O-O-d6,Italian Game Two Knights Modern Bishops Opening,chess.com
+71,French-Defense-St-George-Traditional-Line,French Defense St George Traditional Line,chess.com
+72,Kings-Indian-Defense-Normal-Variation...7.d5-a5-8.Be3-Na6,Kings Indian Defense Normal Variation...,chess.com
+73,Italian-Game-Two-Knights-Modern-Bishops-Opening-4...h6-5.c3-d6-6.Nbd2,Italian Game Two Knights Modern Bishops Opening,chess.com
+74,Queens-Pawn-Opening-Blackmar-Blackmar-Diemer-Gambit-3...Nf6-4.f3,Queens Pawn Opening Blackmar Blackmar Diemer Gambit,chess.com
+75,Indian-Game-East-Indian-London-System...4.e3-O-O-5.c3-d6,Indian Game East Indian London System...,chess.com
+76,Indian-Game-Yusupov-Rubinstein-System...6.b3-Bd6-7.Bb2-O-O,Indian Game Yusupov Rubinstein System...,chess.com
+77,Scotch-Game-Classical-Variation-5.Be3-Qf6-6.c3,Scotch Game Classical Variation,chess.com
+78,Queens-Pawn-Opening-Symmetrical-Variation-3.c3-e6-4.Bf4,Queens Pawn Opening Symmetrical Variation,chess.com
+79,Italian-Game-Two-Knights-Modern-Bishops-Opening-4...h6,Italian Game Two Knights Modern Bishops Opening,chess.com
+80,English-Opening-Kings-English-Variation...4.Nf3-Bc5-5.O-O-d6,English Opening Kings English Variation...,chess.com
+81,English-Opening-Caro-Kann-Defensive-System...3.e3-Nf6-4.Nc3-Bf5-5.cxd5,English Opening Caro Kann Defensive System...,chess.com
+82,Four-Knights-Game-4.g3-Bc5-5.Bg2-d6-6.O-O,Four Knights Game,chess.com
+83,Italian-Game,Italian Game,chess.com
+84,Sicilian-Defense-Open-Najdorf-Variation-6.a4-Nc6,Sicilian Defense Open Najdorf Variation,chess.com
+85,Caro-Kann-Defense-Advance-Botvinnik-Carls-Defense-4.c3-Nc6,Caro Kann Defense Advance Botvinnik Carls Defense,chess.com
+86,Italian-Game-Two-Knights-Defense-4.Qe2,Italian Game Two Knights Defense,chess.com
+87,Philidor-Defense-Exchange-Variation-4.Nxd4-Nf6-5.Nc3-Be7,Philidor Defense Exchange Variation,chess.com
+88,Caro-Kann-Defense-Advance-Tal-Variation...6.Qxd3-Qa5-7.Nd2-e6,Caro Kann Defense Advance Tal Variation...,chess.com
+89,English-Opening-Anglo-Indian-Kings-Indian-Defense...6.Bg2-d5-7.O-O-Bf5-8.d3,English Opening Anglo Indian Kings Indian Defense...,chess.com
+90,Italian-Game-Knight-Attack-Polerio-Bishop-Check-Line...7.dxc6-bxc6-8.Bd3-Nd5-9.h4,Italian Game Knight Attack Polerio Bishop Check Line...,chess.com
+91,Sicilian-Defense-Nyezhmetdinov-Rossolimo-Fianchetto-Variation-4.Bxc6-bxc6-5.O-O-Bg7-6.Re1,Sicilian Defense Nyezhmetdinov Rossolimo Fianchetto Variation,chess.com
+92,Kings-Indian-Defense-Orthodox-Positional-Defense...9.d5-Ng4-10.Bg5-f6,Kings Indian Defense Orthodox Positional Defense...,chess.com
+93,Kings-Fianchetto-Opening-Symmetrical-Variation-2.Bg2-Bg7,Kings Fianchetto Opening Symmetrical Variation,chess.com
+94,Italian-Game-Two-Knights-Modern-Bishops-Opening...5.O-O-O-O-6.Re1-d6-7.a4,Italian Game Two Knights Modern Bishops Opening...,chess.com
+95,English-Opening-Neo-Catalan-Defense-Declined...6.b3-b6-7.Bb2-Bb7-8.d3,English Opening Neo Catalan Defense Declined...,chess.com
+96,Giuoco-Piano-Game-Giuoco-Pianissimo-Variation-4...Nf6,Giuoco Piano Game Giuoco Pianissimo Variation,chess.com
+97,Center-Game-Accepted-Normal-Variation,Center Game Accepted Normal Variation,chess.com
+98,Caro-Kann-Defense-Advance-Tal-Variation...6.Qxd3-e6-7.Bg5-Be7-8.Nf3,Caro Kann Defense Advance Tal Variation...,chess.com
+99,Queens-Pawn-Opening-Chigorin-Variation-2...Nf6-3.Bf4-Bf5-4.e3,Queens Pawn Opening Chigorin Variation,chess.com
+100,Queens-Gambit-Declined-Queens-Knight-Variation,Queens Gambit Declined Queens Knight Variation,chess.com
+101,Indian-Game-Spielmann-Indian-Variation-3.d5-e6,Indian Game Spielmann Indian Variation,chess.com
+102,Sicilian-Defense-Kramnik-Variation...6.O-O-Qc7-7.d4-cxd4-8.Nxd4,Sicilian Defense Kramnik Variation...,chess.com
+103,Queens-Gambit-Declined-Catalan-Opening-4...Bb4-5.Nbd2-O-O-6.Bg2,Queens Gambit Declined Catalan Opening,chess.com
+104,French-Defense-Rubinstein-Fort-Knox-Variation...7.O-O-Ngf6-8.Ned2-Be7-9.Re1,French Defense Rubinstein Fort Knox Variation...,chess.com
+105,Kings-Indian-Defense,Kings Indian Defense,chess.com
+106,English-Opening-Anglo-Indian-Kings-Indian-Defense...6.cxd5-Nxd5-7.Nc3-Nc6,English Opening Anglo Indian Kings Indian Defense...,chess.com
+107,Scotch-Game-Classical-Variation-5.Be3,Scotch Game Classical Variation,chess.com
+108,Four-Knights-Game-Scotch-Variation-Accepted-5.Nxd4-Bc5-6.Be3-Bb6,Four Knights Game Scotch Variation Accepted,chess.com
+109,Polish-Opening,Polish Opening,chess.com
+110,Queens-Indian-Defense-Kasparov-Variation-Petrosian-Variation...9.Bd3-Nxc3-10.bxc3-c5,Queens Indian Defense Kasparov Variation Petrosian Variation...,chess.com
+111,Kings-Indian-Defense-Orthodox-Glek-Defense-8.Be3,Kings Indian Defense Orthodox Glek Defense,chess.com
+112,Four-Knights-Game,Four Knights Game,chess.com
+113,Sicilian-Defense-Hyperaccelerated-Dragon-Variation-3.Bc4-Bg7-4.O-O-Nc6,Sicilian Defense Hyperaccelerated Dragon Variation,chess.com
+114,Benoni-Defense-3.d5-g6-4.Nc3-Bg7,Benoni Defense,chess.com
+115,Queens-Pawn-Opening-English-Defense-3.a3-Bb7,Queens Pawn Opening English Defense,chess.com
+116,Birds-Opening,Birds Opening,chess.com
+117,Queens-Gambit-Declined-Charousek-Variation...5.Bf4-c6-6.e3-Bf5-7.Nge2,Queens Gambit Declined Charousek Variation...,chess.com
+118,Indian-Game-Spielmann-Indian-Variation-3.e3-g6,Indian Game Spielmann Indian Variation,chess.com
+119,Queens-Gambit-Declined-3.Nf3-Nf6,Queens Gambit Declined,chess.com
+120,Indian-Game...4.e3-Bg7-5.h4-h5-6.Nf3,Indian Game...,chess.com
+121,Kings-Pawn-Opening-St-George-Defense-2.d4,Kings Pawn Opening St George Defense,chess.com
+122,Petrovs-Defense-3.d3-Nc6-4.Be2,Petrovs Defense,chess.com
+123,Reti-Opening-Kings-Indian-Attack-Spassky-Variation-3.Bg2-Bb7,Reti Opening Kings Indian Attack Spassky Variation,chess.com
+124,Petrovs-Defense-Classical-French-Attack-5...Nf6-6.d4,Petrovs Defense Classical French Attack,chess.com
+125,English-Opening-Symmetrical-Variation...8.e3-d5-9.Qe2-Nc6-10.Rd1,English Opening Symmetrical Variation...,chess.com
+126,Giuoco-Piano-Game-Giuoco-Pianissimo-Italian-Four-Knights-Canal-Variation...7.Bxf6-Qxf6-8.Nd5-Qd8-9.c3,Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Canal Variation...,chess.com
+127,Reti-Opening-Queenside-Fianchetto-Variation...3.Bg2-g6-4.O-O-Bg7,Reti Opening Queenside Fianchetto Variation...,chess.com
+128,Kings-Fianchetto-Opening-1...d5-2.Bg2-Nf6-3.d3,Kings Fianchetto Opening,chess.com
+129,Indian-Game-East-Indian-London-System-3...Bg7-4.c3-O-O-5.h3,Indian Game East Indian London System,chess.com
+130,Queens-Pawn-Opening-Zukertort-Variation...3.Bg5-Be7-4.Bxe7-Qxe7,Queens Pawn Opening Zukertort Variation...,chess.com
+131,English-Opening-Reversed-Sicilian-Taimanov-Full-Symmetry-Line-6.Nf3-Nf6-7.O-O-O-O-8.Rb1,English Opening Reversed Sicilian Taimanov Full Symmetry Line,chess.com
+132,Caro-Kann-Defense-2.Nf3-d5,Caro Kann Defense,chess.com
+133,French-Defense-Normal-Variation,French Defense Normal Variation,chess.com
+134,Alapin-Sicilian-Defense...4.cxd4-Bg7-5.Nc3-d6-6.h3,Alapin Sicilian Defense...,chess.com
+135,French-Defense-St-George-Defense-3.Nf3,French Defense St George Defense,chess.com
+136,Anderssen-Opening-1...e5,Anderssen Opening,chess.com
+137,English-Opening-Symmetrical-Variation...4.Nf3-Nc6-5.O-O-d6-6.Nc3,English Opening Symmetrical Variation...,chess.com
+138,Nimzowitsch-Larsen-Attack-Classical-Variation-2.Bb2-Bf5,Nimzowitsch Larsen Attack Classical Variation,chess.com
+139,Reti-Opening-Queenside-Fianchetto-Variation-2.c4-Bb7-3.Nc3,Reti Opening Queenside Fianchetto Variation,chess.com
+140,Modern-Defense-Standard-Line-3...a6-4.Be3-b5,Modern Defense Standard Line,chess.com
+141,Kings-Fianchetto-Opening,Kings Fianchetto Opening,chess.com
+142,Torre-Attack-Fianchetto-Defense...6.Bh4-g5-7.Bg3-Nh5,Torre Attack Fianchetto Defense...,chess.com
+143,Reti-Opening-Nimzo-Larsen-Variation-2...e6-3.Bb2-Be7,Reti Opening Nimzo Larsen Variation,chess.com
+144,Queens-Pawn-Opening-Symmetrical-Variation-3.c3-Bf5-4.Qb3-Qc8,Queens Pawn Opening Symmetrical Variation,chess.com
+145,French-Defense-Tarrasch-Open-Euwe-Keres-Line...5.exd5-exd5-6.Be2-Nc6-7.O-O,French Defense Tarrasch Open Euwe Keres Line...,chess.com
+146,Indian-Game-Yusupov-Rubinstein-System...6.O-O-Be7-7.c3-O-O,Indian Game Yusupov Rubinstein System...,chess.com
+147,French-Defense-Tarrasch-Guimard-Main-Line-4...Nf6-5.e5,French Defense Tarrasch Guimard Main Line,chess.com
+148,Ruy-Lopez-Opening-Morphy-Defense-Modern-Steinitz-Defense...6.O-O-Nge7-7.d4-Ng6,Ruy Lopez Opening Morphy Defense Modern Steinitz Defense...,chess.com
+149,English-Opening-Symmetrical-Variation...5.O-O-Bg7-6.d4-cxd4-7.Nxd4,English Opening Symmetrical Variation...,chess.com
+150,Queens-Pawn-Opening-Zukertort-Variation...3.Bf4-c5-4.e3-Nc6,Queens Pawn Opening Zukertort Variation...,chess.com
+151,Kings-Indian-Defense-Kramer-Variation-5...O-O-6.Ng3-c5-7.d5,Kings Indian Defense Kramer Variation,chess.com
+152,Indian-Game...4.Nf3-Bd6-5.Ne5-O-O,Indian Game...,chess.com
+153,Kings-Pawn-Opening-St-George-Defense,Kings Pawn Opening St George Defense,chess.com
+154,Anderssen-Opening,Anderssen Opening,chess.com
+155,Sicilian-Defense-Cowboy-Attack-2...Nf6-3.e5-Nd5,Sicilian Defense Cowboy Attack,chess.com
+156,Ruy-Lopez-Opening-Morphy-Defense-Closed-Martinez-Variation-6...b5-7.Bb3-d6-8.c3,Ruy Lopez Opening Morphy Defense Closed Martinez Variation,chess.com
+157,French-Defense-St-George-Three-Pawn-Attack,French Defense St George Three Pawn Attack,chess.com
+158,Ruy-Lopez-Opening-Morphy-Defense-Keres-Smyslov-Defense...11.Nbd2-Bf8-12.Nf1-Bd7-13.Ng3,Ruy Lopez Opening Morphy Defense Keres Smyslov Defense...,chess.com
+159,Alapin-Sicilian-Defense...4.exd5-exd5-5.Nf3-Nc6-6.Bb5,Alapin Sicilian Defense...,chess.com
+160,French-Defense-St-George-Defense-3.Nf3-b5,French Defense St George Defense,chess.com
+161,Reti-Opening-Queenside-Fianchetto-Variation-2.e4-Bb7-3.Nc3-e6,Reti Opening Queenside Fianchetto Variation,chess.com
+162,Indian-Game-Knights-Variation...3.Nbd2-d5-4.e3-c5-5.c3,Indian Game Knights Variation...,chess.com
+163,London-System...5.h3-O-O-6.Nbd2-c5-7.c3,London System...,chess.com
+164,Reti-Opening-1...d5,Reti Opening,chess.com
+165,Kings-Fianchetto-Opening-1...e5-2.Bg2-d5,Kings Fianchetto Opening,chess.com
+166,Giuoco-Piano-Game-Main-Line-Giuoco-Pianissimo-Variation...6.Bb3-d6-7.Nbd2-Ba7-8.Nf1,Giuoco Piano Game Main Line Giuoco Pianissimo Variation...,chess.com
+167,Kings-Indian-Attack-Yugoslav-Variation...7.Bb2-Be7-8.Nbd2-O-O-9.Re1,Kings Indian Attack Yugoslav Variation...,chess.com
+168,Nimzowitsch-Larsen-Attack-Indian-Variation-2.Bb2-e6-3.Nf3,Nimzowitsch Larsen Attack Indian Variation,chess.com
+169,Kings-Indian-Defense-Samisch-Double-Fianchetto-Variation-7.Qd2-c5-8.d5,Kings Indian Defense Samisch Double Fianchetto Variation,chess.com
+170,Reti-Opening-Sicilian-Invitation...3.Bb2-d5-4.e3-Nf6,Reti Opening Sicilian Invitation...,chess.com
+171,Queens-Pawn-Opening-Horwitz-Defense-2.c4,Queens Pawn Opening Horwitz Defense,chess.com
+172,Queens-Gambit-Declined-Austrian-Variation...4.Nf3-cxd4-5.Nc3-Qa5-6.Nxd4,Queens Gambit Declined Austrian Variation...,chess.com
+173,Indian-Game-Knights-Variation-2...e6-3.c3-c5,Indian Game Knights Variation,chess.com
+174,Reti-Opening-Queenside-Fianchetto-Variation-2.d4-Bb7,Reti Opening Queenside Fianchetto Variation,chess.com
+175,Reti-Opening-Nimzowitsch-Larsen-Attack-2...Bg4-3.e3-Nd7,Reti Opening Nimzowitsch Larsen Attack,chess.com
+176,Indian-Game-East-Indian-Przepiorka-Variation...6.Re1-Nbd7-7.e4-e5-8.Nc3,Indian Game East Indian Przepiorka Variation...,chess.com
+177,Reti-Opening-Nimzowitsch-Larsen-Attack-2...Nf6-3.Bb2-Bf5,Reti Opening Nimzowitsch Larsen Attack,chess.com
+178,Reti-Opening,Reti Opening,chess.com
+179,Sicilian-Defense-Open-Najdorf-Variation-6.a3,Sicilian Defense Open Najdorf Variation,chess.com
+180,Modern-Defense-Pterodactyl-Defense...8.Bd3-Na6-9.O-O-e5,Modern Defense Pterodactyl Defense...,chess.com
+181,Reti-Opening-Nimzowitsch-Larsen-Attack-2...c5-3.Bb2-f6,Reti Opening Nimzowitsch Larsen Attack,chess.com
+182,Kings-Indian-Defense...7.O-O-Na6-8.Nc3-Nc7,Kings Indian Defense...,chess.com
+183,Indian-Game-East-Indian-London-System...5.h3-O-O-6.c3-b6,Indian Game East Indian London System...,chess.com
+184,Ruy-Lopez-Opening-Morphy-Defense-Keres-Chigorin-Defense...13.Nbd2-c4-14.Nf1-Nb7,Ruy Lopez Opening Morphy Defense Keres Chigorin Defense...,chess.com
+185,Nimzo-Indian-Defense-Romanishin-Kasparov-System...6.Nf3-dxc4-7.O-O-Nc6-8.Qa4,Nimzo Indian Defense Romanishin Kasparov System...,chess.com
+186,French-Defense-Normal-Variation-2...d5-3.Nc3,French Defense Normal Variation,chess.com
+187,Indian-Game-East-Indian-Defense-3.a3-d5,Indian Game East Indian Defense,chess.com
+188,Giuoco-Piano-Game-Giuoco-Pianissimo-Variation-4...Nf6-5.O-O-d6,Giuoco Piano Game Giuoco Pianissimo Variation,chess.com
+189,English-Opening-Anglo-Indian-Kings-Knight-Queens-Indian-Formation...5.d4-Bg7-6.O-O-O-O-7.d5,English Opening Anglo Indian Kings Knight Queens Indian Formation...,chess.com
+190,English-Opening-Symmetrical-Variation...8.e3-d5-9.Qe2-Nc6-10.d3,English Opening Symmetrical Variation...,chess.com
+191,Italian-Game-Knight-Attack-Polerio-Bishop-Check-Line-6...Bd7-7.Qe2,Italian Game Knight Attack Polerio Bishop Check Line,chess.com
+192,Kings-Indian-Attack-Double-Fianchetto-Pachman-System-6.Nbd2-O-O-7.e4-Nbc6,Kings Indian Attack Double Fianchetto Pachman System,chess.com
+193,Indian-Game-East-Indian-Przepiorka-Variation...5.b3-d6-6.Bb2-a5,Indian Game East Indian Przepiorka Variation...,chess.com
+194,Reti-Opening-Pirc-Invitation,Reti Opening Pirc Invitation,chess.com
+195,Benoni-Defense...5.Nc3-Bg7-6.Nf3-O-O,Benoni Defense...,chess.com
+196,Reti-Opening-Dutch-Variation...6.c4-d6-7.Nc3-c6-8.b3,Reti Opening Dutch Variation...,chess.com
+197,Scotch-Game-Classical-Potter-Variation-5...Bb6-6.Nc3-d6,Scotch Game Classical Potter Variation,chess.com
+198,Caro-Kann-Defense-Breyer-Variation...7.O-O-Bg4-8.h3-Bh5,Caro Kann Defense Breyer Variation...,chess.com
+199,Giuoco-Piano-Game...7.c3-Ba7-8.Re1-h6,Giuoco Piano Game...,chess.com
+200,Sicilian-Defense-2.Nf3-d6-3.g3-g6-4.Bg2-Bg7,Sicilian Defense,chess.com
+201,French-Defense-Winawer-Advance-Petrosian-Variation-5.Qg4,French Defense Winawer Advance Petrosian Variation,chess.com
+202,Reti-Opening-Nimzowitsch-Larsen-Attack-2...Nf6-3.Bb2-e6-4.g3,Reti Opening Nimzowitsch Larsen Attack,chess.com
+203,Reti-Opening...3.b3-Bg4-4.Bb2-e6-5.h3,Reti Opening...,chess.com
+204,Magnus-Queens-Gambit-4.cxd5-exd5-5.Bf4,Magnus Queens Gambit,chess.com
+205,Colle-System-Anti-Colle-Variation-4.Bd3-Bxd3,Colle System Anti Colle Variation,chess.com
+206,Catalan-Opening-Open-Defense-Classical-Line-6.O-O-O-O,Catalan Opening Open Defense Classical Line,chess.com
+207,Ruy-Lopez-Opening-Berlin-Defense...8.d4-exd4-9.cxd4-Bb6,Ruy Lopez Opening Berlin Defense...,chess.com
+208,English-Opening-Anglo-Indian-Kings-Indian-Defense...7.O-O-Bg4-8.d3-Bxf3-9.Bxf3,English Opening Anglo Indian Kings Indian Defense...,chess.com
+209,Indian-Game-Tartakower-Attack-2...c5,Indian Game Tartakower Attack,chess.com
+210,English-Opening-Fianchetto-Ultra-Symmetrical-Line-5.d3-d6,English Opening Fianchetto Ultra Symmetrical Line,chess.com
+211,Queens-Pawn-Opening...2.g3-g6-3.Bg2-Bg7-4.Nf3,Queens Pawn Opening...,chess.com
+212,Indian-Game-East-Indian-London-System...5.h3-O-O-6.c3-c5,Indian Game East Indian London System...,chess.com
+213,French-Defense-Normal-Variation-2...b6,French Defense Normal Variation,chess.com
+214,Queens-Pawn-Opening-Symmetrical-Variation-3.c3-c6,Queens Pawn Opening Symmetrical Variation,chess.com
+215,Reti-Opening-Reti-Gambit-Accepted,Reti Opening Reti Gambit Accepted,chess.com
+216,English-Opening-Anglo-Indian-Kings-Indian-Defense...4.Bb2-O-O-5.g3-d6-6.Bg2,English Opening Anglo Indian Kings Indian Defense...,chess.com
+217,Indian-Game-East-Indian-Anti-Nimzo-Indian-Dzindzi-Indian-Defense,Indian Game East Indian Anti Nimzo Indian Dzindzi Indian Defense,chess.com
+218,Caro-Kann-Defense-Advance-Botvinnik-Carls-Defense-4.Nf3,Caro Kann Defense Advance Botvinnik Carls Defense,chess.com
+219,Queens-Gambit-Declined-Catalan-Opening...9.Rd1-Bb7-10.b3-Nbd7,Queens Gambit Declined Catalan Opening...,chess.com
+220,Scotch-Game-Dubois-Reti-Scotch-Gambit-Anderssen-Attack,Scotch Game Dubois Reti Scotch Gambit Anderssen Attack,chess.com
+221,Kings-Indian-Defense-Normal-Variation...7.e3-c6-8.Be2-a6,Kings Indian Defense Normal Variation...,chess.com
+222,Ruy-Lopez-Opening-Morphy-Defense-Anderssen-Variation...7.O-O-g6-8.Re1-Bg7,Ruy Lopez Opening Morphy Defense Anderssen Variation...,chess.com
+223,Queens-Gambit-Declined-Catalan-Opening...10.Bf4-Ba6-11.b3-Rc8,Queens Gambit Declined Catalan Opening...,chess.com
+224,Indian-Game-2.c3-d5-3.Nf3,Indian Game,chess.com
+225,French-Defense-Tarrasch-Open-Euwe-Keres-Line-4...a6-5.exd5-exd5,French Defense Tarrasch Open Euwe Keres Line,chess.com
+226,Vienna-Game-Main-Line,Vienna Game Main Line,chess.com
+227,London-System...4.c3-e6-5.e3-Bd6,London System...,chess.com
+228,Dutch-Defense...3.Bf4-g6-4.e3-Bg7,Dutch Defense...,chess.com
+229,Vienna-Game-Falkbeer-Variation,Vienna Game Falkbeer Variation,chess.com
+230,Indian-Game-East-Indian-Defense-3.a3-c5,Indian Game East Indian Defense,chess.com
+231,Vienna-Game-Max-Lange-Defense,Vienna Game Max Lange Defense,chess.com
+232,Indian-Game-East-Indian-Przepiorka-Variation...6.Nc3-Nbd7-7.e4-e5,Indian Game East Indian Przepiorka Variation...,chess.com
+233,Ruy-Lopez-Opening-Morphy-Defense-Closed...9.Bc2-c5-10.d4-Qc7,Ruy Lopez Opening Morphy Defense Closed...,chess.com
+234,Ruy-Lopez-Opening-Berlin-lHermet-Variation,Ruy Lopez Opening Berlin lHermet Variation,chess.com
+235,Indian-Game-Spielmann-Indian-Variation-3.dxc5-e6,Indian Game Spielmann Indian Variation,chess.com
+236,French-Defense-Winawer-Winckelmann-Riemer-Gambit-4...Bxc3-5.bxc3,French Defense Winawer Winckelmann Riemer Gambit,chess.com
+237,Four-Knights-Game-Gunsberg-Provincial-Opening-5.d4,Four Knights Game Gunsberg Provincial Opening,chess.com
+238,London-System-3...c5-4.c3-e6-5.e3,London System,chess.com
+239,Ruy-Lopez-Opening-Morphy-Defense-Closed-Martinez-Variation...7.Bb3-O-O-8.Nc3-d6-9.a3,Ruy Lopez Opening Morphy Defense Closed Martinez Variation...,chess.com
+240,Torre-Attack-3...c5-4.c3-b6,Torre Attack,chess.com
+241,Ruy-Lopez-Opening-Morphy-Defense-Anderssen-Variation-Duras-Variation-6...Be7,Ruy Lopez Opening Morphy Defense Anderssen Variation Duras Variation,chess.com
+242,Slav-Defense-Modern-Chameleon-Variation-5.cxd5-cxd5,Slav Defense Modern Chameleon Variation,chess.com
+243,Four-Knights-Game-Scotch-Variation-Accepted...6.Nxc6-bxc6-7.Bd3-d6-8.O-O,Four Knights Game Scotch Variation Accepted...,chess.com
+244,Nimzo-Indian-Defense,Nimzo Indian Defense,chess.com
+245,Indian-Game-Knights-Variation-2...e6,Indian Game Knights Variation,chess.com
+246,Giuoco-Piano-Game-Main-Line-Giuoco-Pianissimo-Variation-5...a6-6.a4,Giuoco Piano Game Main Line Giuoco Pianissimo Variation,chess.com
+247,Queens-Gambit-Accepted-Classical-Russian-Gambit-7...b5-8.Bd3,Queens Gambit Accepted Classical Russian Gambit,chess.com
+248,Kings-Indian-Defense-Normal-Variation-4.Nf3-O-O,Kings Indian Defense Normal Variation,chess.com
+249,Giuoco-Piano-Game-Main-Line-Giuoco-Pianissimo-Variation-5...d6-6.a4-a6,Giuoco Piano Game Main Line Giuoco Pianissimo Variation,chess.com
+250,Old-Benoni-Defense-2.dxc5-e6,Old Benoni Defense,chess.com
+251,Sicilian-Defense-Open-Accelerated-Dragon-Maroczy-Bind-Formation...10.Bd2-Nc5-11.b4-Ne6,Sicilian Defense Open Accelerated Dragon Maroczy Bind Formation...,chess.com
+252,Trompowsky-Attack-Classical-Defense...6.c3-Nc6-7.Ngf3-Be7-8.Bd3,Trompowsky Attack Classical Defense...,chess.com
+253,Ruy-Lopez-Opening-Berlin-Improved-Steinitz-Defense-5.d4-Bd7,Ruy Lopez Opening Berlin Improved Steinitz Defense,chess.com
+254,Indian-Game-Spielmann-Indian-Variation...4.Nc3-Bg7-5.e4-O-O,Indian Game Spielmann Indian Variation...,chess.com
+255,Italian-Game-Two-Knights-Modern-Bishops-Opening...6.Re1-d6-7.a4-h6,Italian Game Two Knights Modern Bishops Opening...,chess.com
+256,London-System-3...c5-4.e3-Nc6-5.Be2,London System,chess.com
+257,Kings-Indian-Attack-French-Variation...9.e5-Nd7-10.Qe2-b5-11.h4,Kings Indian Attack French Variation...,chess.com
+258,Sicilian-Defense-Open-Accelerated-Dragon-Maroczy-Bind-Formation-5...Bg7-6.Be3-Qb6,Sicilian Defense Open Accelerated Dragon Maroczy Bind Formation,chess.com
+259,Kings-Indian-Defense-Bayonet-Attack,Kings Indian Defense Bayonet Attack,chess.com
+260,Giuoco-Piano-Game-Giuoco-Pianissimo-Italian-Four-Knights-Canal-Variation-6...h6,Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Canal Variation,chess.com
+261,Scotch-Game-Classical-Variation-5.Nxc6-bxc6,Scotch Game Classical Variation,chess.com
+262,Queens-Gambit-Accepted-Mannheim-Variation-4...c6-5.Qxc4-Bf5,Queens Gambit Accepted Mannheim Variation,chess.com
+263,Kings-Gambit,Kings Gambit,chess.com
+264,Benoni-Defense-3.d5-a6,Benoni Defense,chess.com
+265,Kings-Indian-Defense-Orthodox-Variation-6...c5-7.O-O-Bg4-8.d5,Kings Indian Defense Orthodox Variation,chess.com
+266,Italian-Game...6.Nc3-Be7-7.O-O-O-O-8.Re1,Italian Game...,chess.com
+267,Kings-Indian-Defense-Bayonet-Attack-9...Ne8-10.a4,Kings Indian Defense Bayonet Attack,chess.com
+268,Four-Knights-Game-Spanish-Variation-4...Bd6-5.O-O-O-O-6.d3,Four Knights Game Spanish Variation,chess.com
+269,Grunfeld-Defense-Exchange-Modern-Exchange-Variation...11.Bd2-Qxa2-12.O-O-Bg4,Grunfeld Defense Exchange Modern Exchange Variation...,chess.com
+270,Italian-Game-Knight-Attack-Polerio-Bishop-Check-Line...9.Nf3-Bd6-10.O-O-O-O-11.Re1,Italian Game Knight Attack Polerio Bishop Check Line...,chess.com
+271,Reti-Opening-Nimzo-Larsen-Double-Fianchetto-Attack-6...e5-7.d3,Reti Opening Nimzo Larsen Double Fianchetto Attack,chess.com
+272,Four-Knights-Game-Spanish-Variation...5.O-O-O-O-6.d3-h6,Four Knights Game Spanish Variation...,chess.com
+273,Grunfeld-Defense-Exchange-Modern-Exchange-Variation-7...c5-8.Bb5-Nc6,Grunfeld Defense Exchange Modern Exchange Variation,chess.com
+274,Indian-Game-Tartakower-Defense-3.c3-Nbd7,Indian Game Tartakower Defense,chess.com
+275,Ruy-Lopez-Opening-Morphy-Defense-Closed-Center-Attack...7.e5-Ne4-8.Nxd4-O-O,Ruy Lopez Opening Morphy Defense Closed Center Attack...,chess.com
+276,French-Defense-Normal-Variation...3.Nc3-Be7-4.Nf3-Nf6,French Defense Normal Variation...,chess.com
+277,Queens-Gambit-Declined-Exchange-Positional-Line,Queens Gambit Declined Exchange Positional Line,chess.com
+278,Kings-Indian-Defense-Samisch-Double-Fianchetto-Variation,Kings Indian Defense Samisch Double Fianchetto Variation,chess.com
+279,Queens-Gambit-Declined-Exchange-Variation-4...exd5-5.Nf3-c6-6.Qc2,Queens Gambit Declined Exchange Variation,chess.com
+280,Pirc-Defense-Classical-Variation-4...Bg7-5.Be3-O-O-6.Qd2,Pirc Defense Classical Variation,chess.com
+281,Blumenfeld-Countergambit,Blumenfeld Countergambit,chess.com
+282,French-Defense-Advance-Paulsen-Euwe-Variation-6.Be2-Rc8-7.O-O,French Defense Advance Paulsen Euwe Variation,chess.com
+283,Scotch-Game-Scotch-Gambit-Dubois-Reti-Advance-Variation...6.Bb5-Nd7-7.O-O-Be7,Scotch Game Scotch Gambit Dubois Reti Advance Variation...,chess.com
+284,Queens-Pawn-Opening-Torre-Attack-3...e6-4.Nbd2,Queens Pawn Opening Torre Attack,chess.com
+285,Torre-Attack-Classical-Defense-Nimzowitsch-Variation-4.Bh4,Torre Attack Classical Defense Nimzowitsch Variation,chess.com
+286,Scotch-Game-Scotch-Gambit-Dubois-Reti-Advance-Variation-5...Ne4,Scotch Game Scotch Gambit Dubois Reti Advance Variation,chess.com
+287,Indian-Game-Knights-Variation-2...e6-3.g3-d5-4.Bg2,Indian Game Knights Variation,chess.com
+288,Old-Benoni-Defense-2.dxc5,Old Benoni Defense,chess.com
+289,Kings-Indian-Attack-Yugoslav-Variation...6.b3-e6-7.Bb2-Be7,Kings Indian Attack Yugoslav Variation...,chess.com
+290,Reti-Opening-Kings-Indian-Attack-Spassky-Variation...5.d3-c5-6.e4-d6,Reti Opening Kings Indian Attack Spassky Variation...,chess.com
+291,French-Defense-Chigorin-Variation-2...d5-3.exd5,French Defense Chigorin Variation,chess.com
+292,Magnus-Queens-Gambit...6.Bg5-Be6-7.e3-Nbd7-8.Bd3,Magnus Queens Gambit...,chess.com
+293,Nimzowitsch-Larsen-Attack-Symmetrical-Variation-2.Bb2-Bb7-3.e3-e6-4.Nf3,Nimzowitsch Larsen Attack Symmetrical Variation,chess.com
+294,Indian-Game-London-System...4.e3-Bb7-5.Bd3-c5-6.c3,Indian Game London System...,chess.com
+295,Torre-Attack-Fianchetto-Defense-4.Nbd2-h6,Torre Attack Fianchetto Defense,chess.com
+296,Sicilian-Defense...6.Nf3-Nf6-7.O-O-O-O,Sicilian Defense...,chess.com
+297,Modern-Defense-with-1-d4-2.c4-Bg7-3.Nf3,Modern Defense with 1 d4,chess.com
+298,Sicilian-Defense-Kan-Modern-Polugaevsky-Variation-6.Nb3-Be7-7.Qg4-g6-8.Qe2,Sicilian Defense Kan Modern Polugaevsky Variation,chess.com
+299,Queens-Gambit-Declined-Three-Knights-Vienna-Quiet-Variation...7.Bxc4-Bb7-8.O-O-Bb4,Queens Gambit Declined Three Knights Vienna Quiet Variation...,chess.com
+300,English-Opening-Anglo-Indian-Kings-Knight-Queens-Indian-Formation-3.Nc3-Bb7,English Opening Anglo Indian Kings Knight Queens Indian Formation,chess.com
+301,Indian-Game-2.Bf4-c5-3.e3-Qb6-4.Nc3,Indian Game,chess.com
+302,Queens-Gambit-Declined-Exchange-Positional-Line-Reshevsky-Variation...7.Nf3-g6-8.e3-Bf5,Queens Gambit Declined Exchange Positional Line Reshevsky Variation...,chess.com
+303,Old-Benoni-Defense...7.a4-O-O-8.O-O-a6-9.Be2,Old Benoni Defense...,chess.com
+304,English-Opening-Caro-Kann-Defensive-System,English Opening Caro Kann Defensive System,chess.com
+305,Modern-Defense-with-1-d4-2.Nf3-Bg7,Modern Defense with 1 d4,chess.com
+306,Colle-System-Traditional-Line...7.O-O-O-O-8.dxc5-Bxc5,Colle System Traditional Line...,chess.com
+307,Reti-Opening-Reti-Gambit-Declined-Advance-Reversed-Blumenfeld-Gambit-4...dxe3-5.fxe3,Reti Opening Reti Gambit Declined Advance Reversed Blumenfeld Gambit,chess.com
+308,Nimzowitsch-Larsen-Attack-Classical-Variation-2.Bb2-Nf6-3.e3-e6-4.f4,Nimzowitsch Larsen Attack Classical Variation,chess.com
+309,Kings-Indian-Defense-Orthodox-Positional-Defense-8.Re1-Re8-9.Bf1-a6,Kings Indian Defense Orthodox Positional Defense,chess.com
+310,French-Defense-Chigorin-Variation-2...d5-3.exd5-Qxd5,French Defense Chigorin Variation,chess.com
+311,Reti-Opening-1...Nf6,Reti Opening,chess.com
+312,English-Opening-Caro-Kann-Defensive-System-Anglo-Slav-Variation...5.g3-Nbd7-6.Bg2-Bd6-7.O-O,English Opening Caro Kann Defensive System Anglo Slav Variation...,chess.com
+313,French-Defense-Advance-Variation-3...c5-4.c3-Bd7,French Defense Advance Variation,chess.com
+314,Reti-Opening-Kings-Indian-Attack...3.Bg2-Nc6-4.O-O-e5-5.c4,Reti Opening Kings Indian Attack...,chess.com
+315,Queens-Gambit-Declined-Cambridge-Springs-Yugoslav-Variation-8.Qd2-Bb4-9.Rc1,Queens Gambit Declined Cambridge Springs Yugoslav Variation,chess.com
+316,French-Defense-Advance-Variation,French Defense Advance Variation,chess.com
+317,English-Opening-Anglo-Indian-Kings-Indian-Defense...6.Bg2-d5-7.O-O-a5-8.Nc3,English Opening Anglo Indian Kings Indian Defense...,chess.com
+318,English-Opening-Agincourt-Defense-2.g3-d5-3.Bg2,English Opening Agincourt Defense,chess.com
+319,Kings-Indian-Defense-Normal-Variation-4.Nf3-O-O-5.Bg5-c5-6.d5,Kings Indian Defense Normal Variation,chess.com
+320,Petrovs-Defense-Classical-Variation,Petrovs Defense Classical Variation,chess.com
+321,Modern-Defense-with-1-d4,Modern Defense with 1 d4,chess.com
+322,Kings-Indian-Attack...4.d3-Nf6-5.O-O-Be7,Kings Indian Attack...,chess.com
+323,Modern-Defense-with-1-e4,Modern Defense with 1 e4,chess.com
+324,Kings-Indian-Defense-Fianchetto-Debrecen-Classical-Main-Line...11.h3-Nc5-12.Re1-a5-13.Rb1,Kings Indian Defense Fianchetto Debrecen Classical Main Line...,chess.com
+325,Caro-Kann-Defense-Two-Knights-Attack...7.Bc4-Nf6-8.Ne5-e6-9.Qe2,Caro Kann Defense Two Knights Attack...,chess.com
+326,Kings-Indian-Defense...6.Qb3-O-O-7.O-O-a5,Kings Indian Defense...,chess.com
+327,Queens-Pawn-Opening-Levitsky-Attack-2...h6-3.Bh4-c5,Queens Pawn Opening Levitsky Attack,chess.com
+328,French-Defense-Exchange-Variation...8.Nbd2-Nbd7-9.c3-c6,French Defense Exchange Variation...,chess.com
+329,Sicilian-Defense-Open-Najdorf-Adams-Attack-6...e5-7.Nde2-b5-8.g4,Sicilian Defense Open Najdorf Adams Attack,chess.com
+330,Reti-Opening-Kings-Indian-Attack-Spassky-Variation-3.Bg2-Bb7-4.Na3-a6,Reti Opening Kings Indian Attack Spassky Variation,chess.com
+331,Torre-Attack-3...b6-4.e4,Torre Attack,chess.com
+332,Indian-Game-2.c3,Indian Game,chess.com
+333,Ruy-Lopez-Opening-Morphy-Defense-Exchange-Keres-Variation...7.Qxd4-Qxd4-8.Nxd4-Bd7,Ruy Lopez Opening Morphy Defense Exchange Keres Variation...,chess.com
+334,Caro-Kann-Defense-Exchange-Variation-3...cxd5,Caro Kann Defense Exchange Variation,chess.com
+335,Ruy-Lopez-Opening-Morphy-Defense-Exchange-Normal-Variation-5...Bg4-6.h3-Bh5,Ruy Lopez Opening Morphy Defense Exchange Normal Variation,chess.com
+336,Nimzo-Indian-Defense-Spielmann-Variation-4...c5-5.dxc5-Na6,Nimzo Indian Defense Spielmann Variation,chess.com
+337,Sicilian-Defense...6.O-O-Bg7-7.Bb3-O-O-8.Re1,Sicilian Defense...,chess.com
+338,Indian-Game-Knights-Variation-2...e6-3.c3-b6,Indian Game Knights Variation,chess.com
+339,French-Defense-Normal-Variation-2...d5-3.Nc3-Be7-4.e5,French Defense Normal Variation,chess.com
+340,Ruy-Lopez-Opening-Morphy-Defense-Closed-Martinez-Variation-6...b5-7.Bb3-d6,Ruy Lopez Opening Morphy Defense Closed Martinez Variation,chess.com
+341,Ruy-Lopez-Opening-Morphy-Defense-Delayed-Exchange-Variation-6...dxc6-7.Re1,Ruy Lopez Opening Morphy Defense Delayed Exchange Variation,chess.com
+342,Sicilian-Defense-Open-Dragon-Main-Line-Czerniak-Variation-11.Bb3-Qa5,Sicilian Defense Open Dragon Main Line Czerniak Variation,chess.com
+343,French-Defense-Exchange-Variation...5.c3-Bd6-6.Nf3-Nge7-7.O-O,French Defense Exchange Variation...,chess.com
+344,Queens-Indian-Defense-Spassky-System...7.Nc3-cxd4-8.exd4-O-O-9.d5,Queens Indian Defense Spassky System...,chess.com
+345,Queens-Gambit-Accepted-Classical-Main-Line,Queens Gambit Accepted Classical Main Line,chess.com
+346,Kings-Indian-Defense-Standard-Development-5...O-O-6.h4-c5-7.d5,Kings Indian Defense Standard Development,chess.com
+347,English-Opening-Anglo-Indian-Kings-Indian-Defense...5.O-O-d6-6.Nc3-c6,English Opening Anglo Indian Kings Indian Defense...,chess.com
+348,French-Defense-Exchange-Variation...4.Nf3-Nc6-5.Bb5-Bd6,French Defense Exchange Variation...,chess.com
+349,Nimzo-Indian-Defense-Kmoch-Variation-4...c5-5.d5-b5-6.e4,Nimzo Indian Defense Kmoch Variation,chess.com
+350,Kings-Indian-Defense-Normal-Variation-4.e4-d6,Kings Indian Defense Normal Variation,chess.com
+351,Grunfeld-Defense-Exchange-Classical-Variation...9.O-O-Nc6-10.Be3-b6,Grunfeld Defense Exchange Classical Variation...,chess.com
+352,Ruy-Lopez-Opening-Morphy-Defense-Modern-Steinitz-Defense...8.h3-Nf6-9.Re1-O-O,Ruy Lopez Opening Morphy Defense Modern Steinitz Defense...,chess.com
+353,Ruy-Lopez-Opening-Morphy-Defense-Anderssen-Variation-5...d6-6.O-O-b5-7.Bb3,Ruy Lopez Opening Morphy Defense Anderssen Variation,chess.com
+354,Queens-Gambit-Accepted-Central-Variation-McDonnell-Defense-4.Nf3-Bb4-5.Nc3,Queens Gambit Accepted Central Variation McDonnell Defense,chess.com
+355,Indian-Game-East-Indian-Przepiorka-Variation...5.O-O-d6-6.a4-a5-7.Nc3,Indian Game East Indian Przepiorka Variation...,chess.com
+356,Colle-System-Rubinstein-Classical-Defense-8.Nbd2,Colle System Rubinstein Classical Defense,chess.com
+357,Queens-Gambit-Declined-Modern-Knight-Defense...6.cxd5-exd5-7.e3-Be7-8.Bd3,Queens Gambit Declined Modern Knight Defense...,chess.com
+358,Queens-Gambit-Accepted-Classical-Rubinstein-Variation-7...Nc6-8.Nc3-Be7,Queens Gambit Accepted Classical Rubinstein Variation,chess.com
+359,Reti-Opening-Dutch-Variation-2.d3-d6-3.e4-e5,Reti Opening Dutch Variation,chess.com
+360,Indian-Game-East-Indian-Anti-Nimzo-Indian-Variation-3...c5-4.d5-d6,Indian Game East Indian Anti Nimzo Indian Variation,chess.com
+361,Queens-Gambit-Declined-Charousek-Variation...7.Bxd6-Qxd6-8.Bd3-Ne7,Queens Gambit Declined Charousek Variation...,chess.com
+362,Queens-Gambit-Declined-3.Nf3-a6-4.e3,Queens Gambit Declined,chess.com
+363,Sicilian-Defense-French-Variation...4.g3-g6-5.Bg2-Bg7-6.O-O,Sicilian Defense French Variation...,chess.com
+364,English-Opening-Mikenas-Carls-Sicilian-Variation-4.g3,English Opening Mikenas Carls Sicilian Variation,chess.com
+365,Magnus-Queens-Gambit-4.cxd5-exd5-5.Qb3,Magnus Queens Gambit,chess.com
+366,Nimzo-Indian-Defense-Bishop-Attack-Classical-Defense-6.a3-Be7,Nimzo Indian Defense Bishop Attack Classical Defense,chess.com
+367,French-Defense-Winawer-Advance-Retreat-Variation-6.Bd2,French Defense Winawer Advance Retreat Variation,chess.com
+368,Reti-Opening-Pirc-Invitation-2.c4-e5,Reti Opening Pirc Invitation,chess.com
+369,Queens-Gambit-Declined-Charousek-Variation...6.e3-O-O-7.Bd3-c6,Queens Gambit Declined Charousek Variation...,chess.com
+370,Indian-Game-Tartakower-Defense-3.Nc3-Bf5,Indian Game Tartakower Defense,chess.com
+371,Queens-Gambit-Declined-Exchange-Positional-Line-Reshevsky-Variation...11.Bf4-Bd6-12.Bxd6-Qxd6,Queens Gambit Declined Exchange Positional Line Reshevsky Variation...,chess.com
+372,Caro-Kann-Defense-Tartakower-Variation,Caro Kann Defense Tartakower Variation,chess.com
+373,Budapest-Gambit-3.dxe5-Ng4,Budapest Gambit,chess.com
+374,Queens-Gambit-Declined-Three-Knights-Harrwitz-Attack-5...O-O-6.a3-b6,Queens Gambit Declined Three Knights Harrwitz Attack,chess.com
+375,French-Defense-Exchange-Variation...6.O-O-O-O-7.h3-h6,French Defense Exchange Variation...,chess.com
+376,Italian-Game-Knight-Attack-Polerio-Bishop-Check-Bogoljubov-Colman-Variation-9.Bd3,Italian Game Knight Attack Polerio Bishop Check Bogoljubov Colman Variation,chess.com
+377,Trompowsky-Attack-Classical-Big-Center-Variation...6.Bd3-g6-7.Ne2-Bg7-8.O-O,Trompowsky Attack Classical Big Center Variation...,chess.com
+378,Giuoco-Piano-Game...6.d3-a6-7.Bb3-Ba7-8.Be3,Giuoco Piano Game...,chess.com
+379,Vienna-Game-Max-Lange-Defense-3.Bc4-Bc5,Vienna Game Max Lange Defense,chess.com
+380,Nimzo-Indian-Defense-Kmoch-Variation...5.a3-Bxc3-6.bxc3-c6,Nimzo Indian Defense Kmoch Variation...,chess.com
+381,Italian-Game-Two-Knights-Modern-Bishops-Opening-4...Be7-5.Nc3-O-O,Italian Game Two Knights Modern Bishops Opening,chess.com
+382,Queens-Pawn-Opening-Pseudo-Catalan-Variation-3...c5-4.Bg2-cxd4-5.O-O,Queens Pawn Opening Pseudo Catalan Variation,chess.com
+383,French-Defense-Normal-Variation-2...d5-3.Nc3-Be7-4.Bd3,French Defense Normal Variation,chess.com
+384,Kings-Pawn-Opening-Leonardis-Variation-2...Nf6,Kings Pawn Opening Leonardis Variation,chess.com
+385,Ruy-Lopez-Opening-Morphy-Defense-Modern-Steinitz-Defense...7.O-O-Bg7-8.Re1-Nf6,Ruy Lopez Opening Morphy Defense Modern Steinitz Defense...,chess.com
+386,Caro-Kann-Defense-Panov-Attack-4...Nf6-5.Nf3-Nc6-6.Nc3,Caro Kann Defense Panov Attack,chess.com
+387,Italian-Game...6.Nc3-Be7-7.O-O-O-O-8.h3,Italian Game...,chess.com
+388,Kings-Indian-Defense...7.Nc3-e6-8.O-O-exd5-9.cxd5,Kings Indian Defense...,chess.com
+389,French-Defense-Winawer-Advance-Variation...6.bxc3-Nc6-7.Qg4-g6,French Defense Winawer Advance Variation...,chess.com
+390,Kings-Indian-Defense-Averbakh-Benoni-Advance-Variation...9.Qd2-exd5-10.exd5-Kh7-11.h3,Kings Indian Defense Averbakh Benoni Advance Variation...,chess.com
+391,Ruy-Lopez-Opening-Morphy-Defense-Keres-Chigorin-Defense-12.d5-Bd7-13.b3,Ruy Lopez Opening Morphy Defense Keres Chigorin Defense,chess.com
+392,Kings-Indian-Defense-Semi-Averbakh-System...8.d5-Ng4-9.Bg5-f6,Kings Indian Defense Semi Averbakh System...,chess.com
+393,Anderssen-Opening-1...g6,Anderssen Opening,chess.com
+394,Ruy-Lopez-Opening-Morphy-Defense-Anderssen-Variation...6.Bb3-Bc5-7.c3-d6,Ruy Lopez Opening Morphy Defense Anderssen Variation...,chess.com
+395,Semi-Slav-Defense-Main-Line-Semi-Meran-Variation...8.Bd3-Bb7-9.O-O-a6-10.e4,Semi Slav Defense Main Line Semi Meran Variation...,chess.com
+396,French-Defense-Classical-Steinitz-Variation...5.Nce2-c5-6.c3-Nc6-7.Nf3,French Defense Classical Steinitz Variation...,chess.com
+397,Italian-Game-3...d6-4.c3,Italian Game,chess.com
+398,French-Defense-Winawer-Positional-Variation-7...Nbc6-8.Bd3-Qa5,French Defense Winawer Positional Variation,chess.com
+399,Nimzo-Indian-Defense-Romanishin-Kasparov-System...5.Bg2-d5-6.Nf3-dxc4-7.O-O,Nimzo Indian Defense Romanishin Kasparov System...,chess.com
+400,Sicilian-Defense-Canal-Attack-3...Nd7-4.a4-Nf6-5.Nc3,Sicilian Defense Canal Attack,chess.com
+401,English-Opening-Great-Snake-Variation...5.e4-Nc6-6.Nge2-Nge7-7.d3,English Opening Great Snake Variation...,chess.com
+402,Ruy-Lopez-Opening-Morphy-Defense-Anderssen-Variation-5...d6-6.c3-Bd7,Ruy Lopez Opening Morphy Defense Anderssen Variation,chess.com
+403,Queens-Gambit-Declined-Exchange-Positional-Line...6.e3-Be7-7.Bd3-O-O-8.Nge2,Queens Gambit Declined Exchange Positional Line...,chess.com
+404,London-System-3...c5-4.e3-Nc6-5.Nbd2,London System,chess.com
+405,Catalan-Opening-Closed-4...Be7-5.Nf3-O-O-6.O-O,Catalan Opening Closed,chess.com
+406,Kings-Indian-Attack...3.Bg2-Bg4-4.h3-Bh5,Kings Indian Attack...,chess.com
+407,Four-Knights-Game-Scotch-Variation-Accepted-5.Nxd4-Bb4-6.Nxc6-bxc6,Four Knights Game Scotch Variation Accepted,chess.com
+408,Grunfeld-Defense-Burille-Opocensky-Variation,Grunfeld Defense Burille Opocensky Variation,chess.com
+409,English-Opening-Anglo-Indian-Queens-Knight-Variation...6.e4-d6-7.Nge2-e5-8.O-O,English Opening Anglo Indian Queens Knight Variation...,chess.com
+410,Queens-Gambit-Declined-Exchange-Variation-4...exd5-5.Bf4,Queens Gambit Declined Exchange Variation,chess.com
+411,Queens-Pawn-Opening-Chigorin-Variation...4.e3-cxd4-5.exd4-a6,Queens Pawn Opening Chigorin Variation...,chess.com
+412,Caro-Kann-Defense-Two-Knights-Attack-3...g6,Caro Kann Defense Two Knights Attack,chess.com
+413,Reti-Opening-Kings-Indian-Attack-Symmetrical-Defense...4.O-O-O-O-5.d3-d5-6.Nbd2,Reti Opening Kings Indian Attack Symmetrical Defense...,chess.com
+414,Four-Knights-Game-Double-Spanish-Variation...6.d3-Bxc3-7.bxc3-d6,Four Knights Game Double Spanish Variation...,chess.com
+415,Indian-Game-Yusupov-Rubinstein-System-3...c5-4.c3-b6-5.Bd3,Indian Game Yusupov Rubinstein System,chess.com
+416,Trompowsky-Attack-2...c5,Trompowsky Attack,chess.com
+417,Nimzo-Indian-Defense-Classical-Variation-4...O-O-5.a3-Bxc3,Nimzo Indian Defense Classical Variation,chess.com
+418,Grunfeld-Defense-Burille-Opocensky-Variation...7.dxc5-Na6-8.cxd5-Nxc5-9.Bc4,Grunfeld Defense Burille Opocensky Variation...,chess.com
+419,French-Defense-Exchange-Variation...8.Re1-Qd7-9.Nbd2-O-O-O-10.b4,French Defense Exchange Variation...,chess.com
+420,Four-Knights-Game-Double-Spanish-Variation,Four Knights Game Double Spanish Variation,chess.com
+421,Sicilian-Defense-Anti-Qxd4-Move-Order-4.Nc3-cxd4-5.Qxd4-a6,Sicilian Defense Anti Qxd4 Move Order,chess.com
+422,English-Opening-Symmetrical-Variation...7.O-O-O-O-8.Nc3-Nc6-9.d3,English Opening Symmetrical Variation...,chess.com
+423,Old-Indian-Defense-Ukrainian-Two-Knights-Variation...5.e4-Be7-6.Be2-O-O-7.O-O,Old Indian Defense Ukrainian Two Knights Variation...,chess.com
+424,Kings-Indian-Defense-Standard-Development-5...O-O-6.h4,Kings Indian Defense Standard Development,chess.com
+425,Ruy-Lopez-Opening-Morphy-Defense-Deferred-Schliemann-Defense,Ruy Lopez Opening Morphy Defense Deferred Schliemann Defense,chess.com
+426,Indian-Game-Knights-Variation...4.Bg2-Be7-5.O-O-O-O-6.b3,Indian Game Knights Variation...,chess.com
+427,Sicilian-Defense-OKelly-Venice-System...4.d4-d5-5.e5-Bd7,Sicilian Defense OKelly Venice System...,chess.com
+428,Indian-Game-East-Indian-Przepiorka-Variation...5.O-O-d6-6.b3-c5-7.Bb2,Indian Game East Indian Przepiorka Variation...,chess.com
+429,English-Opening-Symmetrical-Two-Knights-Variation...5.d4-Bg4-6.Be2-Bg7,English Opening Symmetrical Two Knights Variation...,chess.com
+430,Kings-Pawn-Opening-1...e5,Kings Pawn Opening,chess.com
+431,Sicilian-Defense...6.Bb3-Be7-7.O-O-O-O-8.Re1,Sicilian Defense...,chess.com
+432,French-Defense-Exchange-Variation...5.c4-Nf6-6.Nc3-O-O,French Defense Exchange Variation...,chess.com
+433,Kings-Indian-Defense-Normal-Variation...6.h3-c5-7.d5-e6-8.Be2,Kings Indian Defense Normal Variation...,chess.com
+434,Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation...9.f3-b5-10.Nxc6-Bxc6,Sicilian Defense Open Classical Richter Rauzer Variation...,chess.com
+435,Kings-Indian-Defense-Four-Pawns-Dynamic-Line-7...a6,Kings Indian Defense Four Pawns Dynamic Line,chess.com
+436,Trompowsky-Attack-2...g6-3.Nd2,Trompowsky Attack,chess.com
+437,Queens-Gambit-Declined-Exchange-Positional-Line...8.Nge2-Re8-9.O-O-c6,Queens Gambit Declined Exchange Positional Line...,chess.com
+438,Ruy-Lopez-Opening-Berlin-lHermet-Berlin-Wall-Defense-9.h3-Ke8-10.Nc3,Ruy Lopez Opening Berlin lHermet Berlin Wall Defense,chess.com
+439,Queens-Gambit-Declined-Exchange-Positional-Line...7.Bd3-Nbd7-8.Nge2-O-O,Queens Gambit Declined Exchange Positional Line...,chess.com
+440,Queens-Pawn-Opening-Symmetrical-Variation,Queens Pawn Opening Symmetrical Variation,chess.com
+441,Bishops-Opening-Berlin-Vienna-Hybrid-Hromadka-Variation,Bishops Opening Berlin Vienna Hybrid Hromadka Variation,chess.com
+442,Queens-Indian-Defense-Fianchetto-Nimzowitsch-Variation-Quiet-Check-Variation-Intermezzo-Line...9.Bg2-O-O-10.O-O-Bb7-11.Bc1,Queens Indian Defense Fianchetto Nimzowitsch Variation Quiet Check Variation Intermezzo Line...,chess.com
+443,Kings-Indian-Defense-Normal-Variation...5.Nf3-c5-6.d5-O-O-7.Bd3,Kings Indian Defense Normal Variation...,chess.com
+444,English-Opening-Neo-Catalan-Defense-Declined...7.Bb2-Bb7-8.cxd5-exd5,English Opening Neo Catalan Defense Declined...,chess.com
+445,English-Opening-Symmetrical-Variation...8.d3-Nc6-9.Nc3-h6,English Opening Symmetrical Variation...,chess.com
+446,Queens-Pawn-Opening-Krause-Variation-3.e3-Nf6-4.c3-Nbd7,Queens Pawn Opening Krause Variation,chess.com
+447,Sicilian-Defense-Open-Najdorf-Variation-6.Bg5-e6,Sicilian Defense Open Najdorf Variation,chess.com
+448,Nimzowitsch-Larsen-Attack,Nimzowitsch Larsen Attack,chess.com
+449,French-Defense-Advance-Variation-3...c5-4.c3-Ne7,French Defense Advance Variation,chess.com
+450,English-Opening-Symmetrical-Hedgehog-Defense...9.b3-O-O-10.Bb2-a6,English Opening Symmetrical Hedgehog Defense...,chess.com
+451,Pirc-Defense-Main-Line-4.Nge2,Pirc Defense Main Line,chess.com
+452,Sicilian-Defense-Katalimov-Variation-3.d4-cxd4-4.Nxd4-Bb7-5.Nc3,Sicilian Defense Katalimov Variation,chess.com
+453,Vienna-Game-Anderssen-Defense-3.Nf3-d6,Vienna Game Anderssen Defense,chess.com
+454,Queens-Indian-Defense-Kasparov-Variation-Petrosian-Variation-Murey-Variation-8...Nxc3-9.bxc3-Nd7-10.Bf4,Queens Indian Defense Kasparov Variation Petrosian Variation Murey Variation,chess.com
+455,English-Opening-Fianchetto-Ultra-Symmetrical-Line-5.b3,English Opening Fianchetto Ultra Symmetrical Line,chess.com
+456,Nimzo-Indian-Defense-Gligoric-Bronstein-Variation,Nimzo Indian Defense Gligoric Bronstein Variation,chess.com
+457,Benoni-Defense-Weenink-Variation,Benoni Defense Weenink Variation,chess.com
+458,Kings-Indian-Defense-Petrosian-Variation-Stein-Defense-8.Bg5-Na6,Kings Indian Defense Petrosian Variation Stein Defense,chess.com
+459,Vienna-Game-Max-Lange-Paulsen-Variation-3...Bc5-4.Bg2-d6,Vienna Game Max Lange Paulsen Variation,chess.com
+460,Queens-Gambit-Declined-Exchange-Variation...5.e4-Nxc3-6.bxc3-c5-7.Rb1,Queens Gambit Declined Exchange Variation...,chess.com
+461,Indian-Game-Knights-Variation...6.Be2-O-O-7.O-O-d6-8.a4,Indian Game Knights Variation...,chess.com
+462,Kings-Indian-Defense-Averbakh-Benoni-Advance-Main-Line-8.Qd2-exd5-9.exd5-Re8-10.Nf3,Kings Indian Defense Averbakh Benoni Advance Main Line,chess.com
+463,Giuoco-Piano-Game-Giuoco-Pianissimo-Italian-Four-Knights-Variation-5...O-O,Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Variation,chess.com
+464,Sicilian-Defense-Open-Najdorf-Variation-6.Bd3,Sicilian Defense Open Najdorf Variation,chess.com
+465,Kings-Indian-Defense-Petrosian-Variation-Stein-Defense-8.Bg5-Na6-9.Nd2,Kings Indian Defense Petrosian Variation Stein Defense,chess.com
+466,Indian-Game-East-Indian-London-System...6.c3-b6-7.Be2-Bb7,Indian Game East Indian London System...,chess.com
+467,Sicilian-Defense-Anti-Qxd4-Move-Order-4.Nc3-cxd4-5.Qxd4,Sicilian Defense Anti Qxd4 Move Order,chess.com
+468,Trompowsky-Attack-2...g6-3.Bxf6-exf6-4.c4,Trompowsky Attack,chess.com
+469,Sicilian-Defense...5.c3-g6-6.O-O-Bg7,Sicilian Defense...,chess.com
+470,Four-Knights-Game-4.Be2,Four Knights Game,chess.com
+471,Alapin-Sicilian-Defense...4.exd5-exd5-5.d4-Nf6-6.Bb5,Alapin Sicilian Defense...,chess.com
+472,Trompowsky-Attack-2...g6-3.Bxf6-exf6,Trompowsky Attack,chess.com
+473,Sicilian-Defense,Sicilian Defense,chess.com
+474,Queens-Gambit-Declined-3.Nf3-a6,Queens Gambit Declined,chess.com
+475,Ruy-Lopez-Opening-Morphy-Defense-Exchange-Variation-4...dxc6-5.d3,Ruy Lopez Opening Morphy Defense Exchange Variation,chess.com
+476,Sicilian-Defense-Kan-Variation,Sicilian Defense Kan Variation,chess.com
+477,Giuoco-Piano-Game-Giuoco-Pianissimo-Italian-Four-Knights-Variation-5...h6,Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Variation,chess.com
+478,Queens-Pawn-Opening,Queens Pawn Opening,chess.com
+479,Queens-Gambit-Declined-Semi-Tarrasch-Main-Line-5...cxd4-6.Qxd4-exd5,Queens Gambit Declined Semi Tarrasch Main Line,chess.com
+480,Sicilian-Defense-Open-Najdorf-Variation...9.f4-e5-10.fxe5-dxe5-11.O-O-O,Sicilian Defense Open Najdorf Variation...,chess.com
+481,Semi-Slav-Defense-Main-Line-Stoltz-Variation...7.Be2-O-O-8.O-O-dxc4,Semi Slav Defense Main Line Stoltz Variation...,chess.com
+482,Queens-Gambit-Declined-Semi-Tarrasch-Main-Line-5...cxd4-6.Qa4,Queens Gambit Declined Semi Tarrasch Main Line,chess.com
+483,Torre-Attack-Classical-Defense-Nimzowitsch-Variation...5.Nbd2-g5-6.Bg3-Nh5,Torre Attack Classical Defense Nimzowitsch Variation...,chess.com
+484,Dutch-Defense-Classical-Rubinstein-Variation-3...Nf6-4.e3-Bb4-5.Bd3,Dutch Defense Classical Rubinstein Variation,chess.com
+485,Nimzo-Indian-Defense-Three-Knights-Duchamp-Variation...8.bxc3-d6-9.Bd3-Nbd7,Nimzo Indian Defense Three Knights Duchamp Variation...,chess.com
+486,Kings-Indian-Defense-Orthodox-Aronin-Taimanov-Defense-8.Be3-Ng4-9.Bg5-f6-10.Bc1,Kings Indian Defense Orthodox Aronin Taimanov Defense,chess.com
+487,Nimzo-Indian-Defense-St-Petersburg-Fischer-Variation...6.a3-Bxc3-7.Nxc3-O-O-8.Bd3,Nimzo Indian Defense St Petersburg Fischer Variation...,chess.com
+488,Kings-Indian-Defense-Normal-Variation...8.Bd3-exd5-9.exd5-Re8-10.Be3,Kings Indian Defense Normal Variation...,chess.com
+489,Sicilian-Defense-Open-Najdorf-Variation-6.Bg5-e6-7.f4-h6-8.Bh4,Sicilian Defense Open Najdorf Variation,chess.com
+490,Ruy-Lopez-Opening-Morphy-Defense-Wormald-Attack-5...d6-6.c3,Ruy Lopez Opening Morphy Defense Wormald Attack,chess.com
+491,Tarrasch-Defense-4.cxd5-exd5,Tarrasch Defense,chess.com
+492,Sicilian-Defense-Open-Najdorf-Variation-6.Bg5-e6-7.f4-Be7,Sicilian Defense Open Najdorf Variation,chess.com
+493,Tarrasch-Defense-Two-Knights-Variation...7.Na4-Bxc5-8.Nxc5-Qa5,Tarrasch Defense Two Knights Variation...,chess.com
+494,Indian-Game-East-Indian-London-System...9.Nbd2-Bb7-10.a4-a6-11.Bh2,Indian Game East Indian London System...,chess.com
+495,French-Defense-Advance-Paulsen-Euwe-Variation-6.Be2-Nge7-7.O-O-Nf5,French Defense Advance Paulsen Euwe Variation,chess.com
+496,Ruy-Lopez-Opening-Morphy-Defense-Bayreuth-Variation-5...dxc6-6.d3-Nd7-7.Nbd2,Ruy Lopez Opening Morphy Defense Bayreuth Variation,chess.com
+497,English-Opening-Kings-English-Drill-Variation,English Opening Kings English Drill Variation,chess.com
+498,Queens-Gambit-Declined-Semi-Tarrasch-Main-Line-Pillsbury-Variation-6...Nc6-7.Bc4,Queens Gambit Declined Semi Tarrasch Main Line Pillsbury Variation,chess.com
+499,English-Opening-Agincourt-Defense-2.Nf3-d5-3.e3-Nf6-4.b3,English Opening Agincourt Defense,chess.com
+500,Ruy-Lopez-Opening-Morphy-Defense-Closed-Martinez-Variation...7.Bb3-d6-8.a4-b4-9.Nbd2,Ruy Lopez Opening Morphy Defense Closed Martinez Variation...,chess.com
+501,Sicilian-Defense-Tartakower-Variation,Sicilian Defense Tartakower Variation,chess.com
+502,Nimzowitsch-Larsen-Attack-Modern-Variation...4.e3-d5-5.cxd5-Nxd5-6.a3,Nimzowitsch Larsen Attack Modern Variation...,chess.com
+503,Kings-Indian-Defense-Samisch-Double-Fianchetto-Variation-7.Bd3,Kings Indian Defense Samisch Double Fianchetto Variation,chess.com
+504,Indian-Game-Spielmann-Indian-Variation-3.d5-e6-4.Nc3-d6-5.e4,Indian Game Spielmann Indian Variation,chess.com
+505,Scotch-Game-Goring-Gambit-4...dxc3-5.Nxc3,Scotch Game Goring Gambit,chess.com
+506,Benoni-Defense-Czech-Variation-4.Nc3-d6-5.e4-Be7-6.Be2,Benoni Defense Czech Variation,chess.com
+507,Nimzo-Indian-Defense-Bishop-Attack-Classical-Defense-6.cxd5-exd5-7.Ne2-Re8-8.O-O,Nimzo Indian Defense Bishop Attack Classical Defense,chess.com
+508,Kings-Indian-Defense-Kramer-Variation-5...O-O-6.Ng3,Kings Indian Defense Kramer Variation,chess.com
+509,Scotch-Game-Classical-Potter-Variation-5...Bb6-6.Qe2,Scotch Game Classical Potter Variation,chess.com
+510,Caro-Kann-Defense-Exchange-Variation-3...cxd5-4.Nf3-Nc6,Caro Kann Defense Exchange Variation,chess.com
+511,Sicilian-Defense-Open-Scheveningen-Sozin-Attack-6...a6-7.Be3,Sicilian Defense Open Scheveningen Sozin Attack,chess.com
+512,Sicilian-Defense-Open-Accelerated-Dragon-Modern-Variation-5...Bg7,Sicilian Defense Open Accelerated Dragon Modern Variation,chess.com
+513,Sicilian-Defense-Open-Najdorf-English-Attack-6...e5-7.Nf3-Qc7,Sicilian Defense Open Najdorf English Attack,chess.com
+514,Kings-Indian-Defense-Normal-Smyslov-Variation-5...h6,Kings Indian Defense Normal Smyslov Variation,chess.com
+515,Alapin-Sicilian-Defense...3.Nf3-d5-4.e5-Nc6,Alapin Sicilian Defense...,chess.com
+516,Petrovs-Defense-3.d3-Nc6-4.g3,Petrovs Defense,chess.com
+517,Ruy-Lopez-Opening-Berlin-Defense...5.Bxc6-dxc6-6.Nbd2-Nd7,Ruy Lopez Opening Berlin Defense...,chess.com
+518,Philidor-Defense-Hanham-Krause-Steiner-Variation...7.Ng5-Bxg5-8.Qh5-Qe7,Philidor Defense Hanham Krause Steiner Variation...,chess.com
+519,Queens-Gambit-Declined-Exchange-Positional-Line-5...Be7-6.e3-h6-7.Bh4,Queens Gambit Declined Exchange Positional Line,chess.com
+520,Sicilian-Defense-Canal-Attack-3...Nd7-4.O-O-a6-5.Bd3,Sicilian Defense Canal Attack,chess.com
+521,Ruy-Lopez-Opening-Morphy-Defense-Closed...8.h3-Bb7-9.d3-d6,Ruy Lopez Opening Morphy Defense Closed...,chess.com
+522,Sicilian-Defense-Open-Najdorf-Variation-6.Nb3,Sicilian Defense Open Najdorf Variation,chess.com
+523,Sicilian-Defense-Nyezhmetdinov-Rossolimo-Attack-3...Nf6-4.Bxc6-dxc6-5.d3,Sicilian Defense Nyezhmetdinov Rossolimo Attack,chess.com
+524,Ruy-Lopez-Opening-Morphy-Defense-Closed-Center-Attack...7.e5-Ne4-8.Nxd4-O-O-9.Nf5,Ruy Lopez Opening Morphy Defense Closed Center Attack...,chess.com
+525,Sicilian-Defense-Open-Accelerated-Dragon-Modern-Variation-5...Bg7-6.Be3-Nf6-7.Nb3,Sicilian Defense Open Accelerated Dragon Modern Variation,chess.com
+526,Ruy-Lopez-Opening-Morphy-Defense-Delayed-Exchange-Variation-6...dxc6-7.Nc3-Nd7-8.d4,Ruy Lopez Opening Morphy Defense Delayed Exchange Variation,chess.com
+527,Ruy-Lopez-Opening-Morphy-Defense-Modern-Steinitz-Defense-5.O-O-Bd7-6.c4,Ruy Lopez Opening Morphy Defense Modern Steinitz Defense,chess.com
+528,Nimzo-Indian-Defense-Classical-Variation-4...d6-5.a3-Bxc3,Nimzo Indian Defense Classical Variation,chess.com
+529,Italian-Game-Two-Knights-Modern-Bishops-Opening-4...Be7,Italian Game Two Knights Modern Bishops Opening,chess.com
+530,Alapin-Sicilian-Defense...5.d4-cxd4-6.cxd4-d6,Alapin Sicilian Defense...,chess.com
+531,Italian-Game-Two-Knights-Modern-Bishops-Opening...6.Re1-d6-7.a4-Be6,Italian Game Two Knights Modern Bishops Opening...,chess.com
+532,Old-Indian-Defense-Ukrainian-Variation-4.dxe5-dxe5-5.Qxd8-Kxd8-6.Nf3,Old Indian Defense Ukrainian Variation,chess.com
+533,Italian-Game-Two-Knights-Modern-Bishops-Opening-4...Be7-5.O-O-d6-6.a4,Italian Game Two Knights Modern Bishops Opening,chess.com
+534,Indian-Game-Black-Knights-Tango-3.Nf3-d6,Indian Game Black Knights Tango,chess.com
+535,French-Defense-Advance-Paulsen-Attack-5...Nge7,French Defense Advance Paulsen Attack,chess.com
+536,Ruy-Lopez-Opening-Cozio-Defense-4.Nc3-Ng6-5.d4,Ruy Lopez Opening Cozio Defense,chess.com
+537,Queens-Gambit-Declined-Three-Knights-Variation-4...a6-5.cxd5-exd5-6.Bf4,Queens Gambit Declined Three Knights Variation,chess.com
+538,Nimzo-Indian-Defense-Reshevsky-Variation...6.a3-Bf8-7.Ng3-d5-8.Be2,Nimzo Indian Defense Reshevsky Variation...,chess.com
+539,Queens-Pawn-Opening-English-Defense-3.a3-Bb7-4.Nc3-Nf6,Queens Pawn Opening English Defense,chess.com
+540,Queens-Gambit-Declined-Three-Knights-Variation...9.b3-Nbd7-10.Bb2-a6,Queens Gambit Declined Three Knights Variation...,chess.com
+541,Kings-Indian-Defense-Orthodox-Positional-Defense-8.Be3,Kings Indian Defense Orthodox Positional Defense,chess.com
+542,Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-d6-3.g3,Nimzowitsch Larsen Attack Modern Variation,chess.com
+543,Owens-Defense-2.d4-Bb7-3.Bd3-e6-4.Nf3,Owens Defense,chess.com
+544,English-Opening-Neo-Catalan-Defense-Declined-5.O-O-O-O-6.d3,English Opening Neo Catalan Defense Declined,chess.com
+545,Philidor-Defense-Exchange-Variation...7.Qd2-Nc6-8.O-O-O-Nxd4-9.Qxd4,Philidor Defense Exchange Variation...,chess.com
+546,Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-d6-3.e3-Nf6,Nimzowitsch Larsen Attack Modern Variation,chess.com
+547,Queens-Pawn-Opening-English-Rat-Defense...4.Qxd4-Nc6-5.Qd2-g6-6.b3,Queens Pawn Opening English Rat Defense...,chess.com
+548,Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-d6-3.e3,Nimzowitsch Larsen Attack Modern Variation,chess.com
+549,Pirc-Defense-2.g3-Nf6-3.Bg2,Pirc Defense,chess.com
+550,Nimzo-Indian-Defense-St-Petersburg-Variation...7.O-O-Bxc3-8.bxc3-d6,Nimzo Indian Defense St Petersburg Variation...,chess.com
+551,Ruy-Lopez-Opening-Morphy-Defense-Anti-Marshall-Variation-8...b4-9.a5,Ruy Lopez Opening Morphy Defense Anti Marshall Variation,chess.com
+552,Caro-Kann-Defense-Advance-Tal-Variation-4...h6-5.g4-Bd7-6.h5,Caro Kann Defense Advance Tal Variation,chess.com
+553,Kings-Indian-Attack-French-Variation...6.Nbd2-Be7-7.e4-O-O-8.Re1,Kings Indian Attack French Variation...,chess.com
+554,Queens-Pawn-Opening-Pseudo-Catalan-Variation...4.Bg2-Bg7-5.O-O-O-O,Queens Pawn Opening Pseudo Catalan Variation...,chess.com
+555,Nimzo-Indian-Defense-St-Petersburg-Variation-5.Bd3-Bb7,Nimzo Indian Defense St Petersburg Variation,chess.com
+556,Kings-Indian-Defense-Fianchetto-Yugoslav-Kavalek-Bronstein-Larsen-Defense-8.Nh4-Be6,Kings Indian Defense Fianchetto Yugoslav Kavalek Bronstein Larsen Defense,chess.com
+557,Slav-Defense-Modern-Alapin-Variation-Steiner-Variation-6.Ne5-Bh5-7.Nxc4-e6,Slav Defense Modern Alapin Variation Steiner Variation,chess.com
+558,Indian-Game-2.Bf4-g6-3.Nc3-d5-4.Qd2,Indian Game,chess.com
+559,Sicilian-Defense-Open-Dragon-Old-Line...13.Kb1-Nc4-14.Bxc4-Rxc4,Sicilian Defense Open Dragon Old Line...,chess.com
+560,Scandinavian-Defense-2.e5,Scandinavian Defense,chess.com
+561,Kings-Indian-Defense-Fianchetto-Yugoslav-Panno-System-6...c6,Kings Indian Defense Fianchetto Yugoslav Panno System,chess.com
+562,French-Defense-Knight-Variation-Wing-Gambit,French Defense Knight Variation Wing Gambit,chess.com
+563,Kings-Indian-Defense-Four-Pawns-Dynamic-Line-7...e6-8.dxe6-fxe6,Kings Indian Defense Four Pawns Dynamic Line,chess.com
+564,Kings-Indian-Defense-Semi-Averbakh-System-6...e5-7.d5-Na6,Kings Indian Defense Semi Averbakh System,chess.com
+565,Kings-Indian-Defense-Normal-Variation-4.e4-O-O-5.Bd3-d6,Kings Indian Defense Normal Variation,chess.com
+566,Pirc-Defense-Classical-Variation-4...Bg7-5.Be3-O-O,Pirc Defense Classical Variation,chess.com
+567,Three-Knights-Opening-Steinitz-Defense...5.Nxd4-Bg7-6.Be3-Nf6,Three Knights Opening Steinitz Defense...,chess.com
+568,Sicilian-Defense-Four-Knights-Variation-6.a3-Be7,Sicilian Defense Four Knights Variation,chess.com
+569,Kings-Indian-Defense-Orthodox-Glek-Defense-8.Be3-Ng4-9.Bg5-f6-10.Bc1,Kings Indian Defense Orthodox Glek Defense,chess.com
+570,Sicilian-Defense...6.Ngf3-Be7-7.O-O-O-O,Sicilian Defense...,chess.com
+571,Four-Knights-Game-Scotch-Variation-Accepted-5.Nxd4-Bc5-6.Nxc6-bxc6-7.Bd3,Four Knights Game Scotch Variation Accepted,chess.com
+572,French-Defense-Advance-Nimzowitsch-System,French Defense Advance Nimzowitsch System,chess.com
+573,English-Opening-Anglo-Indian-Kings-Indian-Defense...6.Be2-Nc6-7.O-O-d5-8.cxd5,English Opening Anglo Indian Kings Indian Defense...,chess.com
+574,English-Opening-Great-Snake-Variation-2.g3-Bg7-3.Bg2-d6-4.d4,English Opening Great Snake Variation,chess.com
+575,Queens-Gambit-Declined-Three-Knights-Variation-4...Be7,Queens Gambit Declined Three Knights Variation,chess.com
+576,Sicilian-Defense-Bowdler-Attack-2...e6-3.Nc3-a6,Sicilian Defense Bowdler Attack,chess.com
+577,French-Defense-Winawer-Winckelmann-Riemer-Gambit-4...Bxc3-5.bxc3-dxe4-6.f3,French Defense Winawer Winckelmann Riemer Gambit,chess.com
+578,English-Opening-Neo-Catalan-Bogoljubov-Defense,English Opening Neo Catalan Bogoljubov Defense,chess.com
+579,Slav-Defense-Modern-Line-3...Nf6-4.g3-Bf5,Slav Defense Modern Line,chess.com
+580,Grunfeld-Defense-Petrosian-System...6.Bf4-Nxc3-7.bxc3-dxc4,Grunfeld Defense Petrosian System...,chess.com
+581,Sicilian-Defense-Open-Najdorf-Variation...7.Qf3-Nbd7-8.O-O-O-Qc7,Sicilian Defense Open Najdorf Variation...,chess.com
+582,English-Opening-Anglo-Indian-Kings-Indian-Defense...8.d3-Nbd7-9.Nbd2-Re8,English Opening Anglo Indian Kings Indian Defense...,chess.com
+583,Reti-Opening-Nimzowitsch-Larsen-Attack...3.Bb2-e6-4.e3-Nf6,Reti Opening Nimzowitsch Larsen Attack...,chess.com
+584,Semi-Slav-Defense-Main-Line-Normal-Variation,Semi Slav Defense Main Line Normal Variation,chess.com
+585,English-Opening-Anglo-Indian-Queens-Knight-Variation...5.d4-c6-6.e4-d6-7.Nf3,English Opening Anglo Indian Queens Knight Variation...,chess.com
+586,English-Opening-Agincourt-Defense...3.e3-Nf6-4.Nf3-Be7,English Opening Agincourt Defense...,chess.com
+587,Trompowsky-Attack-Raptor-Variation-3...c5-4.d5,Trompowsky Attack Raptor Variation,chess.com
+588,Mieses-Opening-1...d5,Mieses Opening,chess.com
+589,Catalan-Opening-Closed-4...dxc4-5.Nf3-Nbd7-6.O-O,Catalan Opening Closed,chess.com
+590,French-Defense-Tarrasch-Variation,French Defense Tarrasch Variation,chess.com
+591,Queens-Gambit-Declined-Exchange-Positional-Line-5...Be7-6.e3,Queens Gambit Declined Exchange Positional Line,chess.com
+592,Sicilian-Defense-Open-Najdorf-Variation-6.Bd3-e5-7.Nde2-Be7-8.O-O,Sicilian Defense Open Najdorf Variation,chess.com
+593,Ruy-Lopez-Opening-Morphy-Defense-Modern-Steinitz-Defense...6.d4-g6-7.O-O-Bg7-8.Bg5,Ruy Lopez Opening Morphy Defense Modern Steinitz Defense...,chess.com
+594,Old-Indian-Defense-Tartakower-Indian-Variation-4.Qb3-Qc8,Old Indian Defense Tartakower Indian Variation,chess.com
+595,Owens-Defense-2.d4,Owens Defense,chess.com
+596,Sicilian-Defense-Taimanov-Variation-5.Nxc6-bxc6-6.c4-Nf6-7.Bd3,Sicilian Defense Taimanov Variation,chess.com
+597,English-Opening-Great-Snake-Variation,English Opening Great Snake Variation,chess.com
+598,Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-Nc6-3.c4-Nf6,Nimzowitsch Larsen Attack Modern Variation,chess.com
+599,Queens-Gambit-Accepted-Classical-Defense-6.O-O-Nc6,Queens Gambit Accepted Classical Defense,chess.com
+600,Reti-Opening-Nimzowitsch-Larsen-Attack-2...Nf6,Reti Opening Nimzowitsch Larsen Attack,chess.com
+601,Queens-Gambit-Declined-Exchange-Variation...6.bxc3-c5-7.Rb1-Be7-8.Nf3,Queens Gambit Declined Exchange Variation...,chess.com
+602,English-Opening-Carls-Bremen-Smyslov-System...5.e4-Bxc3-6.bxc3-c6,English Opening Carls Bremen Smyslov System...,chess.com
+603,Reti-Opening-Queenside-Fianchetto-Variation-2.g3-Bb7-3.Bg2,Reti Opening Queenside Fianchetto Variation,chess.com
+604,Slav-Defense-3.Nc3-Nf6-4.e3-Bf5,Slav Defense,chess.com
+605,French-Defense-Exchange-Variation-3...exd5-4.Nc3-Nf6-5.Bd3,French Defense Exchange Variation,chess.com
+606,Sicilian-Defense-Open-Accelerated-Dragon-Modern-Variation...6.Be3-Nf6-7.Nb3-O-O,Sicilian Defense Open Accelerated Dragon Modern Variation...,chess.com
+607,Caro-Kann-Defense-Panov-Attack-4...Nf6-5.Nc3-e6-6.c5,Caro Kann Defense Panov Attack,chess.com
+608,French-Defense-Rubinstein-Blackburne-Defense-5.Nf3-Ngf6-6.Nxf6-Nxf6-7.Be3,French Defense Rubinstein Blackburne Defense,chess.com
+609,Italian-Game-Two-Knights-Modern-Bishops-Opening-4...Be7-5.Nc3-d6-6.a3,Italian Game Two Knights Modern Bishops Opening,chess.com
+610,Alapin-Sicilian-Defense...3.e5-Nd5-4.Nf3-d6-5.Bc4,Alapin Sicilian Defense...,chess.com
+611,French-Defense-Exchange-Variation...5.Nf3-Nf6-6.O-O-O-O-7.h3,French Defense Exchange Variation...,chess.com
+612,Alekhines-Defense-Two-Pawns-Attack-3...Nb6,Alekhines Defense Two Pawns Attack,chess.com
+613,Sicilian-Defense-Open-Najdorf-Amsterdam-Variation-6...g6,Sicilian Defense Open Najdorf Amsterdam Variation,chess.com
+614,Sicilian-Defense-Four-Knights-Variation-6.a3,Sicilian Defense Four Knights Variation,chess.com
+615,Nimzo-Indian-Defense-Keres-Variation...10.O-O-Ba6-11.f3-Re8,Nimzo Indian Defense Keres Variation...,chess.com
+616,Sicilian-Defense-Open-Najdorf-Amsterdam-Variation-6...Nbd7,Sicilian Defense Open Najdorf Amsterdam Variation,chess.com
+617,Sicilian-Defense-French-Variation-3.d4-cxd4,Sicilian Defense French Variation,chess.com
+618,Pirc-Defense-2.d4-Nf6-3.Bd3-e5,Pirc Defense,chess.com
+619,English-Opening-Anglo-Indian-Kings-Knight-Queens-Indian-Formation...4.Bg2-g6-5.d4-Bg7-6.O-O,English Opening Anglo Indian Kings Knight Queens Indian Formation...,chess.com
+620,Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-d6-3.c4,Nimzowitsch Larsen Attack Modern Variation,chess.com
+621,French-Defense-Rubinstein-Blackburne-Defense...7.Bd3-c5-8.O-O-cxd4-9.Nxd4,French Defense Rubinstein Blackburne Defense...,chess.com
+622,Sicilian-Defense-Hyperaccelerated-Dragon-Variation...4.e5-Nd5-5.d4-cxd4,Sicilian Defense Hyperaccelerated Dragon Variation...,chess.com
+623,Indian-Game-Knights-Variation-2...b6-3.Bg5-Ne4-4.Bh4,Indian Game Knights Variation,chess.com
+624,Budapest-Gambit-Fajarowicz-Variation-4.Nf3-Bb4-5.Nbd2,Budapest Gambit Fajarowicz Variation,chess.com
+625,Reti-Opening-Queenside-Fianchetto-Variation,Reti Opening Queenside Fianchetto Variation,chess.com
+626,Modern-Defense-Pterodactyl-Defense...6.h3-O-O-7.Nf3-e6,Modern Defense Pterodactyl Defense...,chess.com
+627,Giuoco-Piano-Game...7.c3-Ba7-8.Re1-O-O,Giuoco Piano Game...,chess.com
+628,Ruy-Lopez-Opening-Morphy-Defense-Columbus-Variation...8.d4-Bb6-9.Be3-O-O-10.Nbd2,Ruy Lopez Opening Morphy Defense Columbus Variation...,chess.com
+629,French-Defense-Kings-Indian-Attack...7.O-O-Bg7-8.Re1-O-O,French Defense Kings Indian Attack...,chess.com
+630,Giuoco-Piano-Game-4.O-O-Nf6-5.d3-d6-6.a4,Giuoco Piano Game,chess.com
+631,English-Opening-Anglo-Indian-Queens-Knight-Variation...4.Bg2-O-O-5.d4-d6,English Opening Anglo Indian Queens Knight Variation...,chess.com
+632,Sicilian-Defense...3.Bc4-Nf6-4.d3-Nc6-5.O-O,Sicilian Defense...,chess.com
+633,Grunfeld-Defense-Exchange-Main-Line-11.cxd4,Grunfeld Defense Exchange Main Line,chess.com
+634,Reti-Opening-Quiet-System...3.b4-Bg7-4.Bb2-O-O-5.c4,Reti Opening Quiet System...,chess.com
+635,Queens-Gambit-Declined-Semi-Slav-Defense-Accelerated-Move-Order-4.cxd5-exd5-5.Bf4-Nf6-6.e3,Queens Gambit Declined Semi Slav Defense Accelerated Move Order,chess.com
+636,Giuoco-Piano-Game...5.d3-d6-6.a4-a6,Giuoco Piano Game...,chess.com
+637,Ruy-Lopez-Opening-Morphy-Defense-Closed-Averbakh-Variation...8.d4-exd4-9.Nxd4-Bd7,Ruy Lopez Opening Morphy Defense Closed Averbakh Variation...,chess.com
+638,French-Defense-Classical-Steinitz-Boleslavsky-Variation-7...a6,French Defense Classical Steinitz Boleslavsky Variation,chess.com
+639,Queens-Gambit-Declined-Exchange-Positional-Line...7.Bd3-h6-8.Bh4-c6,Queens Gambit Declined Exchange Positional Line...,chess.com
+640,French-Defense-Chigorin-Variation-2...d5-3.exd5-Qxd5-4.Nc3,French Defense Chigorin Variation,chess.com
+641,English-Opening-Fianchetto-Ultra-Symmetrical-Botvinnik-System...6.Nge2-Nf6-7.O-O-O-O-8.a3,English Opening Fianchetto Ultra Symmetrical Botvinnik System...,chess.com
+642,Kings-Indian-Defense-Normal-Variation...5.Bd3-O-O-6.Nge2-Nc6-7.O-O,Kings Indian Defense Normal Variation...,chess.com
+643,Closed-Sicilian-Defense-Traditional-Line...4.Bc4-Be7-5.d3-d6,Closed Sicilian Defense Traditional Line...,chess.com
+644,Caro-Kann-Defense-Advance-Botvinnik-Carls-Defense-4.dxc5-e6,Caro Kann Defense Advance Botvinnik Carls Defense,chess.com
+645,Slav-Defense-3.Nc3-Nf6-4.e3-e6,Slav Defense,chess.com
+646,Sicilian-Defense-Chekhover-Variation...5.Bb5-a6-6.Bxc6-bxc6,Sicilian Defense Chekhover Variation...,chess.com
+647,Kings-Indian-Defense-Petrosian-Variation-Stein-Defense-8.h3-Na6,Kings Indian Defense Petrosian Variation Stein Defense,chess.com
+648,Kings-Indian-Attack-2...c6-3.Bg2-Bf5-4.O-O,Kings Indian Attack,chess.com
+649,Ruy-Lopez-Opening-Morphy-Defense-Deferred-Classical-Defense-5.O-O,Ruy Lopez Opening Morphy Defense Deferred Classical Defense,chess.com
+650,Queens-Indian-Defense-Kasparov-Variation-Petrosian-Variation...7.Qc2-Be7-8.e4-Nxc3-9.bxc3,Queens Indian Defense Kasparov Variation Petrosian Variation...,chess.com
+651,Indian-Game-East-Indian-London-System...5.Be2-d6-6.h3-b6,Indian Game East Indian London System...,chess.com
+652,Catalan-Opening-Closed...5.Nf3-Nbd7-6.O-O-dxc4,Catalan Opening Closed...,chess.com
+653,Closed-Sicilian-Defense...3.f4-a6-4.Nf3-d5,Closed Sicilian Defense...,chess.com
+654,Owens-Defense...4.Nf3-c5-5.c3-cxd4-6.cxd4,Owens Defense...,chess.com
+655,Sicilian-Defense-Smith-Morra-Gambit-2...cxd4-3.Qxd4-Nc6,Sicilian Defense Smith Morra Gambit,chess.com
+656,Sicilian-Defense-Open-Najdorf-Amsterdam-Variation-6...e5,Sicilian Defense Open Najdorf Amsterdam Variation,chess.com
+657,Queens-Gambit-Declined-Harrwitz-Two-Knights-Defense-7.Qc2-c5,Queens Gambit Declined Harrwitz Two Knights Defense,chess.com
+658,Queens-Gambit-Declined-Harrwitz-Two-Knights-Defense,Queens Gambit Declined Harrwitz Two Knights Defense,chess.com
+659,French-Defense-Tarrasch-Variation-3...Ne7-4.Ngf3,French Defense Tarrasch Variation,chess.com
+660,French-Defense-Tarrasch-Morozevich-Variation...10.Nd4-Ndxe5-11.Bb5-Bd7,French Defense Tarrasch Morozevich Variation...,chess.com
+661,Queens-Gambit-Declined-Three-Knights-Variation-4...Be7-5.cxd5,Queens Gambit Declined Three Knights Variation,chess.com
+662,Nimzowitsch-Larsen-Attack-Classical-Variation-2.Bb2-Bg4-3.f3,Nimzowitsch Larsen Attack Classical Variation,chess.com
+663,Queens-Pawn-Opening-Pseudo-Catalan-Variation-3...Bf5-4.Bg2,Queens Pawn Opening Pseudo Catalan Variation,chess.com
+664,Sicilian-Defense-Open-Scheveningen-Sozin-Main-Line-7...a6,Sicilian Defense Open Scheveningen Sozin Main Line,chess.com
+665,Sicilian-Defense-Open-Najdorf-Opocensky-Variation-6...e5-7.Nf3-h6,Sicilian Defense Open Najdorf Opocensky Variation,chess.com
+666,Reti-Opening-Kings-Indian-Attack-Spassky-Variation,Reti Opening Kings Indian Attack Spassky Variation,chess.com
+667,Kings-Indian-Attack-2...Nd7-3.d4,Kings Indian Attack,chess.com
+668,Sicilian-Defense-Open-Najdorf-Adams-Attack-6...e5-7.Nde2-h5,Sicilian Defense Open Najdorf Adams Attack,chess.com
+669,Owens-Defense...4.Nf3-Bb4-5.Bd3-Nf6,Owens Defense...,chess.com
+670,Kings-Indian-Defense-Samisch-Double-Fianchetto-Variation-7.Qd2-c5-8.Nge2-Nc6,Kings Indian Defense Samisch Double Fianchetto Variation,chess.com
+671,Reti-Opening-Sicilian-Invitation...4.d3-d5-5.O-O-Nf6,Reti Opening Sicilian Invitation...,chess.com
+672,Philidor-Defense-Exchange-Variation...5.Nc3-Be7-6.Bd3-O-O-7.O-O,Philidor Defense Exchange Variation...,chess.com
+673,Reti-Opening-Nimzowitsch-Larsen-Attack-2...Nf6-3.Bb2-Bg4,Reti Opening Nimzowitsch Larsen Attack,chess.com
+674,Sicilian-Defense-Open-Najdorf-Amsterdam-Variation-6...Qc7,Sicilian Defense Open Najdorf Amsterdam Variation,chess.com
+675,Old-Indian-Defense...9.a4-a5-10.h3-Re8,Old Indian Defense...,chess.com
+676,Kings-Indian-Attack-Yugoslav-Variation-3.Bg2-e6-4.O-O,Kings Indian Attack Yugoslav Variation,chess.com
+677,French-Defense-Normal-Variation...5.e5-Ne4-6.Ne2-f6,French Defense Normal Variation...,chess.com
+678,Dutch-Defense,Dutch Defense,chess.com
+679,Torre-Attack-Fianchetto-Defense...8.Bc4-Nc6-9.O-O-Qc7,Torre Attack Fianchetto Defense...,chess.com
+680,French-Defense-Tarrasch-Variation-3...h6,French Defense Tarrasch Variation,chess.com
+681,French-Defense-Tarrasch-Guimard-Main-Line...6.c3-f6-7.Bb5-fxe5,French Defense Tarrasch Guimard Main Line...,chess.com
+682,Caro-Kann-Defense-Two-Knights-Mindeno-Exchange-Line-5.Qxf3-Nf6-6.d3-e6-7.Bd2,Caro Kann Defense Two Knights Mindeno Exchange Line,chess.com
+683,Reti-Opening-Queenside-Fianchetto-Variation-2.e4-Bb7-3.Nc3,Reti Opening Queenside Fianchetto Variation,chess.com
+684,Kings-Indian-Attack...3.Bg2-e5-4.d3-Nf6-5.O-O,Kings Indian Attack...,chess.com
+685,Modern-Defense-Standard-Line...5.h3-Nf6-6.Bd3-dxe4-7.Nxe4,Modern Defense Standard Line...,chess.com
+686,Pirc-Defense-Main-Line...5.Qd2-c6-6.Bh6-Bxh6-7.Qxh6,Pirc Defense Main Line...,chess.com
+687,Kings-Indian-Defense-Fianchetto-Yugoslav-Kavalek-Bronstein-Larsen-Defense-8.Re1-Ne4,Kings Indian Defense Fianchetto Yugoslav Kavalek Bronstein Larsen Defense,chess.com
+688,Sicilian-Defense-Canal-Main-Line-4.c4-Nf6-5.Nc3-g6,Sicilian Defense Canal Main Line,chess.com
+689,Petrovs-Defense-Classical-Nimzowitsch-Attack...6.dxc3-Be7-7.Bf4-Nc6-8.Qd2,Petrovs Defense Classical Nimzowitsch Attack...,chess.com
+690,Lion-Defense-Anti-Philidor-Lions-Cave-Variation-5.Nf3-exd4-6.Qxd4-c6,Lion Defense Anti Philidor Lions Cave Variation,chess.com
+691,Kings-Indian-Attack...3.d4-Bf5-4.Bg2-e6-5.O-O,Kings Indian Attack...,chess.com
+692,French-Defense-Normal-Variation...4.Nf3-Nf6-5.e5-Ne4,French Defense Normal Variation...,chess.com
+693,Reti-Opening-Sicilian-Invitation-2.c3,Reti Opening Sicilian Invitation,chess.com
+694,French-Defense-Exchange-Variation...7.Bg5-Bg4-8.Nbd2-Nbd7,French Defense Exchange Variation...,chess.com
+695,Semi-Slav-Defense-Accepted-Botvinnik-Variation-6...b5-7.a4-Qb6,Semi Slav Defense Accepted Botvinnik Variation,chess.com
+696,English-Opening-Symmetrical-Anti-Benoni-Variation...4.Nxd4-e6-5.Nc3-Nc6-6.e3,English Opening Symmetrical Anti Benoni Variation...,chess.com
+697,Sicilian-Defense-Kan-Modern-Variation...8.Nxc6-dxc6-9.Nc3-e5,Sicilian Defense Kan Modern Variation...,chess.com
+698,Petrovs-Defense-Classical-Attack-Marshall-Variation-Staunton-Variation...10.bxc3-dxc4-11.Bxc4-Bg4,Petrovs Defense Classical Attack Marshall Variation Staunton Variation...,chess.com
+699,Queens-Gambit-Declined-3.Nf3-Nf6-4.e3-a6-5.Nc3,Queens Gambit Declined,chess.com
+700,Closed-Sicilian-Defense-Fianchetto-Variation...4.Bg2-Bg7-5.d3-e6-6.Be3,Closed Sicilian Defense Fianchetto Variation...,chess.com
+701,Indian-Game-East-Indian-Anti-Nimzo-Indian-Dzindzi-Indian-Defense-4.Nc3-c5-5.d5,Indian Game East Indian Anti Nimzo Indian Dzindzi Indian Defense,chess.com
+702,Pirc-Defense-Classical-Variation-4...Bg7-5.Bf4-O-O,Pirc Defense Classical Variation,chess.com
+703,French-Defense-Classical-Steinitz-Boleslavsky-Variation...9.Qd2-Qxb2-10.Rb1-Qa3,French Defense Classical Steinitz Boleslavsky Variation...,chess.com
+704,Caro-Kann-Defense-Breyer-Variation...3.Nd2-g6-4.g3-Bg7-5.Bg2,Caro Kann Defense Breyer Variation...,chess.com
+705,Reti-Opening-Kings-Indian-Attack...4.O-O-e6-5.d3-Be7-6.e4,Reti Opening Kings Indian Attack...,chess.com
+706,English-Opening-Anglo-Indian-Defense...6.Nge2-e5-7.O-O-c6-8.d3,English Opening Anglo Indian Defense...,chess.com
+707,Modern-Defense-with-1-e4...3.Nf3-c6-4.c3-d5,Modern Defense with 1 e,chess.com
+708,Reti-Opening-Kings-Indian-Attack...4.O-O-c5-5.d3-g6-6.e4,Reti Opening Kings Indian Attack...,chess.com
+709,English-Opening-Anglo-Indian-Kings-Knight-Queens-Indian-Formation...5.b3-Bg7-6.Bb2-O-O-7.O-O,English Opening Anglo Indian Kings Knight Queens Indian Formation...,chess.com
+710,Philidor-Defense...4.O-O-Nf6-5.d3-O-O,Philidor Defense...,chess.com
+711,Caro-Kann-Defense-Main-Line-4...Nf6-5.Ng3-h5-6.h4,Caro Kann Defense Main Line,chess.com
+712,Queens-Pawn-Opening-Horwitz-Defense-2.Bf4,Queens Pawn Opening Horwitz Defense,chess.com
+713,Caro-Kann-Defense-Accelerated-Panov-Modern-Variation-5.Bb5-Nbd7,Caro Kann Defense Accelerated Panov Modern Variation,chess.com
+714,English-Opening-Symmetrical-Double-Fianchetto-Defense...7.e4-O-O-8.Nc3-Nc6,English Opening Symmetrical Double Fianchetto Defense...,chess.com
+715,Queens-Pawn-Opening-1...c6-2.Nf3,Queens Pawn Opening,chess.com
+716,Kings-Indian-Attack-2...Nd7-3.Bg2-e5,Kings Indian Attack,chess.com
+717,Reti-Opening-Kings-Indian-Attack-Spassky-Variation...4.O-O-e6-5.d3-Be7-6.e4,Reti Opening Kings Indian Attack Spassky Variation...,chess.com
+718,French-Defense-Winawer-Advance-Petrosian-Variation-5.a3-Bf8,French Defense Winawer Advance Petrosian Variation,chess.com
+719,Caro-Kann-Defense-Exchange-Rubinstein-Variation...8.Nd2-e6-9.Ngf3-Bxf3-10.Nxf3,Caro Kann Defense Exchange Rubinstein Variation...,chess.com
+720,Sicilian-Defense-Taimanov-Bastrikov-Variation...8.O-O-b5-9.a3-Bb7,Sicilian Defense Taimanov Bastrikov Variation...,chess.com
+721,Giuoco-Piano-Game...7.Nbd2-a6-8.Bb3-h6-9.Re1,Giuoco Piano Game...,chess.com
+722,Indian-Game-Spielmann-Indian-Variation-3.c3-g6-4.Bf4,Indian Game Spielmann Indian Variation,chess.com
+723,Kings-Indian-Attack-Yugoslav-Variation...4.O-O-Be7-5.d3-O-O,Kings Indian Attack Yugoslav Variation...,chess.com
+724,Caro-Kann-Defense-Tartakower-Variation...8.Qc2-Re8-9.Ne2-h5-10.Be3,Caro Kann Defense Tartakower Variation...,chess.com
+725,French-Defense-Tarrasch-Open-Chistyakov-Defense-5.dxc5-Bxc5-6.Ngf3-Nf6,French Defense Tarrasch Open Chistyakov Defense,chess.com
+726,Old-Indian-Defense-Janowski-Variation-4.Nf3,Old Indian Defense Janowski Variation,chess.com
+727,Grunfeld-Defense-Exchange-Classical-Variation-7...c5-8.Ne2-Nc6,Grunfeld Defense Exchange Classical Variation,chess.com
+728,Tarrasch-Defense-Symmetrical-Variation-6.Bd3-dxc4-7.Bxc4-a6,Tarrasch Defense Symmetrical Variation,chess.com
+729,Reti-Opening-Sicilian-Invitation...3.Bg2-g6-4.d3-Bg7-5.O-O,Reti Opening Sicilian Invitation...,chess.com
+730,French-Defense-Exchange-Variation-3...exd5-4.Nf3-Nc6-5.Bb5,French Defense Exchange Variation,chess.com
+731,English-Opening-Symmetrical-Variation...6.Nc3-e5-7.d3-Nge7,English Opening Symmetrical Variation...,chess.com
+732,Queens-Gambit-Declined-Charousek-Variation-4.Bf4,Queens Gambit Declined Charousek Variation,chess.com
+733,Petrovs-Defense-Classical-Attack-Marshall-Variation-Staunton-Variation-9.Re1-Bf5,Petrovs Defense Classical Attack Marshall Variation Staunton Variation,chess.com
+734,Petrovs-Defense-Classical-Attack-Mason-Variation-8.c4,Petrovs Defense Classical Attack Mason Variation,chess.com
+735,Ruy-Lopez-Opening-Morphy-Defense-Columbus-Variation...10.a5-Ba7-11.h3-O-O-12.Be3,Ruy Lopez Opening Morphy Defense Columbus Variation...,chess.com
+736,Kings-Indian-Defense-Samisch-Bobotsov-Korchnoi-Petrosian-Variation...9.cxd5-a6-10.a4-Nbd7-11.Be2,Kings Indian Defense Samisch Bobotsov Korchnoi Petrosian Variation...,chess.com
+737,Philidor-Defense-Hanham-Lion-Variation-5.h3-Be7,Philidor Defense Hanham Lion Variation,chess.com
+738,Catalan-Opening...4.Bd2-a5-5.Bg2-O-O,Catalan Opening...,chess.com
+739,Indian-Game-Fantasy-Variation-2...d5,Indian Game Fantasy Variation,chess.com
+740,Kings-Indian-Defense...6.d5-d6-7.O-O-e6,Kings Indian Defense...,chess.com
+741,Kings-Indian-Attack-2...Nc6-3.Bg2-e5-4.O-O,Kings Indian Attack,chess.com
+742,Torre-Attack-Classical-Defense-Nimzowitsch-Variation...5.e4-b6-6.Bd3-Bb7,Torre Attack Classical Defense Nimzowitsch Variation...,chess.com
+743,Nimzowitsch-Larsen-Attack-Modern-Pachman-Gambit,Nimzowitsch Larsen Attack Modern Pachman Gambit,chess.com
+744,Grunfeld-Defense-Exchange-Modern-Exchange-Variation...8.Be2-O-O-9.O-O-Nc6,Grunfeld Defense Exchange Modern Exchange Variation...,chess.com
+745,Nimzo-Indian-Defense-Bishop-Attack,Nimzo Indian Defense Bishop Attack,chess.com
+746,Philidor-Defense-Hanham-Lion-Variation,Philidor Defense Hanham Lion Variation,chess.com
+747,Kings-Indian-Defense-Orthodox-Positional-Defense-8.Re1-Re8-9.Bf1,Kings Indian Defense Orthodox Positional Defense,chess.com
+748,Giuoco-Piano-Game-Main-Line-Giuoco-Pianissimo-Variation-5...a6,Giuoco Piano Game Main Line Giuoco Pianissimo Variation,chess.com
+749,Queens-Gambit-Accepted-Janowski-Larsen-Variation-5.Bxc4-e6,Queens Gambit Accepted Janowski Larsen Variation,chess.com
+750,Colle-System-3...g6,Colle System,chess.com
+751,English-Opening-Kings-English-Variation...5.e3-d6-6.Nge2-Ba7-7.d4,English Opening Kings English Variation...,chess.com
+752,Caro-Kann-Defense...3.d3-dxe4-4.dxe4-Qxd1-5.Kxd1,Caro Kann Defense...,chess.com
+753,Queens-Gambit-Accepted...6.Bxc4-e6-7.O-O-Be7,Queens Gambit Accepted...,chess.com
+754,Caro-Kann-Defense-2.Nf3-d5-3.d3,Caro Kann Defense,chess.com
+755,Caro-Kann-Defense-Breyer-Variation...3.Nd2-g6-4.Ngf3-Bg7-5.g3,Caro Kann Defense Breyer Variation...,chess.com
+756,Lion-Defense-Anti-Philidor-Lions-Cave-Variation-5.Nf3-exd4-6.Qxd4-c6-7.Be3,Lion Defense Anti Philidor Lions Cave Variation,chess.com
+757,Slav-Defense-Modern-Chameleon-Variation-5.e3-Bf5-6.Qb3-Ra7,Slav Defense Modern Chameleon Variation,chess.com
+758,Kings-Indian-Defense-Samisch-Steiner-Attack...10.a4-h6-11.Be3-Re8-12.Nge2,Kings Indian Defense Samisch Steiner Attack...,chess.com
+759,Queens-Gambit-Declined-Exchange-Positional-Line...6.Nf3-Be7-7.e3-O-O-8.Bd3,Queens Gambit Declined Exchange Positional Line...,chess.com
+760,Kings-Indian-Defense-Petrosian-Variation-Main-Line-8.Qc2,Kings Indian Defense Petrosian Variation Main Line,chess.com
+761,Caro-Kann-Defense-Advance-Short-Variation-with-4-Nf3...e6-5.Be2-Nd7-6.O-O,Caro Kann Defense Advance Short Variation with 4 Nf,chess.com
+762,Reti-Opening-Kings-Indian-Attack-Symmetrical-Defense...4.Bb2-O-O-5.Bg2-d5-6.O-O,Reti Opening Kings Indian Attack Symmetrical Defense...,chess.com
+763,Kings-Indian-Attack...3.Bg2-Bf5-4.O-O-e6-5.d3,Kings Indian Attack...,chess.com
+764,Kings-Indian-Defense-3.g3-c5,Kings Indian Defense,chess.com
+765,Indian-Game-Marienbad-System,Indian Game Marienbad System,chess.com
+766,Catalan-Opening-Closed...5.Nf3-a6-6.O-O-b5,Catalan Opening Closed...,chess.com
+767,Sicilian-Defense-Canal-Attack...5.Qe2-a6-6.Ba4-b5-7.Bc2,Sicilian Defense Canal Attack...,chess.com
+768,French-Defense-Rubinstein-Fort-Knox-Variation-6.Bd3-Nd7-7.c3-Ngf6,French Defense Rubinstein Fort Knox Variation,chess.com
+769,Petrovs-Defense-Classical-Variation-3...d6,Petrovs Defense Classical Variation,chess.com
+770,French-Defense-Rubinstein-Blackburne-Defense-5.Nf3-Ngf6-6.Nxf6-Nxf6,French Defense Rubinstein Blackburne Defense,chess.com
+771,Four-Knights-Game-4.Be2-d5-5.exd5-Nxd5,Four Knights Game,chess.com
+772,Petrovs-Defense-3.d3-Nc6,Petrovs Defense,chess.com
+773,Tarrasch-Defense-Symmetrical-Variation...7.Bxc4-a6-8.O-O-b5,Tarrasch Defense Symmetrical Variation...,chess.com
+774,Semi-Slav-Defense...6.Bg2-Bd6-7.O-O-O-O,Semi Slav Defense...,chess.com
+775,Kings-Indian-Attack-Double-Fianchetto-Pachman-System-6.c4,Kings Indian Attack Double Fianchetto Pachman System,chess.com
+776,Kings-Indian-Defense-Semi-Averbakh-System...7.d5-Na6-8.g4-Nc5-9.f3,Kings Indian Defense Semi Averbakh System...,chess.com
+777,Caro-Kann-Defense-Tartakower-Variation...10.O-O-h4-11.h3-Nd7,Caro Kann Defense Tartakower Variation...,chess.com
+778,Alekhines-Defense,Alekhines Defense,chess.com
+779,Slav-Defense-3.Nc3-dxc4-4.a4-e5,Slav Defense,chess.com
+780,English-Opening-Anglo-Indian-Kings-Indian-Defense...7.O-O-Nbd7-8.d4-Ne4,English Opening Anglo Indian Kings Indian Defense...,chess.com
+781,Ruy-Lopez-Opening-Berlin-Improved-Steinitz-Defense...6.c3-Be7-7.d4-O-O,Ruy Lopez Opening Berlin Improved Steinitz Defense...,chess.com
+782,Old-Indian-Defense-3.Nf3-Nbd7-4.g3-e5-5.Bg2,Old Indian Defense,chess.com
+783,French-Defense-Tarrasch-Open-Delayed-Exchange-Main-Line...8.dxc5-Bxc5-9.Nb3-Bb6,French Defense Tarrasch Open Delayed Exchange Main Line...,chess.com
+784,Kings-Indian-Defense-Averbakh-Geller-Defense-7.Qd2-e5-8.d5,Kings Indian Defense Averbakh Geller Defense,chess.com
+785,Sicilian-Defense-Open-Najdorf-Variation...9.O-O-O-b5-10.a3-Bb7-11.g4,Sicilian Defense Open Najdorf Variation...,chess.com
+786,English-Opening-Fianchetto-Ultra-Symmetrical-Line-5.Nf3-Nf6-6.d4-cxd4-7.Nxd4,English Opening Fianchetto Ultra Symmetrical Line,chess.com
+787,Kings-Indian-Defense-Averbakh-Variation,Kings Indian Defense Averbakh Variation,chess.com
+788,Benoni-Defense-Modern-Fianchetto-Variation...9.O-O-Re8-10.Bf4-Na6,Benoni Defense Modern Fianchetto Variation...,chess.com
+789,Kings-Indian-Defense-Averbakh-Variation-6...c6-7.Qd2,Kings Indian Defense Averbakh Variation,chess.com
+790,Benko-Gambit-Fully-Accepted-Fianchetto-Attack...10.O-O-Nbd7-11.Qc2-Qa5-12.Rd1,Benko Gambit Fully Accepted Fianchetto Attack...,chess.com
+791,Sicilian-Defense-Open-Najdorf-Variation-6.Bg5-Nbd7-7.f4-Qc7,Sicilian Defense Open Najdorf Variation,chess.com
+792,Kings-Indian-Defense...7.O-O-Na6-8.Nc3-Nc7-9.e4,Kings Indian Defense...,chess.com
+793,Sicilian-Defense-Kan-Modern-Polugaevsky-Variation-6.Nb3-Be7-7.O-O-d6-8.c4,Sicilian Defense Kan Modern Polugaevsky Variation,chess.com
+794,Caro-Kann-Defense-Advance-Tal-Variation...6.Qxd3-e6-7.Bg5-Qa5-8.Nd2,Caro Kann Defense Advance Tal Variation...,chess.com
+795,Vienna-Game-Max-Lange-Paulsen-Variation-3...Bc5-4.Bg2,Vienna Game Max Lange Paulsen Variation,chess.com
+796,Caro-Kann-Defense-Advance-Tal-Variation...5.Bd3-Bxd3-6.Qxd3-Qa5,Caro Kann Defense Advance Tal Variation...,chess.com
+797,Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-Nc6-3.e3-d5-4.Bb5,Nimzowitsch Larsen Attack Modern Variation,chess.com
+798,Queens-Gambit-Accepted-Classical-Rubinstein-Variation...8.exd4-Nc6-9.Nc3-Be7-10.Re1,Queens Gambit Accepted Classical Rubinstein Variation...,chess.com
+799,English-Opening-Symmetrical-Anti-Benoni-Variation...6.cxd5-Qxd5-7.Qxd5-Nxd5,English Opening Symmetrical Anti Benoni Variation...,chess.com
+800,Queens-Indian-Defense-Kasparov-Variation-Petrosian-Variation...6.Nxe4-Bxe4-7.Nd2-Bb7-8.e4,Queens Indian Defense Kasparov Variation Petrosian Variation...,chess.com
+801,Trompowsky-Attack...3.Bf4-c5-4.d5-Qb6-5.Bc1,Trompowsky Attack...,chess.com
+802,Nimzo-Indian-Defense-Keres-Variation,Nimzo Indian Defense Keres Variation,chess.com
+803,Indian-Game-Yusupov-Rubinstein-System...5.O-O-d5-6.b3-Nbd7-7.Bb2,Indian Game Yusupov Rubinstein System...,chess.com
+804,Giuoco-Piano-Game...7.Bb3-Ba7-8.h3-h6,Giuoco Piano Game...,chess.com
+805,Indian-Game-Spielmann-Indian-Variation-3.e3-g6-4.dxc5,Indian Game Spielmann Indian Variation,chess.com
+806,French-Defense-Rubinstein-Fort-Knox-Variation-6.Bd3-Nd7-7.O-O-Ngf6-8.Ng3,French Defense Rubinstein Fort Knox Variation,chess.com
+807,Kings-Indian-Defense-Averbakh-Benoni-Advance-Main-Line-8.Qd2-exd5-9.exd5-Qb6,Kings Indian Defense Averbakh Benoni Advance Main Line,chess.com
+808,English-Opening-Fianchetto-Ultra-Symmetrical-Line-5.Nf3-d6-6.O-O-Nh6,English Opening Fianchetto Ultra Symmetrical Line,chess.com
+809,Alapin-Sicilian-Defense-2...d5-3.exd5-Nf6,Alapin Sicilian Defense,chess.com
+810,English-Opening-Fianchetto-Ultra-Symmetrical-Line...7.e3-Nge7-8.d4-O-O,English Opening Fianchetto Ultra Symmetrical Line...,chess.com
+811,English-Opening-Caro-Kann-Defensive-System...6.Qc2-Nb6-7.a4-a5-8.Na3,English Opening Caro Kann Defensive System...,chess.com
+812,Reti-Opening-Kings-Indian-Attack-Symmetrical-Defense-3.Bg2-Bg7-4.O-O-O-O,Reti Opening Kings Indian Attack Symmetrical Defense,chess.com
+813,Queens-Gambit-Declined-Exchange-Variation...5.Nf3-c6-6.Qc2-Bd6-7.Bg5,Queens Gambit Declined Exchange Variation...,chess.com
+814,Semi-Slav-Defense-Main-Line-Stoltz-Center-Variation...9.Qxe4-Bb4-10.Bd2-Bxd2-11.Nxd2,Semi Slav Defense Main Line Stoltz Center Variation...,chess.com
+815,Queens-Pawn-Opening-Pseudo-Catalan-Variation...5.O-O-e6-6.c4-Nbd7-7.b3,Queens Pawn Opening Pseudo Catalan Variation...,chess.com
+816,Caro-Kann-Defense-Exchange-Variation-3...cxd5-4.Bd3-Nc6-5.c3,Caro Kann Defense Exchange Variation,chess.com
+817,Slav-Defense-Exchange-Variation...8.Nge2-e6-9.O-O-Be7,Slav Defense Exchange Variation...,chess.com
+818,Slav-Defense-Modern-Quiet-Pin-Defense-5.Nbd2-e6,Slav Defense Modern Quiet Pin Defense,chess.com
