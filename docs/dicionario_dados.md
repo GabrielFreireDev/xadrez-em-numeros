@@ -105,23 +105,18 @@ Tabela fato **granular**, no nível de **uma linha por partida**, contendo infor
 > Atualmente, a tabela contém partidas apenas do enxadrista `lpsupi`,  
 > mas foi modelada para suportar partidas de qualquer enxadrista futuramente.
 
-| Coluna | Tipo | Descrição |
-|------|------|-----------|
-| partida_url | string | URL única da partida no Chess.com |
-| data | date | Data de término da partida |
-| rated | boolean | Indica se a partida foi ranqueada |
-| precisao_brancas | float | Acurácia das peças brancas (%) |
-| precisao_pretas | float | Acurácia das peças pretas (%) |
-| modalidade | string | Modalidade da partida (blitz, rapid, bullet etc.) |
-| regras | string | Tipo de regra aplicada (ex: chess) |
-| rating_brancas | integer | Rating das brancas no momento da partida |
-| resultado_brancas | string | Resultado das brancas (PT-BR) |
-| brancas_username | string | Username das brancas (minúsculo) |
-| brancas_@id | string | Identificador da API Chess.com (brancas) |
-| rating_pretas | integer | Rating das pretas no momento da partida |
-| resultado_pretas | string | Resultado das pretas (PT-BR) |
-| pretas_username | string | Username das pretas (minúsculo) |
-| pretas_@id | string | Identificador da API Chess.com (pretas) |
+| Coluna | Descrição |
+|--------|-----------|
+| partida_url | URL única da partida no Chess.com |
+| data | Data de término da partida |
+| rated | Indica se a partida foi ranqueada |
+| precisao | Acurácia do enxadrista |
+| modalidade | Modalidade da partida (blitz, rapid, bullet etc.) |
+| regras | Tipo de regra aplicada (ex: chess) |
+| rating | Rating no momento da partida |
+| resultado | Resultado da partida (PT-BR) |
+| username | Username do enxadrista (minúsculo) |
+| player_api_id | Identificador da API Chess.com |
 | eco_id | integer | Chave estrangeira para `dim_ECO_aberturas` |
 | origem | string | Origem dos dados (`chess.com`) |
 
