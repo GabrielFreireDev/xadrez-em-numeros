@@ -13,7 +13,7 @@ load_dotenv()
 DATA_PROCESSED_PATH = os.getenv("DATA_PROCESSED_PATH")
 DATA_ANALYTICS_PATH = os.getenv("DATA_ANALYTICS_PATH")
 
-CAMINHO_DIM_PAIS = f"{DATA_PROCESSED_PATH}/dimensoes_auxiliares/dim_pais.csv"
+CAMINHO_DIM_PAIS = f"{DATA_PROCESSED_PATH}/dimensoes_auxiliares/dim_pais_ptbr.csv"
 
 # =========================================================
 # Logging
@@ -64,7 +64,7 @@ def main():
     # -----------------------------------------------------
 
     df_merge = df_enxadrista.merge(
-        df_pais[["pais_id", "continente", "bandeira_url"]],
+        df_pais[["pais_id", "continente", "bandeira_url", "nome_pais"]],
         how="left",
         left_on="pais",
         right_on="pais_id"
@@ -96,6 +96,7 @@ def main():
         "nome",
         "titulo",
         "pais",
+        "nome_pais",
         "continente",
         "bandeira_url",
         "avatar",
