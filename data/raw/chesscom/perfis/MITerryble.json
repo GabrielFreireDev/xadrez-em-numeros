@@ -5,9 +5,9 @@
   "name": "Renato Terry",
   "username": "miterryble",
   "title": "IM",
-  "followers": 5748,
+  "followers": 5750,
   "country": "https://api.chess.com/pub/country/XX",
-  "last_online": 1768947893,
+  "last_online": 1769123422,
   "joined": 1424880590,
   "status": "premium",
   "is_streamer": true,
@@ -18,10 +18,6 @@
     {
       "type": "twitch",
       "channel_url": "https://twitch.tv/miterryble"
-    },
-    {
-      "type": "youtube",
-      "channel_url": "https://youtube.com/@renatoterrylujan"
     }
   ]
 }
