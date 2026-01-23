@@ -93,7 +93,7 @@ def main():
                 "avatar": dados.get("avatar"),
                 "url": dados.get("url"),
                 "seguidores": dados.get("followers"),
-                "pais": dados.get("country").split("/")[-1] if dados.get("country") else None,
+                "pais": dados.get("country").split("/")[-1] if dados.get("country") else "N/I",
                 "data_entrada": (
                     datetime.fromtimestamp(dados["joined"], tz=timezone.utc)
                     .strftime("%Y-%m-%d")
