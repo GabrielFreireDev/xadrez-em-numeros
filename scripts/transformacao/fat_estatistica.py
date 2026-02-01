@@ -65,7 +65,7 @@ def processar_modalidade(
         "modalidade": modalidade,
         "data_referencia": data_ref,
         "rating_atual": bloco["last"].get("rating"),
-        "rating_melhor": best.get("rating") if best else None,
+        "rating_melhor": int(best.get("rating")) if best else None,
         "data_rating_melhor": (
             datetime.fromtimestamp(best["date"]).date()
             if best and best.get("date")
@@ -124,6 +124,10 @@ def main():
         return
 
     df = pd.DataFrame(registros)
+
+    df["rating_melhor"] = (
+        df["rating_melhor"].astype("Int64")  # inteiro nativo com suporte a null
+    )
 
     caminho_saida = os.path.join(DATA_ANALYTICS_PATH, "fat_estatistica.csv")
     df.to_csv(caminho_saida, index=False, encoding="utf-8")
