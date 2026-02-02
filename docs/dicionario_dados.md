@@ -100,7 +100,7 @@ Tabela fato de **snapshot**, representando a classificação geral dos enxadrist
 
 ### ♟️📊 fat_partidas_mensais
 
-Tabela fato **granular**, no nível de **uma linha por partida**, contendo informações detalhadas das partidas jogadas.
+Tabela fato **granular**, no nível de **uma linha por partida** para cada enxadrista, contendo informações detalhadas das partidas jogadas.
 
 > Atualmente, a tabela contém partidas apenas do enxadrista `lpsupi`,  
 > mas foi modelada para suportar partidas de qualquer enxadrista futuramente.
@@ -128,3 +128,4 @@ Tabela fato **granular**, no nível de **uma linha por partida**, contendo infor
 - Todos os cálculos analíticos são realizados no Power BI.
 - O modelo prioriza clareza, escalabilidade e valor demonstrativo para portfólio.
 - Algumas entidades (como adversários das partidas) podem não existir nas dimensões.
+- Algumas colunas foram criadas pelo Power BI e podem não estar aqui presentes.
